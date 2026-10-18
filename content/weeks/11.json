@@ -1,0 +1,48 @@
+{
+  "w": 11,
+  "title": "Plus-que-parfait and reported speech",
+  "level": "B1",
+  "objective": "Put one past event before another; report what people said. Writing extends to 180 words.",
+  "tasks": [
+    "📌 REGISTER the day the 2027 calendar opens — seats go fast, no refunds",
+    "Confirm the refund/transfer policy BEFORE paying; confirm it is TCF *Canada*",
+    "Writing up to 180 words · 3 marked pieces"
+  ],
+  "resources": ["innerfrench", "rfi", "fei"],
+  "steps": [
+    { "kind": "chunk", "title": "Plus-que-parfait = the past before the past",
+      "body": "**Imparfait of avoir/être + participle**: *j'**avais** fini* · *elle **était** partie*.\n*Quand je suis arrivé, le patient **était** déjà **parti**.* (he left before I arrived)" },
+    { "kind": "drill", "title": "Which came first?", "items": [
+      { "type": "mcq", "q": "Quand l'ambulance est arrivée, on ___ déjà ___ le patient.", "options": ["avait … stabilisé", "a … stabilisé"], "answer": 0 },
+      { "type": "mcq", "q": "Il était fatigué parce qu'il ___ la nuit précédente.", "options": ["n'avait pas dormi", "n'a pas dormi", "ne dormait pas"], "answer": 0 },
+      { "type": "mcq", "q": "Je n'ai pas reconnu Paul : il ___ beaucoup ___ .", "options": ["avait … changé", "a … changé"], "answer": 0 }
+    ] },
+    { "kind": "chunk", "title": "Reported speech",
+      "body": "*Il a dit **que** …* · *Il m'a demandé **si** …* · *Il m'a dit **de** + infinitive* (orders)\n*\"Je suis fatigué.\"* → *Il a dit qu'il **était** fatigué.*\n*\"Vous venez ?\"* → *Il m'a demandé si je **venais**.*\n*\"Asseyez-vous.\"* → *Il m'a dit **de** m'asseoir.*" },
+    { "kind": "chunk", "title": "The shifts",
+      "body": "present → **imparfait** · passé composé → **plus-que-parfait** · futur → **conditionnel**\n*demain* → **le lendemain** · *hier* → **la veille** · *aujourd'hui* → **ce jour-là**\nAnd pronouns: *je* → *il/elle*." },
+    { "kind": "drill", "title": "Report it", "items": [
+      { "type": "produce", "q": "*« J'ai perdu mon passeport. »* → Elle a dit que…", "model": "Elle a dit qu'elle **avait perdu** son passeport." },
+      { "type": "produce", "q": "*« Est-ce que le bureau est ouvert ? »* → Il a demandé si…", "model": "Il a demandé si le bureau **était** ouvert." },
+      { "type": "produce", "q": "*« Je viendrai demain. »* → Il a dit que…", "model": "Il a dit qu'il **viendrait le lendemain**." },
+      { "type": "produce", "q": "*« Remplissez ce formulaire. »* → L'agent m'a dit…", "model": "L'agent m'a dit **de remplir** ce formulaire." }
+    ] },
+    { "kind": "explain", "prompt": "What happens to *demain* and to a future tense when you report speech in the past?",
+      "model": "*demain* → *le lendemain*; future → conditional (*il viendra* → *il a dit qu'il viendrait*)." },
+    { "kind": "produce", "mode": "write", "title": "Tâche 2 style — 150–180 words",
+      "task": "Tell a friend's story: a problem with an administration (lost document, appointment refused…). Use PC/imparfait, **one plus-que-parfait**, and **three reported-speech sentences**. End with your opinion + one reason.",
+      "prompt": "Racontez une mauvaise expérience avec une administration et donnez votre avis (150–180 mots).",
+      "min": 150, "max": 180 },
+    { "kind": "recap", "points": [
+      "PQP = imparfait of avoir/être + participle — the earlier past",
+      "Reported: dit que / demandé si / dit de + inf",
+      "present→imparfait · PC→PQP · futur→conditionnel · demain→le lendemain",
+      "Register the day the calendar opens"
+    ] },
+    { "kind": "spiral", "title": "Weeks 8–10", "items": [
+      { "type": "mcq", "q": "Il y a peu de lits, ___ les patients attendent.", "options": ["c'est pourquoi", "alors que"], "answer": 0 },
+      { "type": "mcq", "q": "Pourriez-vous me ___ l'adresse ?", "options": ["donner", "donnez"], "answer": 0 },
+      { "type": "mcq", "q": "Je vais ___ Canada en 2027.", "options": ["au", "en", "à"], "answer": 0, "trap": "pays" }
+    ] }
+  ]
+}

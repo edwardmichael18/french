@@ -1,0 +1,51 @@
+{
+  "w": 9,
+  "title": "Conditional · GATE 2",
+  "level": "B1",
+  "gate": 2,
+  "objective": "Politeness for speaking task 2, then si-hypotheticals. Gate 2 on Friday — and the money decision point.",
+  "tasks": [
+    "InnerFrench with transcript (podcast apps / YouTube)",
+    "Monday 16 Nov: MONEY DECISION — fee fund < ₦400k or no contract income → March/April sitting",
+    "Take Gate 2"
+  ],
+  "resources": ["innerfrench", "rfi", "italki"],
+  "steps": [
+    { "kind": "chunk", "title": "Cheap if the future is solid",
+      "body": "Conditional = **futur stem + imparfait endings**.\n*je **ser**ais · j'**aur**ais · je **pourr**ais · je **voudr**ais · il **faudr**ait*" },
+    { "kind": "chunk", "title": "Politeness first — immediately usable in task 2",
+      "body": "*Je **voudrais** …* · ***Pourriez**-vous …?* · *Serait-il possible de …?* · ***Auriez**-vous la possibilité de …?* · *Ça vous **dérangerait** de …?*\nIn the role-play you must obtain or negotiate something. These are your tools." },
+    { "kind": "check", "type": "mcq", "q": "Most polite way to ask the clerk to send the form by email:", "options": ["Pourriez-vous m'envoyer le formulaire par courriel ?", "Envoyez-moi le formulaire par courriel.", "Vous envoyez le formulaire ?"], "answer": 0 },
+    { "kind": "chunk", "title": "si + imparfait → conditionnel",
+      "body": "*Si j'**avais** le temps, je **ferais** du sport.*\n*Si on **investissait** plus, l'hôpital **serait** plus efficace.*\n**Never a conditional or future directly after si.** *Si j'aurais…* marks you as a beginner faster than almost anything else." },
+    { "kind": "drill", "title": "Hypotheticals", "items": [
+      { "type": "mcq", "q": "Si j'___ riche, j'ouvrirais une clinique.", "options": ["étais", "serais", "suis"], "answer": 0, "trap": "si" },
+      { "type": "mcq", "q": "Si tu venais à Lagos, on ___ au restaurant.", "options": ["irait", "allait", "ira"], "answer": 0, "trap": "si" },
+      { "type": "gap", "q": "Si nous ___ (avoir) plus de médecins, les délais seraient plus courts.", "answer": ["avions"], "trap": "si" },
+      { "type": "mcq", "q": "S'il pleut demain, je ___ .", "options": ["resterai à la maison", "resterais à la maison"], "answer": 0, "explain": "Real condition: si + **present** → future. (Note the elision: *si il* → **s'il**.)", "trap": "si" }
+    ] },
+    { "kind": "explain", "prompt": "Explain the si-rule in your own words and give one example about your own life.",
+      "model": "After *si* use the present (real condition → future) or the imparfait (hypothetical → conditional). Never the conditional or future after *si*. *Si j'avais NCLC 7, je pourrais demander la résidence permanente.*" },
+    { "kind": "produce", "mode": "speak", "title": "Role-play (task 2 style) — 2 minutes",
+      "task": "You call a language centre. You want to register for the TCF Canada, ask about dates, the price, and whether you can change the date later. Use at least four polite conditionals.",
+      "prompt": "Vous appelez un centre d'examen pour vous inscrire au TCF Canada.",
+      "model": "Bonjour madame, **je voudrais** m'inscrire au TCF Canada. **Pourriez-vous** me dire quelles sont les dates en février ? … Et combien coûte l'inscription ? … **Serait-il possible de** changer de date si j'ai un empêchement ? … D'accord. **Auriez-vous** la gentillesse de m'envoyer les informations par courriel ? Merci beaucoup.",
+      "seconds": 120 },
+    { "kind": "produce", "mode": "speak", "title": "Gate 2 rehearsal: 3-minute prepared speech",
+      "task": "Prepared (notes allowed while preparing, not while speaking): *Si vous pouviez changer une chose dans votre système de santé, que feriez-vous ?* Speak for 3 minutes.",
+      "prompt": "Si vous pouviez changer une chose dans le système de santé, que feriez-vous ?",
+      "seconds": 180 },
+    { "kind": "recap", "points": [
+      "Conditional = future stem + imparfait endings",
+      "Politeness: voudrais, pourriez-vous, serait-il possible de, auriez-vous",
+      "si + present → future · si + imparfait → conditionnel",
+      "NEVER conditional/future after si",
+      "Gate 2 + money decision this week"
+    ] },
+    { "kind": "spiral", "title": "Weeks 6–8", "items": [
+      { "type": "mcq", "q": "C'est le collègue ___ je t'ai parlé.", "options": ["dont", "que"], "answer": 0 },
+      { "type": "mcq", "q": "Je ne pense pas qu'il ___ venir.", "options": ["puisse", "peut"], "answer": 0 },
+      { "type": "mcq", "q": "Je travaille au Nigeria ___ 2019.", "options": ["depuis", "pendant", "il y a"], "answer": 0, "trap": "depuis" }
+    ] }
+  ]
+}

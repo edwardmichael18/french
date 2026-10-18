@@ -1,0 +1,52 @@
+{
+  "w": 8,
+  "title": "Relative pronouns, and the sentence-length problem",
+  "level": "B1",
+  "objective": "At B1, marks come from subordination more than vocabulary. Join sentences; start opinion language.",
+  "tasks": [
+    "Sentence combining: 20 a day (mechanical, boring, highest-return writing drill)",
+    "Reading: 1jour1actu → RFI exercises (B1 filter)",
+    "3 marked pieces · tutor 5×/week"
+  ],
+  "resources": ["rfi", "1jour1actu", "lepointdufle"],
+  "steps": [
+    { "kind": "chunk", "title": "This is a scoring mechanism, not a grammar point",
+      "body": "*Je pense que c'est bien. C'est important. Les gens aiment ça.*\n*Ce que je trouve important, c'est que les gens puissent choisir, même si ça coûte plus cher.*\nIdentical vocabulary. **Different scores.**" },
+    { "kind": "chunk", "title": "qui · que · où · dont",
+      "body": "**qui** = subject: *le médecin **qui** travaille ici*\n**que** = object: *le médecin **que** je connais*\n**où** = place AND time: *la ville **où** j'habite* · *le jour **où** je suis arrivé*\n**dont** = replaces *de*: *le livre **dont** je parle* (parler **de**)" },
+    { "kind": "drill", "title": "Choose the pronoun", "items": [
+      { "type": "mcq", "q": "C'est le patient ___ a appelé.", "options": ["qui", "que", "dont"], "answer": 0 },
+      { "type": "mcq", "q": "C'est le patient ___ j'ai examiné.", "options": ["que", "qui", "où"], "answer": 0 },
+      { "type": "mcq", "q": "C'est l'hôpital ___ je travaille.", "options": ["où", "que", "dont"], "answer": 0 },
+      { "type": "mcq", "q": "C'est le problème ___ tout le monde parle.", "options": ["dont", "que", "qui"], "answer": 0, "explain": "parler **de** → dont." },
+      { "type": "mcq", "q": "Je me souviens du jour ___ j'ai eu mon diplôme.", "options": ["où", "que", "quand"], "answer": 0, "explain": "**où** for time after a noun (*le jour où*)." }
+    ] },
+    { "kind": "chunk", "title": "ce qui / ce que = \"what\" as a thing",
+      "body": "*Ce **qui** me plaît, c'est le contact avec les patients.* (subject)\n*Ce **que** je trouve difficile, c'est la nuit.* (object)\nThe mise-en-relief frame — *Ce qui/que …, c'est …* — is an instant B1+ signal." },
+    { "kind": "check", "type": "mcq", "q": "\"What worries me is the cost.\"", "options": ["Ce qui m'inquiète, c'est le coût.", "Ce que m'inquiète, c'est le coût."], "answer": 0 },
+    { "kind": "drill", "title": "Sentence combining", "items": [
+      { "type": "produce", "q": "Join: *J'ai un collègue. Il parle cinq langues.*", "model": "J'ai un collègue **qui** parle cinq langues." },
+      { "type": "produce", "q": "Join: *C'est une application. Je l'utilise tous les jours.*", "model": "C'est une application **que** j'utilise tous les jours." },
+      { "type": "produce", "q": "Join: *Lagos est une ville. J'y ai grandi.*", "model": "Lagos est la ville **où** j'ai grandi." },
+      { "type": "produce", "q": "Join: *C'est un projet. J'ai besoin de ce projet.*", "model": "C'est un projet **dont** j'ai besoin." },
+      { "type": "produce", "q": "Rewrite with *Ce que … c'est …*: *J'aime le calme de la nuit.*", "model": "**Ce que** j'aime, **c'est** le calme de la nuit." }
+    ] },
+    { "kind": "chunk", "title": "Opinion language starts",
+      "body": "*À mon avis, …* · *Selon moi, …* · *Je trouve que …* · *J'estime que …* · *Ce qui me paraît important, c'est …*\n(*Je pense que* + indicative; *je ne pense pas que* + subjunctive — week 7.)" },
+    { "kind": "produce", "mode": "write", "title": "Opinion paragraph — 120 words",
+      "task": "Topic: *Faut-il interdire le téléphone portable à l'école ?* Use at least 4 relative pronouns (qui/que/où/dont), one *ce qui/ce que … c'est*, two opinion phrases.",
+      "prompt": "Faut-il interdire le téléphone portable à l'école ? Donnez votre avis (≈120 mots).",
+      "min": 100, "max": 140 },
+    { "kind": "recap", "points": [
+      "Subordination moves your score more than vocabulary",
+      "qui (subject) · que (object) · où (place + time) · dont (de …)",
+      "Ce qui / ce que …, c'est … — instant B1+",
+      "20 combinations a day"
+    ] },
+    { "kind": "spiral", "title": "Weeks 5–7", "items": [
+      { "type": "mcq", "q": "Il faut que vous ___ ce formulaire.", "options": ["remplissiez", "remplissez"], "answer": 0 },
+      { "type": "mcq", "q": "*éventuellement* means…", "options": ["possibly", "eventually"], "answer": 0, "trap": "fauxamis" },
+      { "type": "mcq", "q": "Tu as des questions ? — Oui, j'___ ai deux.", "options": ["en", "y", "les"], "answer": 0 }
+    ] }
+  ]
+}

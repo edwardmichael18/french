@@ -1,0 +1,240 @@
+{
+ "id": "gate2",
+ "kind": "gate",
+ "gate": 2,
+ "title": "Gate 2 — end of week 9 (16 Nov)",
+ "timed": true,
+ "intro": "Pass: **InnerFrench at 1.0× with transcript · ~2,000 words · 120 words in 20 min · 3 min prepared speech.** If missed it's almost always listening volume — add an hour daily for two weeks before changing anything else. ⚠️ Same day: **money decision point**.",
+ "sections": [
+  {
+   "id": "co",
+   "type": "mcq",
+   "title": "Listening check (B1)",
+   "minutes": 15,
+   "playLimit": 2,
+   "items": [
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Que pense la personne du télétravail ?",
+     "options": [
+      "Elle n'a jamais essayé",
+      "Il a des avantages et des inconvénients",
+      "Elle veut revenir au bureau tout de suite",
+      "C'est entièrement positif"
+     ],
+     "answer": 1,
+     "say": "Depuis que je travaille de chez moi, je gagne presque deux heures par jour. Par contre, mes collègues me manquent et j'ai parfois du mal à m'arrêter le soir.",
+     "rate": 0.95,
+     "explain": "Advantage (*je gagne deux heures*) + *Par contre* + disadvantages (colleagues, stopping at night) = both sides."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Qu'est-ce qui change ?",
+     "options": [
+      "Le type de déchets acceptés",
+      "Le prix de la collecte",
+      "Les horaires de la mairie",
+      "Le jour de collecte du recyclage"
+     ],
+     "answer": 3,
+     "say": "La mairie informe les habitants que la collecte des déchets recyclables passera désormais le mardi au lieu du jeudi.",
+     "rate": 0.95,
+     "explain": "*Désormais le mardi au lieu du jeudi* — the recycling collection day changes."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Quelle est la situation ?",
+     "options": [
+      "Le cours du samedi est complet aussi",
+      "Le cours voulu est plein ; on lui propose deux solutions",
+      "Le cours est annulé",
+      "Elle a été acceptée au cours du soir"
+     ],
+     "answer": 1,
+     "say": "Je voulais m'inscrire au cours de français du soir, mais il était complet. On m'a proposé une liste d'attente ou le cours du samedi matin.",
+     "rate": 0.95,
+     "explain": "*Complet* = full; *liste d'attente ou samedi* = two alternatives. She was not accepted into the evening class."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Que montre l'enquête ?",
+     "options": [
+      "Les prix de l'alimentation ont augmenté",
+      "La majorité des Canadiens mangent plus attentivement qu'avant",
+      "Les Canadiens mangent moins qu'il y a cinq ans",
+      "Trois Canadiens sur dix mangent mal"
+     ],
+     "answer": 1,
+     "say": "Selon une enquête récente, sept Canadiens sur dix disent faire plus attention à leur alimentation qu'il y a cinq ans.",
+     "rate": 0.95,
+     "explain": "*Sept sur dix* = a majority; *faire plus attention à leur alimentation* = eat more carefully."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Que demande la personne ?",
+     "options": [
+      "Une réduction du loyer",
+      "Le numéro du propriétaire",
+      "Des informations sur les charges et une visite",
+      "La date de fin du bail"
+     ],
+     "answer": 2,
+     "say": "Bonjour, je vous appelle au sujet de l'appartement. Est-ce que les charges sont comprises dans le loyer, et est-ce qu'on peut le visiter cette semaine ?",
+     "rate": 0.95,
+     "explain": "Two questions: are the *charges* included, and can they *visiter* this week."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Quelle condition faut-il respecter ?",
+     "options": [
+      "Réserver en ligne",
+      "Venir avant 10 h",
+      "Être étudiant",
+      "Payer à l'entrée"
+     ],
+     "answer": 0,
+     "say": "Le musée sera exceptionnellement gratuit le premier dimanche du mois, mais il faudra réserver son billet en ligne.",
+     "rate": 0.95,
+     "explain": "*Mais il faudra réserver son billet en ligne* — the condition follows *mais*."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Comment la situation s'est-elle réglée ?",
+     "options": [
+      "Le fils a arrêté",
+      "Par un compromis",
+      "Le professeur a changé",
+      "La mère a imposé sa décision"
+     ],
+     "answer": 1,
+     "say": "Mon fils voulait arrêter le piano. Finalement, on a trouvé un compromis : il continue, mais il choisit les morceaux qu'il joue.",
+     "rate": 0.95,
+     "explain": "*Finalement, on a trouvé un compromis* — he continues but chooses his pieces."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Que ne faut-il pas faire ?",
+     "options": [
+      "Rester sur place",
+      "Déplacer les blessés",
+      "Attendre les secours",
+      "Appeler le 911"
+     ],
+     "answer": 1,
+     "say": "Si vous êtes témoin d'un accident, appelez le 911, ne déplacez pas les blessés et restez sur place jusqu'à l'arrivée des secours.",
+     "rate": 0.95,
+     "explain": "*Ne déplacez pas les blessés* — the only negative instruction."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Pourquoi continue-t-il le bénévolat ?",
+     "options": [
+      "Pour l'ambiance",
+      "Parce que c'est payé",
+      "Parce que c'est obligatoire",
+      "Pour son CV"
+     ],
+     "answer": 0,
+     "say": "J'ai commencé à faire du bénévolat à la banque alimentaire l'an dernier. Au début, c'était pour mon CV, mais maintenant j'y vais surtout pour l'ambiance.",
+     "rate": 0.95,
+     "explain": "*Au début, c'était pour mon CV, mais maintenant… surtout pour l'ambiance.* The question asks why he **continues**."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Quelle est la règle ?",
+     "options": [
+      "Attendre six semaines après le dépôt",
+      "Déposer la demande après le départ",
+      "Déposer la demande six semaines à l'avance au minimum",
+      "Déposer la demande en personne"
+     ],
+     "answer": 2,
+     "say": "Nous vous rappelons que les demandes de permis doivent être déposées au moins six semaines avant la date de départ.",
+     "rate": 0.95,
+     "explain": "*Au moins six semaines avant* = at least six weeks in advance."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Qu'est-ce qui plaît au locuteur ?",
+     "options": [
+      "Tout est accessible à pied",
+      "Les loyers sont bas",
+      "Il y a beaucoup de parkings",
+      "Le quartier est calme"
+     ],
+     "answer": 0,
+     "say": "Ce qui me plaît dans mon nouveau quartier, c'est qu'on peut tout faire à pied : l'école, les commerces, le parc.",
+     "rate": 0.95,
+     "explain": "*On peut tout faire à pied.*"
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Comment le client se sentait-il ?",
+     "options": [
+      "Triste",
+      "Très content",
+      "Indifférent",
+      "Un peu énervé"
+     ],
+     "answer": 3,
+     "say": "Je suis allé au service à la clientèle pour me plaindre, mais on m'a répondu qu'il fallait écrire un courriel. J'étais un peu agacé.",
+     "rate": 0.95,
+     "explain": "*J'étais un peu agacé* = a bit annoyed."
+    }
+   ]
+  },
+  {
+   "id": "ee",
+   "type": "writing",
+   "title": "120 words in 20 minutes",
+   "minutes": 20,
+   "tasks": [
+    {
+     "id": "EE2",
+     "title": "Récit au passé + avis",
+     "min": 120,
+     "max": 140,
+     "prompt": "Racontez la meilleure journée de votre année (PC + imparfait) et expliquez pourquoi elle était importante pour vous."
+    }
+   ]
+  },
+  {
+   "id": "eo",
+   "type": "speaking",
+   "title": "3-minute prepared speech",
+   "tasks": [
+    {
+     "id": "G2",
+     "title": "Prepared speech",
+     "prep": 600,
+     "seconds": 180,
+     "prompt": "Si vous pouviez changer une chose dans votre système de santé, que feriez-vous ? (10 min prep with notes, then speak 3 min WITHOUT notes)"
+    }
+   ]
+  },
+  {
+   "id": "criteria",
+   "type": "criteria",
+   "title": "Gate 2 criteria",
+   "items": [
+    "Followed an InnerFrench episode at 1.0× with the transcript",
+    "~2,000 words known",
+    "120 words written in 20 minutes",
+    "3-minute prepared speech delivered without notes"
+   ],
+   "rule": "Listening short? Add an hour of listening daily for two weeks first. Also today: fee fund ≥ ₦400k and contract income landed — else March/April sitting."
+  }
+ ]
+}

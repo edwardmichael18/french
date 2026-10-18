@@ -1,0 +1,55 @@
+{
+  "w": 6,
+  "title": "Future, and object pronouns",
+  "level": "A2",
+  "objective": "Talk about plans; put pronouns where French puts them (before the verb). Start marked writing and the error log.",
+  "tasks": [
+    "Marked writing starts: 3 pieces/week, corrected by a tutor",
+    "Start the error log TODAY (What I wrote · Correction · Rule in five words) — read it every Sunday",
+    "Tutor 5×/week"
+  ],
+  "resources": ["rfi", "lepointdufle", "italki"],
+  "steps": [
+    { "kind": "chunk", "title": "Futur proche — the spoken default",
+      "body": "**aller + infinitive**: *Je **vais** appeler le patient.* *On **va** voir.*\nRelated: **venir de** + inf (just did): *Je **viens de** finir.* · **être en train de** + inf (in the middle of): *Je **suis en train de** lire.*" },
+    { "kind": "chunk", "title": "Futur simple",
+      "body": "Infinitive + **-ai, -as, -a, -ons, -ez, -ont**: *je parler**ai***, *on finir**a***.\n-re drops the e: *je prendr**ai***.\nIrregular stems: **ser-** (être) · **aur-** (avoir) · **ir-** (aller) · **fer-** (faire) · **pourr-** · **voudr-** · **devr-** · **saur-** · **viendr-** · **verr-**" },
+    { "kind": "drill", "title": "Future", "items": [
+      { "type": "gap", "q": "Demain, je ___ (être) de garde.", "answer": ["serai"] },
+      { "type": "gap", "q": "On ___ (avoir) les résultats lundi.", "answer": ["aura"] },
+      { "type": "gap", "q": "Vous ___ (pouvoir) venir à 10 h ?", "answer": ["pourrez"] },
+      { "type": "gap", "q": "Je ___ (faire) de mon mieux.", "answer": ["ferai"] }
+    ] },
+    { "kind": "chunk", "title": "Object pronouns go BEFORE the verb",
+      "body": "Genuinely hard for anglophones: English puts them after.\nDirect: **le · la · les** — *Je **le** vois.* (I see him/it)\nIndirect (to someone): **lui · leur** — *Je **lui** parle.* (I speak to him/her)\n**me · te · nous · vous** are both direct and indirect." },
+    { "kind": "check", "type": "mcq", "q": "\"I call her every day.\" (appeler quelqu'un)", "options": ["Je l'appelle tous les jours.", "Je lui appelle tous les jours.", "J'appelle la tous les jours."], "answer": 0, "explain": "*appeler* takes a direct object → **la** → *l'*." },
+    { "kind": "check", "type": "mcq", "q": "\"I phone her every day.\" (téléphoner **à** quelqu'un)", "options": ["Je lui téléphone tous les jours.", "Je la téléphone tous les jours."], "answer": 0, "explain": "*téléphoner à* → indirect → **lui**.", "trap": "preposition" },
+    { "kind": "chunk", "title": "y and en",
+      "body": "**y** replaces *à + place/thing*: *Tu vas à l'hôpital ? — Oui, j'**y** vais.*\n**en** replaces *de + thing* and quantities: *Tu as des enfants ? — Oui, j'**en** ai deux.*\nTwo pronouns together (*je le lui donne*): **recognition only for now.**" },
+    { "kind": "drill", "title": "Replace the words in bold", "items": [
+      { "type": "mcq", "q": "Je pense **à mon examen**. →", "options": ["J'y pense.", "J'en pense.", "Je lui pense."], "answer": 0 },
+      { "type": "mcq", "q": "Il a **trois patients**. →", "options": ["Il en a trois.", "Il les a trois.", "Il y a trois."], "answer": 0 },
+      { "type": "mcq", "q": "Je parle **au médecin**. →", "options": ["Je lui parle.", "Je le parle.", "J'y parle."], "answer": 0 },
+      { "type": "mcq", "q": "Je vais **voir le film**. →", "options": ["Je vais le voir.", "Je le vais voir."], "answer": 0, "explain": "With an infinitive, the pronoun sits before the **infinitive**." }
+    ] },
+    { "kind": "chunk", "title": "Marked writing — why it's not optional",
+      "body": "**Unmarked writing is worse than not writing** — it makes a wrong form fluent.\nFrom today: three short pieces a week, each corrected. Every correction goes in the **error log**: *what I wrote · the correction · the rule in five words*. Week 17 is built entirely on it." },
+    { "kind": "produce", "mode": "write", "title": "Marked piece #1 — plans (tâche 1 style, 80 words)",
+      "task": "Write an informal message to a friend (*tu*) about your plans for next month. Use futur proche AND futur simple, and at least two object pronouns.",
+      "prompt": "Écris un message à un ami pour lui parler de tes projets du mois prochain.",
+      "model": "Salut Karim !\nJe t'écris pour te donner des nouvelles. Le mois prochain, je **vais commencer** des cours de français avec une tutrice. Je **la verrai** cinq fois par semaine ! En décembre, je **passerai** un examen blanc. Mes amis ? Je **les inviterai** chez moi pour fêter ça. Et toi, qu'est-ce que tu **vas faire** ? Tu **viendras** à Lagos ?\nÀ bientôt,\nEd",
+      "min": 60, "max": 120 },
+    { "kind": "recap", "points": [
+      "aller + inf (spoken default) · futur simple for writing and certainty",
+      "venir de + inf · être en train de + inf",
+      "Pronouns before the verb (or before the infinitive)",
+      "le/la/les direct · lui/leur indirect · y (à + place) · en (de + thing/quantity)",
+      "Error log starts now"
+    ] },
+    { "kind": "spiral", "title": "Weeks 3–5", "items": [
+      { "type": "mcq", "q": "Il ___ quand je suis sorti.", "options": ["neigeait", "a neigé"], "answer": 0, "trap": "pcimp" },
+      { "type": "mcq", "q": "\"I know Montréal well.\"", "options": ["Je connais bien Montréal.", "Je sais bien Montréal."], "answer": 0, "trap": "savoir" },
+      { "type": "gap", "q": "Qu'est-ce ___ vous inquiète ?", "answer": ["qui"] }
+    ] }
+  ]
+}

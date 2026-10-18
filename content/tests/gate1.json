@@ -1,0 +1,181 @@
+{
+ "id": "gate1",
+ "kind": "gate",
+ "gate": 1,
+ "title": "Gate 1 — end of week 4 (12 Oct)",
+ "timed": false,
+ "intro": "Pass: **3–5 min conversation without switching to English · ~900 words · passé composé accurate in speech · pronunciation not fossilising · clear movement against the week-1 recording.** If missed: add two weeks to Block A and book the April sitting — cheap in October, impossible in January.",
+ "sections": [
+  {
+   "id": "drill",
+   "type": "drill",
+   "title": "Core check: present, questions, passé composé",
+   "items": [
+    {
+     "type": "gap",
+     "q": "J'___ (avoir) trente-deux ans.",
+     "answer": [
+      "ai"
+     ],
+     "trap": "avoiretre"
+    },
+    {
+     "type": "mcq",
+     "q": "Negate: *J'ai des enfants.*",
+     "options": [
+      "Je n'ai pas d'enfants.",
+      "Je n'ai pas des enfants."
+     ],
+     "answer": 0
+    },
+    {
+     "type": "mcq",
+     "q": "\"What's happening?\"",
+     "options": [
+      "Qu'est-ce qui se passe ?",
+      "Qu'est-ce que se passe ?"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "gap",
+     "q": "Vous ___ (pouvoir) répéter ?",
+     "answer": [
+      "pouvez"
+     ]
+    },
+    {
+     "type": "mcq",
+     "q": "Hier, je ___ au travail à 7 h.",
+     "options": [
+      "suis arrivé",
+      "ai arrivé",
+      "arrivé"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "gap",
+     "q": "J'ai ___ (prendre) le bus.",
+     "answer": [
+      "pris"
+     ]
+    },
+    {
+     "type": "gap",
+     "q": "On a ___ (faire) une pause.",
+     "answer": [
+      "fait"
+     ]
+    },
+    {
+     "type": "mcq",
+     "q": "Elle ___ levée tôt.",
+     "options": [
+      "s'est",
+      "a",
+      "s'a"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "mcq",
+     "q": "\"I didn't eat.\"",
+     "options": [
+      "Je n'ai pas mangé.",
+      "Je n'ai mangé pas.",
+      "Je ne pas ai mangé."
+     ],
+     "answer": 0
+    },
+    {
+     "type": "gap",
+     "q": "Ils ___ (venir) hier soir. (être + venu)",
+     "answer": [
+      "sont venus"
+     ]
+    },
+    {
+     "type": "listen",
+     "say": "dessous",
+     "q": "Which word?",
+     "options": [
+      "dessus",
+      "dessous"
+     ],
+     "answer": 1,
+     "keepOrder": true
+    },
+    {
+     "type": "listen",
+     "say": "vont",
+     "q": "Which word?",
+     "options": [
+      "vent",
+      "vont",
+      "vingt"
+     ],
+     "answer": 1,
+     "keepOrder": true
+    },
+    {
+     "type": "mcq",
+     "q": "Default question form?",
+     "options": [
+      "est-ce que",
+      "inversion"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "mcq",
+     "q": "*la garde* means…",
+     "options": [
+      "the (hospital) shift / on-call",
+      "the guard dog",
+      "the garden"
+     ],
+     "answer": 0
+    },
+    {
+     "type": "mcq",
+     "q": "*une ordonnance* is…",
+     "options": [
+      "a prescription",
+      "an order (military)",
+      "an ordinance"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eo",
+   "type": "speaking",
+   "title": "Conversation — 3 to 5 minutes, no English",
+   "compareBaseline": true,
+   "tasks": [
+    {
+     "id": "G1",
+     "title": "Talk about yourself, your work and last weekend",
+     "prep": 0,
+     "seconds": 300,
+     "prompt": "Présentez-vous. Parlez de votre travail. Qu'est-ce que vous avez fait le week-end dernier ? (Present + passé composé. If you blank, use a filler — never switch to English.)"
+    }
+   ]
+  },
+  {
+   "id": "criteria",
+   "type": "criteria",
+   "title": "Gate 1 criteria — tick honestly (tutor confirms if possible)",
+   "items": [
+    "3–5 minutes of conversation without switching to English",
+    "~900 words known (Anki count)",
+    "Passé composé accurate in speech (auxiliary + participle + être agreement)",
+    "Pronunciation not fossilising (u/ou, nasals, no diphthongs)",
+    "Clear movement against the week-1 recording (listen to both)"
+   ],
+   "rule": "All five → pass. Otherwise: add two weeks to Block A, book the April sitting."
+  }
+ ]
+}

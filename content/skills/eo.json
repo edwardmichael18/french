@@ -1,0 +1,116 @@
+{
+ "id": "eo",
+ "title": "Speaking",
+ "fr": "Expression orale",
+ "icon": "🗣️",
+ "summary": "A 12-minute face-to-face exchange with an examiner, recorded and marked out of 20. You need **10/20** for NCLC 7. **Fluency beats accuracy**: someone who keeps talking with small errors scores above someone who is correct but keeps stopping.",
+ "facts": [
+  ["Duration", "About 12 minutes, face to face with an examiner, recorded"],
+  ["Tâche 1", "**Entretien dirigé** · ~2 min · no prep — the examiner asks about you"],
+  ["Tâche 2", "**Exercice en interaction** · ~5½ min including **2 min prep** — **you** ask the questions in a role-play"],
+  ["Tâche 3", "**Expression d'un point de vue** · ~4½ min · no prep — defend an opinion"],
+  ["Scoring", "0–20 from task fulfilment, fluency and coherence, vocabulary, grammar and pronunciation"],
+  ["Your target", "**10/20** (NCLC 7 = 10–11) — aim for 12 in practice for margin"],
+  ["Order note", "Your handoff had T1 and T2 swapped. The real order: T1 interview → T2 you ask → T3 opinion"]
+ ],
+ "format": [
+  {
+   "title": "What the examiner is listening for",
+   "body": "**Task fulfilment**: T1 you talk about yourself in full sentences; T2 you get the information you need by asking varied, relevant questions; T3 you defend a clear position with arguments.\n**Fluency and coherence**: you keep going, link your ideas (*d'abord, ensuite, par contre, donc*), and recover from mistakes without stopping.\n**Vocabulary and grammar**: enough range for the topic; tenses under control; questions formed correctly.\n**Pronunciation**: understandable without effort — the nasals, *u/ou* and the R matter more than an accent."
+  },
+  {
+   "title": "The examiner is not your enemy",
+   "body": "The examiner is trained to help you show your level. They'll ask follow-ups, sometimes disagree on purpose in T3, and play a role in T2. **You're allowed to ask them to repeat**: *Pardon, vous pourriez répéter ?* is natural French and costs nothing. What costs points is **silence** and switching to English."
+  }
+ ],
+ "lessons": [
+  {
+   "id": "format", "title": "The three tasks at a glance", "minutes": 8,
+   "steps": [
+    { "kind": "chunk", "title": "12 minutes, three jobs", "body": "**T1 (2 min):** the examiner interviews you — work, family, city, hobbies, plans. **Talk, don't answer.**\n**T2 (5½ min, 2 min prep):** you read a small document (an ad, a notice) and **you** phone or visit to get information — 10 to 12 questions.\n**T3 (4½ min):** a statement to discuss. You defend a position, the examiner pushes back, you keep going." },
+    { "kind": "check", "q": "In tâche 2, who asks most of the questions?", "options": ["You, the candidate", "The examiner", "Both equally"], "answer": 0, "explain": "T2 tests your ability to **get** information: you lead, you ask, you react, you conclude." },
+    { "kind": "check", "q": "Which costs more points in speaking?", "options": ["Long silences and switching to English", "A few gender errors while speaking fluently", "Asking the examiner to repeat a question"], "answer": 0, "explain": "Fluency is heavily weighted. Small errors in fluent speech cost less than stopping. Asking for repetition is normal." },
+    { "kind": "recap", "points": ["T1 interview (2 min) · T2 you ask (5½ min, 2 prep) · T3 opinion (4½ min).", "**Keep talking** — fluency beats accuracy.", "Asking *Pardon, vous pourriez répéter ?* is fine; silence isn't."] }
+   ]
+  },
+  {
+   "id": "t1", "title": "Tâche 1: answer, then expand", "minutes": 10,
+   "steps": [
+    { "kind": "chunk", "title": "Never a one-line answer", "body": "Each question is an invitation to speak for 20–30 seconds. Use the **A + E** pattern: **Answer** directly, then **Expand** with one of: *parce que…* (reason) · *par exemple…* (example) · *la semaine dernière, j'ai…* (a story) · *ce qui me plaît, c'est…* (feeling).\n*Vous habitez où ?* → *J'habite à Lagos depuis six ans. C'est une ville très animée, parfois stressante à cause des embouteillages, mais j'aime son énergie.*" },
+    { "kind": "check", "q": "*Vous travaillez dans quel domaine ?* Best answer?", "options": ["Je suis comptable dans une banque depuis cinq ans. Ce qui me plaît, c'est que chaque jour est différent, même si la fin du mois est toujours stressante.", "Comptable.", "Je suis comptable."], "answer": 0, "explain": "Answer + how long (*depuis* + present) + a feeling with a nuance. The one-word answers force the examiner to do the work." },
+    { "kind": "check", "q": "*Depuis combien de temps apprenez-vous le français ?*", "options": ["J'apprends le français depuis un an.", "J'ai appris le français depuis un an.", "J'apprenais le français depuis un an."], "answer": 0, "explain": "Ongoing situation + *depuis* = present.", "trap": "depuis" },
+    { "kind": "check", "q": "*Qu'est-ce que vous avez fait le week-end dernier ?* Which tense leads the answer?", "options": ["Passé composé (je suis allé, j'ai vu)", "Present (je vais, je vois)", "Future (j'irai, je verrai)"], "answer": 0, "explain": "The examiner is checking you can switch to the past. Events = passé composé." },
+    { "kind": "recap", "points": ["Answer + Expand: reason, example, story or feeling.", "*depuis* + present for 'how long'.", "Past questions → passé composé; plans → *j'aimerais / je vais*.", "20–30 seconds per question, then stop and let them ask."] }
+   ]
+  },
+  {
+   "id": "t2plan", "title": "Tâche 2: the 2-minute question plan", "minutes": 12,
+   "steps": [
+    { "kind": "chunk", "title": "Use the prep time to build a grid", "body": "In the 2 minutes, don't write sentences — write **one word per question type**:\n**quoi** (what exactly) · **combien** (price, extra fees) · **quand** (days, times, start date) · **où** · **comment** (booking, payment) · **conditions** (commitment, cancellation, documents) · **et si… ?** (a special case) · **réductions / avantages**.\nThat's 8–12 questions ready to go, all different." },
+    { "kind": "check", "q": "Document: *« Cours de guitare — 25 $ la séance, le mercredi. »* Which question adds the most information?", "options": ["Est-ce qu'il faut acheter un forfait ou peut-on payer séance par séance ?", "C'est un cours de guitare ?", "Le cours est le mercredi ?"], "answer": 0, "explain": "The others repeat what the document already says. Ask about what's **missing**: conditions, fees, level, materials." },
+    { "kind": "chunk", "title": "Vary the question forms", "body": "Show range by mixing:\n**est-ce que**: *Est-ce que le prix comprend l'assurance ?*\n**inversion**: *Y a-t-il un parking ? Peut-on payer par carte ?*\n**question word + est-ce que**: *À quelle heure est-ce que ça commence ?*\n**polite conditional**: *Pourriez-vous me dire… ? Auriez-vous… ? Je voudrais savoir si…*\nAnd use your ten question frames." },
+    { "kind": "check", "q": "Which is the correct inversion?", "options": ["Y a-t-il des frais d'inscription ?", "Y a il des frais d'inscription ?", "Il y a-t-il des frais d'inscription ?"], "answer": 0, "explain": "*Y a-t-il* — the *-t-* links two vowels." },
+    { "kind": "check", "type": "gap", "q": "Polite: « Je voudrais savoir ___ le cours est ouvert aux débutants. » (whether)", "answer": ["si"], "explain": "Indirect yes/no question: *Je voudrais savoir si…*" },
+    { "kind": "recap", "points": ["Prep = a **grid**, not sentences: quoi · combien · quand · où · comment · conditions · et si · réductions.", "Ask what the document **doesn't** say.", "Mix est-ce que, inversion and the polite conditional."] }
+   ]
+  },
+  {
+   "id": "t2live", "title": "Tâche 2: react, follow up, conclude", "minutes": 10,
+   "steps": [
+    { "kind": "chunk", "title": "It's a conversation, not a questionnaire", "body": "**Open:** *Bonjour, j'appelle au sujet de votre annonce…*\n**React** to each answer: *Ah d'accord. / C'est un peu cher… / Parfait.*\n**Follow up** on what they said: *Et pour combien de temps ? / Même le week-end ?*\n**Negotiate** once: *Est-ce qu'il serait possible d'avoir une réduction si… ?*\n**Conclude:** *Donc, si je comprends bien, … Je vais réfléchir / Je m'inscris. Merci beaucoup, bonne journée !*" },
+    { "kind": "check", "q": "The examiner says: *« L'abonnement est de 45 $, avec un engagement d'un an. »* Best reaction?", "options": ["D'accord… un an, c'est long. Est-ce qu'il existe une formule sans engagement, même un peu plus chère ?", "Question suivante : il y a un parking ?", "Merci, au revoir."], "answer": 0, "explain": "React to the information, then follow up on it — that's what makes it an interaction." },
+    { "kind": "check", "q": "Which is the best way to close tâche 2?", "options": ["Donc, si je comprends bien, c'est sans engagement et l'essai est gratuit. Je passerai samedi. Merci beaucoup !", "C'est tout.", "Au revoir."], "answer": 0, "explain": "Reformulate the key information, state a decision, thank." },
+    { "kind": "recap", "points": ["Open with why you're calling.", "React + follow up; negotiate once.", "Close with *si je comprends bien…* + decision + thanks."] }
+   ]
+  },
+  {
+   "id": "t3", "title": "Tâche 3: the four-step opinion", "minutes": 12,
+   "steps": [
+    { "kind": "chunk", "title": "One shape for all sixteen themes", "body": "1. **Position** in the first sentence: *Alors, à mon avis, …* (a nuanced position is fine, but state it)\n2. **Argument 1 + example**: *D'abord, … Par exemple, dans mon pays, …*\n3. **Argument 2 + example**: *Ensuite / De plus, … Prenons l'exemple de…*\n4. **The other side**: *Certes, certains pensent que… et c'est en partie vrai, mais…*\n5. **Conclusion**: *Pour conclure, je dirais que…*\nPractise this shape until it's automatic — then the content is the only thing you think about." },
+    { "kind": "check", "q": "*« Les réseaux sociaux isolent plus qu'ils ne rapprochent. »* Best first sentence?", "options": ["Personnellement, je pense qu'ils ne sont ni bons ni mauvais : tout dépend de la façon dont on les utilise.", "Euh… les réseaux sociaux, c'est Facebook, Instagram…", "Je ne sais pas, c'est difficile."], "answer": 0, "explain": "A clear (nuanced) position immediately. Defining the topic or hesitating wastes the opening." },
+    { "kind": "check", "q": "Which sentence is a concession?", "options": ["Certes, le télétravail peut isoler, et c'est en partie vrai, mais une formule mixte règle ce problème.", "D'abord, le télétravail fait gagner du temps.", "Pour conclure, je suis pour."], "answer": 0, "explain": "*Certes… mais* acknowledges the other side then returns to yours — a key B2 move." },
+    { "kind": "check", "q": "How do you make an argument convincing?", "options": ["Add a concrete example from your life or your country", "Repeat the argument louder", "Use as many difficult words as possible"], "answer": 0, "explain": "*Par exemple, à Lagos, beaucoup de gens passent trois heures par jour dans les embouteillages.* — specific beats general." },
+    { "kind": "recap", "points": ["Position → argument + example → argument + example → *Certes… mais* → conclusion.", "Examples from your own life are the easiest and the most convincing.", "One shape for every topic — practise it until it's automatic."] }
+   ]
+  },
+  {
+   "id": "pushback", "title": "Tâche 3: when the examiner disagrees", "minutes": 8,
+   "steps": [
+    { "kind": "chunk", "title": "Hold your ground — politely", "body": "The examiner may challenge you on purpose: *Mais vous ne pensez pas que… ?* They're testing whether you can **defend and nuance**, not whether you'll give in.\n**Acknowledge:** *Je comprends votre point de vue… / C'est vrai que…*\n**Return:** *mais je maintiens que… / mais ce qu'il faut voir, c'est que…*\n**Nuance:** *dans une certaine mesure · il me semble que · ça dépend de…*" },
+    { "kind": "check", "q": "Examiner: *« Mais le télétravail, ça isole les gens, non ? »* Best reply?", "options": ["C'est vrai que ça peut isoler, mais je maintiens que deux jours par semaine suffisent pour garder le lien avec les collègues.", "Oui, vous avez raison, je change d'avis.", "Non."], "answer": 0, "explain": "Acknowledge + defend + nuance. Giving in immediately or answering in one word ends the exchange." },
+    { "kind": "check", "q": "Which phrase **softens** an opinion without abandoning it?", "options": ["il me semble que", "c'est absolument certain que", "je ne sais pas"], "answer": 0, "explain": "*Il me semble que, dans une certaine mesure, plutôt* — hedging shows B2 control." },
+    { "kind": "recap", "points": ["Acknowledge → *mais je maintiens que…* → nuance.", "Hedges: *il me semble que, dans une certaine mesure, plutôt*.", "Never give in instantly, never answer in one word."] }
+   ]
+  },
+  {
+   "id": "fluency", "title": "Fluency tools: fillers, repair, pacing", "minutes": 10,
+   "steps": [
+    { "kind": "chunk", "title": "Buy time in French, not in silence", "body": "**Fillers:** *C'est une bonne question… / Comment dire… / Disons que… / En fait…*\n**Repair** a mistake without stopping: *…enfin, je veux dire… / pardon, … / autrement dit…*\n**Can't find a word?** Describe it: *c'est le truc qu'on utilise pour…* — never switch to English.\n**Pace:** calm and steady. Speaking fast when nervous causes the errors; a slower, continuous flow scores better." },
+    { "kind": "check", "q": "You forget the word *casserole* (saucepan). What do you do?", "options": ["Say: « c'est l'ustensile qu'on utilise pour faire chauffer de l'eau »", "Say it in English", "Stop and think in silence"], "answer": 0, "explain": "Circumlocution keeps you in French and shows vocabulary strategy." },
+    { "kind": "check", "q": "You said *la problème*. Best move?", "options": ["Keep going — or fix it in two words (« le problème ») and continue", "Stop and restart the sentence from the beginning", "Apologise at length"], "answer": 0, "explain": "The plan's rule: never stop to repair a gender. Fix it in passing or let it go." },
+    { "kind": "chunk", "title": "Daily routine", "body": "Every day, pick one T3 topic and **record 2 minutes** on the Practice tab without stopping. Play it back once: note one error in the error log. Same topic again tomorrow, better. Twice a week: T2 role-play with your tutor." },
+    { "kind": "recap", "points": ["Fillers buy time; silence costs points.", "Repair in passing — never restart.", "Describe what you can't name; never switch to English.", "Record 2 minutes a day, log one error."] }
+   ]
+  }
+ ],
+ "mistakes": [
+  { "title": "One-line answers in tâche 1", "why": "The examiner has to drag the language out of you — that reads as a low level.", "fix": "Answer + expand: a reason, an example or a short story every time." },
+  { "title": "Asking yes/no questions only in tâche 2", "why": "*C'est cher ? C'est le mercredi ?* gets little information and shows little range.", "fix": "Use the grid (quoi, combien, quand, où, comment, conditions, et si) and mix question forms." },
+  { "title": "Repeating the document in tâche 2", "why": "Asking what the ad already says wastes questions.", "fix": "Ask about what's missing: fees, conditions, special cases." },
+  { "title": "No clear position in tâche 3", "why": "Hovering between views for 4 minutes sounds like avoiding the task.", "fix": "State your position in the first sentence; nuance comes after." },
+  { "title": "Stopping to correct every error", "why": "It destroys fluency, which carries a lot of the mark.", "fix": "Never stop to repair a gender. Fix in two words or keep going." },
+  { "title": "Switching to English", "why": "It breaks the task and signals a lower level.", "fix": "Describe the word in French: *c'est le truc qui…*" },
+  { "title": "depuis + past tense", "why": "*J'ai habité ici depuis cinq ans* is a classic, very audible error.", "fix": "*J'habite ici depuis cinq ans.*", "trap": "depuis" },
+  { "title": "Speaking too fast when nervous", "why": "Speed multiplies errors and swallows endings.", "fix": "Calm, steady pace. Breathe at each connector." }
+ ],
+ "checklist": [
+  "T1: answer + expand every time (reason, example, story, feeling). 20–30 seconds per question.",
+  "T2 prep: write the **grid** (quoi · combien · quand · où · comment · conditions · et si · réductions).",
+  "T2: open with why you're calling, react to answers, negotiate once, close with *si je comprends bien…*",
+  "T3: position in the first sentence → 2 arguments with examples → *Certes… mais* → conclusion.",
+  "Examiner disagrees? *Je comprends, mais je maintiens que…*",
+  "Didn't understand? *Pardon, vous pourriez répéter ?* — silence and English are the only real mistakes."
+ ],
+ "resources": ["reussir", "italki", "frenchico", "fei", "manuel", "forvo"],
+ "videos": ["cw03CIq2in8", "_sJPAaPZAK0", "Yktb2hyDRjk", "zxzCzG-5e1o"]
+}

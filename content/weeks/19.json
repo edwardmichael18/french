@@ -1,0 +1,24 @@
+{
+  "w": 19,
+  "title": "Full timed mock · GO / DEFER",
+  "level": "B2",
+  "objective": "Full mock under exam conditions (Mock C). No new Anki cards. Make the GO/DEFER decision by the rule, not the mood.",
+  "tasks": [
+    "Mock C under exam conditions: 2h47, one sitting, phone off",
+    "No new Anki cards — reviews only",
+    "Apply the GO/DEFER rule"
+  ],
+  "resources": ["fei", "didier"],
+  "steps": [
+    { "kind": "chunk", "title": "Exam conditions mean exam conditions",
+      "body": "Order: CO 35 min → CE 60 min → EE 60 min → EO 12 min. One sitting, desk, phone off, no pausing audio, no dictionary.\nEO: record yourself; mark it with the tutor or the rubric." },
+    { "kind": "chunk", "title": "The overriding rule",
+      "body": "**Do not sit the exam until a full mock clears all four thresholds with margin.** One attempt at ₦750k.\nAnd with re-marking suspended, there is no appeal behind it." },
+    { "kind": "check", "type": "mcq", "q": "Mock C: CO 470, CE 465, EE 10/20, EO 12/20. Decision?", "options": ["Borderline — EE has no margin; repair writing in week 20 and re-test tâche 2", "GO — everything is at or above threshold", "DEFER — two abilities short"], "answer": 0, "explain": "10/20 is exactly the threshold with zero margin. The rule says *with margin*." },
+    { "kind": "recap", "points": ["Mock C in one sitting", "No new cards", "GO only with margin on all four"] },
+    { "kind": "spiral", "title": "Quick sweep", "items": [
+      { "type": "mcq", "q": "Order of the TCF Canada sections:", "options": ["CO → CE → EE → EO", "CE → CO → EO → EE"], "answer": 0 },
+      { "type": "mcq", "q": "EO total time:", "options": ["12 min", "35 min", "60 min"], "answer": 0 }
+    ] }
+  ]
+}

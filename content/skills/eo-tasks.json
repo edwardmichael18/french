@@ -1,0 +1,180 @@
+{
+ "fillers": ["C'est une bonne question…", "Ce qu'il faut voir, c'est que…", "Je dirais que…", "Disons que…", "Comment dire…", "Si je comprends bien, vous voulez dire que…", "Pardon, vous pourriez répéter ?", "En fait…", "Autrement dit…"],
+ "frames": ["Est-ce que vous pourriez me dire… ?", "Qu'est-ce que vous pensez de… ?", "Depuis combien de temps… ?", "Pourquoi est-ce que… ?", "Quel est votre… ?", "Comment est-ce que vous… ?", "Est-ce que vous avez déjà… ?", "Qu'est-ce qui vous plaît le plus dans… ?", "Vous préférez X ou Y ?", "Auriez-vous… ?"],
+ "tasks": [
+  {
+   "id": "EO1",
+   "name": "Tâche 1 — entretien dirigé",
+   "meta": "About 2 min · no prep · the examiner asks about you",
+   "prep": 0, "secs": 120, "video": "_sJPAaPZAK0",
+   "how": "Answer in full, connected sentences — never one word. **Answer → expand (why / an example / a feeling) → hand back.** Use **depuis + present** for how long, passé composé for what you did, *j'aimerais* for plans. If you don't understand, ask: *Pardon, vous pourriez répéter ?* — that's allowed and it's French.",
+   "frame": "Answer the question directly\n+ parce que / car …\n+ par exemple, … / la semaine dernière, j'ai …\n+ ce qui me plaît, c'est …\n(stop — let the examiner ask the next one)",
+   "prompts": [
+    {
+     "theme": "Présentation",
+     "prompt": "Présentez-vous : votre nom, votre âge, d'où vous venez, où vous habitez et avec qui.",
+     "model": "Je m'appelle Chinedu Okeke, j'ai trente-deux ans et je viens du Nigeria, plus précisément d'Enugu, dans le sud-est du pays. Actuellement, j'habite à Lagos depuis six ans, parce que c'est là que je travaille. J'habite avec ma femme et notre fille, qui a quatre ans. C'est une ville très animée, parfois un peu stressante à cause des embouteillages, mais j'aime beaucoup son énergie. Nous espérons nous installer au Canada l'année prochaine, c'est d'ailleurs pour ça que j'apprends le français.",
+     "notes": ["*j'habite à Lagos depuis six ans* — depuis + present.", "*Actuellement* = currently (not *actually*: that's *en fait*).", "Every answer expanded with a reason or a feeling.", "Ends with a natural link to the next topic (why French)."]
+    },
+    {
+     "theme": "Travail",
+     "prompt": "Quel est votre métier ? Décrivez une journée de travail typique.",
+     "model": "Je suis infirmière dans un hôpital public, dans le service de pédiatrie. Je travaille par gardes de douze heures, trois ou quatre fois par semaine. Une journée typique commence à sept heures : d'abord, je fais les transmissions avec l'équipe de nuit, ensuite je prépare les médicaments et je fais le tour des patients avec le médecin. L'après-midi, je m'occupe surtout des familles et des nouvelles admissions. C'est fatigant, mais ce qui me plaît le plus, c'est le contact avec les enfants.",
+     "notes": ["*une garde* = a shift (a faux ami trap — not a guard).", "Sequence markers: *d'abord, ensuite, l'après-midi*.", "*Ce qui me plaît le plus, c'est…* — a ready-made expansion phrase."]
+    },
+    {
+     "theme": "Loisirs",
+     "prompt": "Qu'est-ce que vous faites pendant votre temps libre ? Qu'avez-vous fait le week-end dernier ?",
+     "model": "Pendant mon temps libre, j'adore faire du sport, surtout du football avec des amis le samedi matin. Je lis aussi beaucoup, principalement des romans policiers. Le week-end dernier, c'était l'anniversaire de mon frère, donc nous sommes allés dans un restaurant libanais avec toute la famille. Nous avons très bien mangé et nous avons beaucoup ri. Dimanche, je me suis reposé et j'ai regardé un film en français avec des sous-titres, pour m'entraîner.",
+     "notes": ["Present for habits, passé composé for last weekend — the examiner is checking exactly this switch.", "*nous sommes allés, je me suis reposé* — être verbs and pronominal verbs.", "*faire du sport / du football* — partitive with *faire*."]
+    },
+    {
+     "theme": "Ville",
+     "prompt": "Parlez-moi de la ville où vous habitez. Qu'est-ce que vous aimez et qu'est-ce que vous n'aimez pas ?",
+     "model": "J'habite à Abuja, la capitale du Nigeria. C'est une ville moderne et plutôt verte, avec de grandes avenues et beaucoup de parcs. Ce que j'aime, c'est qu'elle est plus calme et plus sûre que Lagos. Il y a aussi de bons restaurants et des marchés très colorés. Par contre, ce que je n'aime pas, c'est que la vie y est chère, surtout le logement, et que les transports en commun ne sont pas très développés : il faut presque toujours prendre un taxi ou sa voiture.",
+     "notes": ["*Ce que j'aime, c'est que… / Ce que je n'aime pas, c'est que…* — perfect frame for likes and dislikes.", "Comparatives: *plus calme et plus sûre que*.", "*la vie y est chère* — pronoun *y* = in that city."]
+    },
+    {
+     "theme": "Français",
+     "prompt": "Pourquoi apprenez-vous le français ? Depuis quand ?",
+     "model": "J'apprends le français depuis environ un an. Au début, c'était surtout pour mon projet d'immigration au Canada, parce que parler français donne des points supplémentaires. Mais maintenant, j'apprends aussi par plaisir : j'aime beaucoup la musique francophone et je commence à comprendre les podcasts. Chaque jour, je fais une demi-heure de vocabulaire et, deux fois par semaine, je parle avec une tutrice en ligne. Ce qui est difficile pour moi, c'est la prononciation, surtout les voyelles nasales.",
+     "notes": ["*depuis environ un an* + present tense.", "*Au début, c'était… Mais maintenant…* — before/now contrast shows time control.", "Shows honest self-awareness about a difficulty — examiners like natural, personal answers."]
+    },
+    {
+     "theme": "Famille",
+     "prompt": "Parlez-moi de votre famille.",
+     "model": "Je viens d'une famille assez nombreuse : j'ai deux frères et une sœur. Je suis l'aîné. Mes parents habitent toujours à Ibadan ; mon père est retraité, il était professeur de mathématiques, et ma mère tient une petite boutique de tissus. Nous sommes très proches et nous nous appelons presque tous les jours. Moi, je suis marié depuis cinq ans et nous avons un fils de deux ans. Pour nous, la famille, c'est très important, alors partir loin d'eux sera la partie la plus difficile de l'immigration.",
+     "notes": ["*il était professeur* — imparfait for a past state.", "*nous nous appelons* — reciprocal verb.", "*sera la partie la plus difficile* — future + superlative."]
+    },
+    {
+     "theme": "Projets",
+     "prompt": "Quels sont vos projets pour les cinq prochaines années ?",
+     "model": "Dans les cinq prochaines années, j'aimerais d'abord m'installer au Canada avec ma famille, idéalement à Montréal ou à Ottawa. Professionnellement, je voudrais faire reconnaître mon diplôme d'ingénieur et trouver un poste dans le secteur de l'énergie. Pour ça, je vais continuer à améliorer mon français et je suivrai probablement une formation d'appoint là-bas. Sur le plan personnel, nous voudrions acheter une maison et, si tout se passe bien, avoir un deuxième enfant.",
+     "notes": ["Conditional for wishes (*j'aimerais, je voudrais*), futur proche and futur simple for plans.", "*si tout se passe bien* — si + present.", "*Professionnellement… Sur le plan personnel…* — organised answer."]
+    },
+    {
+     "theme": "Nourriture",
+     "prompt": "Quel est votre plat préféré ? Est-ce que vous aimez cuisiner ?",
+     "model": "Mon plat préféré, c'est le riz jollof, un plat de riz à la tomate et aux épices qu'on mange dans toute l'Afrique de l'Ouest. C'est le plat des fêtes et des mariages. Oui, j'aime bien cuisiner, mais je n'ai pas toujours le temps pendant la semaine. En général, je cuisine le dimanche pour toute la semaine. La dernière fois, j'ai essayé une recette française, un bœuf bourguignon ; ce n'était pas parfait, mais mes amis ont tout mangé !",
+     "notes": ["Relative clause *qu'on mange dans toute l'Afrique de l'Ouest* to explain something the examiner may not know.", "*En général* (habit) vs *La dernière fois, j'ai essayé* (one event).", "Humour and personal detail keep the exchange natural."]
+    }
+   ]
+  },
+  {
+   "id": "EO2",
+   "name": "Tâche 2 — exercice en interaction",
+   "meta": "About 5½ min · 2 min prep · YOU ask the questions (role-play)",
+   "prep": 120, "secs": 210, "video": "Yktb2hyDRjk",
+   "how": "The examiner plays a seller, landlord, receptionist… **You lead**: greet, say why you're calling, then ask 10–12 varied questions to get the information you need, react to the answers and conclude. Use the **question-plan grid** during the 2-minute prep: *quoi · combien · quand · où · comment · conditions · et si… ?* **Conditional politeness** (*Je voudrais savoir…, Pourriez-vous… ?*) and your **ten question frames**.",
+   "frame": "Bonjour, j'appelle au sujet de … / J'ai vu votre annonce …\nJe voudrais savoir …\n1 quoi exactement  2 combien (prix, frais)  3 quand (horaires, dates)\n4 où  5 comment (réserver, payer)  6 conditions (engagement, annulation)\n7 et si… ? (cas particulier)  8 avantages / réductions\nD'accord, donc si je comprends bien, … Je vais réfléchir / Je m'inscris. Merci beaucoup, bonne journée !",
+   "prompts": [
+    {
+     "theme": "Sport",
+     "prompt": "Document : « Club de sport Énergie — Abonnement mensuel 45 $. Piscine, cours collectifs, salle de musculation. Ouvert 6 h – 23 h. » Vous téléphonez au club pour décider si vous vous abonnez.",
+     "model": "Bonjour, j'ai vu votre annonce et je voudrais quelques renseignements sur l'abonnement.\n1. Est-ce que les 45 $ comprennent tous les services, la piscine et les cours ?\n2. Y a-t-il des frais d'inscription en plus ?\n3. Faut-il s'engager pour un an ou peut-on arrêter quand on veut ?\n4. Quels cours collectifs proposez-vous, et à quelles heures ?\n5. Est-ce que le club est aussi ouvert le week-end, avec les mêmes horaires ?\n6. Est-ce qu'il faut réserver les cours à l'avance ?\n7. Auriez-vous un tarif réduit pour les couples ou les étudiants ?\n8. Y a-t-il un parking pour les membres ?\n9. Est-ce qu'un coach peut me faire un programme personnalisé ?\n10. Est-ce qu'on peut faire une séance d'essai gratuite ?\nD'accord, donc si je comprends bien, c'est sans engagement et l'essai est gratuit. Je passerai samedi. Merci beaucoup !",
+     "notes": ["Covers all the angles: price, extra fees, commitment, schedule, booking, discounts, parking, services, trial.", "Question forms are varied: *est-ce que*, inversion (*Y a-t-il*, *peut-on*), conditional (*Auriez-vous*).", "Ends with a reformulation (*si je comprends bien*) and a decision — that's how you close T2."]
+    },
+    {
+     "theme": "Logement",
+     "prompt": "Document : « Colocation — chambre meublée, 700 $/mois, près du métro, disponible le 1er novembre. » Vous appelez la personne qui a publié l'annonce.",
+     "model": "Bonjour, je vous appelle au sujet de la chambre en colocation.\n1. Est-ce que la chambre est toujours disponible ?\n2. Les 700 $ incluent-ils l'électricité, le chauffage et Internet ?\n3. Faut-il payer un dépôt de garantie ?\n4. Combien de personnes vivent dans l'appartement, et qu'est-ce qu'elles font dans la vie ?\n5. Comment se partagent la cuisine et la salle de bain ?\n6. La chambre est meublée : qu'est-ce qu'il y a exactement comme meubles ?\n7. À combien de minutes à pied se trouve la station de métro ?\n8. Est-ce qu'il y a une laverie dans l'immeuble ?\n9. Quelle est la durée du bail ?\n10. Est-ce que les animaux sont acceptés ?\n11. Pourrais-je visiter la chambre cette semaine ?\nParfait, alors je peux venir jeudi à 18 h ? Merci, à jeudi !",
+     "notes": ["Housing vocabulary: *dépôt de garantie, bail, laverie, charges comprises*.", "*Comment se partagent…* — asks about living conditions, not only price.", "Concludes by booking a visit: a concrete outcome."]
+    },
+    {
+     "theme": "Enfants",
+     "prompt": "Document : « Garderie Les Petits Pas — places disponibles en septembre pour les enfants de 18 mois à 5 ans. » Vous appelez pour votre enfant de 3 ans.",
+     "model": "Bonjour, j'appelle au sujet des places en garderie pour septembre. J'ai une fille de trois ans.\n1. Quels sont vos horaires d'ouverture ?\n2. Combien coûte une journée, et existe-t-il un tarif à la semaine ?\n3. Les repas et les collations sont-ils compris ?\n4. Combien d'enfants y a-t-il par éducatrice ?\n5. Quelles activités proposez-vous pendant la journée ?\n6. Est-ce que les enfants sortent dehors tous les jours ?\n7. Ma fille parle anglais et un peu français : est-ce que ce sera un problème ?\n8. Quels documents faut-il fournir pour l'inscription ?\n9. Que se passe-t-il si mon enfant est malade ?\n10. Est-ce qu'il y a une période d'adaptation au début ?\n11. Est-ce que je pourrais visiter la garderie avec elle ?\nTrès bien, je vais vous envoyer le dossier cette semaine. Merci beaucoup, madame.",
+     "notes": ["Questions a real parent would ask: ratio, meals, sickness, adaptation.", "*Que se passe-t-il si… ?* — the 'what if' question every T2 needs.", "Polite close with a next step."]
+    },
+    {
+     "theme": "Transport",
+     "prompt": "Document : « Location de voiture Rapido — à partir de 49 $/jour, kilométrage illimité. » Vous appelez l'agence pour louer une voiture le week-end prochain.",
+     "model": "Bonjour, je voudrais louer une voiture du vendredi soir au dimanche soir.\n1. Le prix de 49 $ par jour, c'est pour quel type de voiture ?\n2. L'assurance est-elle comprise dans le prix ?\n3. Quel est le montant de la caution ?\n4. Est-ce que je peux utiliser mon permis de conduire étranger ?\n5. Faut-il avoir un âge minimum ?\n6. À quelle heure est-ce que je peux prendre et rendre la voiture ?\n7. Est-ce que je dois rendre la voiture avec le plein d'essence ?\n8. Est-ce qu'un deuxième conducteur est possible, et combien ça coûte ?\n9. Y a-t-il des frais si je rends la voiture en retard ?\n10. Peut-on payer par carte de débit ?\nD'accord, alors je réserve la voiture compacte pour vendredi 18 h. Merci !",
+     "notes": ["*caution, plein d'essence, permis de conduire, deuxième conducteur* — rental vocabulary.", "Asks about conditions and penalties, not just the price.", "A clear reservation at the end."]
+    },
+    {
+     "theme": "Formation",
+     "prompt": "Document : « Cours de cuisine du monde — 8 ateliers, 320 $. Le jeudi soir. » Vous appelez pour vous renseigner avant de vous inscrire.",
+     "model": "Bonjour, je vous appelle pour avoir des informations sur les cours de cuisine du monde.\n1. Quand commence la prochaine session ?\n2. Les ateliers durent combien de temps, et à quelle heure ?\n3. Quelles cuisines est-ce que vous étudiez ?\n4. Les ingrédients sont-ils inclus dans les 320 $ ?\n5. Combien de participants y a-t-il par groupe ?\n6. Est-ce qu'il faut apporter du matériel ?\n7. Est-ce que le cours convient aux débutants ?\n8. Qu'est-ce qui se passe si je rate un atelier ?\n9. Peut-on payer en deux fois ?\n10. Auriez-vous une réduction si je viens avec une amie ?\nParfait, merci. Je vais en parler à mon amie et je vous rappelle demain.",
+     "notes": ["*Les ateliers durent combien de temps ?* — informal word order is fine in speech.", "Money questions: *payer en deux fois, réduction*.", "A realistic, polite ending even without committing."]
+    },
+    {
+     "theme": "Voyage",
+     "prompt": "Document : « Hôtel du Lac — chambres doubles à partir de 110 $ la nuit, vue sur le lac, petit-déjeuner disponible. » Vous appelez pour réserver deux nuits.",
+     "model": "Bonjour, je voudrais réserver une chambre double pour deux nuits, du 12 au 14 juillet.\n1. Est-ce que vous avez encore des chambres avec vue sur le lac à ces dates ?\n2. Le prix de 110 $, c'est par nuit et par chambre ?\n3. Le petit-déjeuner est-il compris, ou faut-il payer en plus ?\n4. À quelle heure peut-on arriver et à quelle heure faut-il libérer la chambre ?\n5. Y a-t-il un parking gratuit ?\n6. Est-ce que le Wi-Fi est gratuit dans les chambres ?\n7. Peut-on se baigner dans le lac ?\n8. Quelles sont les conditions d'annulation ?\n9. Est-ce qu'il y a un restaurant à l'hôtel ?\n10. Pourriez-vous me conseiller une activité dans la région ?\nTrès bien, je réserve la chambre avec vue et petit-déjeuner. Je vous donne mon nom ?",
+     "notes": ["*libérer la chambre, conditions d'annulation* — hotel vocabulary.", "Asks for advice (*Pourriez-vous me conseiller…*) — shows range beyond yes/no questions.", "Confirms the choice at the end."]
+    },
+    {
+     "theme": "Santé",
+     "prompt": "Document : « Clinique dentaire du Parc — nouveaux patients acceptés. Urgences le samedi matin. » Vous appelez pour prendre un premier rendez-vous.",
+     "model": "Bonjour, je viens d'arriver dans le quartier et je cherche un dentiste. Vous acceptez encore de nouveaux patients ?\n1. Quel est le délai pour un premier rendez-vous ?\n2. Combien coûte un premier examen avec un nettoyage ?\n3. Est-ce que vous acceptez mon assurance, Sun Life ?\n4. Est-ce que je dois payer sur place et me faire rembourser après ?\n5. Quels documents dois-je apporter ?\n6. Est-ce que les dentistes parlent anglais, au cas où ?\n7. Si j'ai une douleur la semaine prochaine, comment fonctionnent les urgences du samedi ?\n8. Est-ce que vous soignez aussi les enfants ?\n9. Y a-t-il un stationnement près de la clinique ?\n10. Comment faire si je dois annuler ?\nD'accord, alors je prends le rendez-vous de mardi à 16 h. Merci beaucoup.",
+     "notes": ["*le délai, se faire rembourser, au cas où* — useful everyday forms.", "Hypothetical question (*Si j'ai une douleur…*).", "Health and administrative procedures are high-yield TCF themes."]
+    },
+    {
+     "theme": "Démarches",
+     "prompt": "Document : « Bibliothèque municipale — inscription gratuite pour les résidents. Prêt de livres, films, accès Internet, ateliers de conversation. » Vous appelez pour vous inscrire.",
+     "model": "Bonjour, je voudrais m'inscrire à la bibliothèque. Je peux vous poser quelques questions ?\n1. L'inscription est gratuite pour les résidents : quels documents faut-il pour prouver mon adresse ?\n2. Est-ce que je peux m'inscrire en ligne ou faut-il venir sur place ?\n3. Combien de livres peut-on emprunter en même temps ?\n4. Pour combien de temps ?\n5. Est-ce qu'il y a des amendes en cas de retard ?\n6. Avez-vous des livres pour apprendre le français ?\n7. Comment fonctionnent les ateliers de conversation : quels jours, quel niveau ?\n8. Faut-il réserver sa place aux ateliers ?\n9. L'accès Internet est-il limité dans le temps ?\n10. Est-ce que mes enfants peuvent avoir leur propre carte ?\nParfait, je passerai demain avec une facture d'électricité. Merci et bonne journée !",
+     "notes": ["Administrative procedures: *prouver mon adresse, s'inscrire en ligne, amende, carte*.", "*Combien… en même temps ? Pour combien de temps ?* — follow-up questions that build on the answer.", "Uses the library for French learning — natural and relevant."]
+    }
+   ]
+  },
+  {
+   "id": "EO3",
+   "name": "Tâche 3 — expression d'un point de vue",
+   "meta": "About 4½ min · no prep · defend an opinion, then answer the examiner's follow-ups",
+   "prep": 0, "secs": 270, "video": "zxzCzG-5e1o",
+   "how": "One shape for all sixteen themes: **Position → argument 1 + example → argument 2 + example → the other side (concession) → conclusion.** Speak continuously; hedge with *il me semble que, dans une certaine mesure*. When the examiner pushes back, don't collapse — *Je comprends votre point de vue, mais…*",
+   "frame": "Alors, à mon avis, … (position claire)\nD'abord, … Par exemple, dans mon pays / dans ma vie, …\nEnsuite / De plus, … Prenons l'exemple de …\nCertes, certains pensent que … et c'est en partie vrai, mais …\nPour conclure, je dirais que …",
+   "prompts": [
+    {
+     "theme": "Travail",
+     "prompt": "« Le télétravail devrait devenir la norme. » Qu'en pensez-vous ?",
+     "model": "Alors, à mon avis, le télétravail ne devrait pas devenir la norme pour tout le monde, mais il devrait être possible pour ceux qui le souhaitent, deux ou trois jours par semaine.\nD'abord, le télétravail a des avantages évidents. On économise le temps et l'argent des transports. Par exemple, à Lagos, beaucoup de gens passent trois heures par jour dans les embouteillages ; c'est du temps perdu et beaucoup de stress.\nEnsuite, travailler chez soi permet souvent de mieux se concentrer, surtout pour des tâches qui demandent du calme, comme écrire un rapport.\nCertes, certains pensent que le télétravail isole les employés, et c'est en partie vrai. On perd les discussions informelles, les pauses café, et pour les nouveaux employés, c'est plus difficile d'apprendre. C'est pour ça que je ne voudrais pas travailler à la maison tous les jours.\nEt puis, il y a des métiers où c'est tout simplement impossible : je suis infirmier, je ne peux pas soigner mes patients par vidéo !\nPour conclure, je dirais que la meilleure solution, c'est un modèle hybride, choisi par l'employé et l'entreprise ensemble.",
+     "notes": ["Nuanced position stated in the first sentence.", "Two arguments with concrete examples, then a genuine concession (*Certes… c'est en partie vrai*).", "Personal detail (*je suis infirmier*) makes it sound spontaneous.", "About 3–4 minutes when spoken at a calm pace."]
+    },
+    {
+     "theme": "Environnement",
+     "prompt": "« Il faudrait interdire les voitures en centre-ville. » Êtes-vous d'accord ?",
+     "model": "Je suis en partie d'accord. Je pense qu'il faudrait limiter fortement les voitures en centre-ville, mais une interdiction totale me semble difficile.\nD'abord, moins de voitures, c'est un air plus propre. La pollution de l'air cause beaucoup de maladies respiratoires, surtout chez les enfants et les personnes âgées.\nDe plus, les rues sans voitures sont plus agréables : on peut marcher, faire du vélo, s'asseoir en terrasse. Prenons l'exemple de certaines villes européennes, comme Amsterdam : le centre est vivant et les commerces fonctionnent très bien.\nCependant, il faut penser à tout le monde. Les personnes handicapées, les livreurs, les travailleurs de nuit ont besoin de circuler. Et si les transports en commun ne sont pas bons, interdire les voitures, c'est punir les gens.\nDonc, pour moi, il faut d'abord améliorer les bus et le métro, créer des pistes cyclables, et ensuite réduire la place de la voiture petit à petit.\nEn résumé : oui à moins de voitures, mais avec des alternatives et des exceptions.",
+     "notes": ["*Je suis en partie d'accord* — a strong opening for a nuanced answer.", "*Prenons l'exemple de…* — frame for evidence.", "Condition with *si* + present in the concession.", "Conclusion restates the position in one sentence."]
+    },
+    {
+     "theme": "Technologie",
+     "prompt": "« Les réseaux sociaux isolent plus qu'ils ne rapprochent. » Qu'en pensez-vous ?",
+     "model": "C'est une question intéressante. Personnellement, je pense que les réseaux sociaux ne sont ni bons ni mauvais en eux-mêmes : tout dépend de la façon dont on les utilise.\nD'un côté, ils rapprochent énormément. Par exemple, grâce à WhatsApp, je parle tous les jours avec ma famille qui habite à des milliers de kilomètres. Pour les immigrants, c'est essentiel. Ils permettent aussi de trouver des groupes, des associations, des gens qui ont les mêmes passions.\nD'un autre côté, c'est vrai que certaines personnes passent des heures à faire défiler des vidéos seules dans leur chambre. Elles se comparent aux autres, se sentent moins bien, et elles voient moins leurs amis en vrai. Les études montrent que c'est surtout un problème chez les adolescents.\nDonc, à mon avis, le vrai problème, ce n'est pas l'outil, c'est l'excès. Il faudrait apprendre aux jeunes à limiter leur temps d'écran et à utiliser les réseaux pour organiser des rencontres réelles.\nPour conclure, je dirais qu'ils rapprochent ceux qui sont loin, mais qu'ils peuvent éloigner ceux qui sont proches.",
+     "notes": ["*ni bons ni mauvais* — nuanced stance, then *tout dépend de*.", "*D'un côté… D'un autre côté…* — balanced structure.", "The final line is memorable: a chiasmus (*rapprochent ceux qui sont loin… éloigner ceux qui sont proches*)."]
+    },
+    {
+     "theme": "Argent",
+     "prompt": "« L'argent fait le bonheur. » Êtes-vous d'accord ?",
+     "model": "Alors, je dirais que l'argent ne fait pas le bonheur, mais qu'il y contribue beaucoup, surtout quand on en manque.\nD'abord, il faut être honnête : sans un minimum d'argent, c'est très difficile d'être heureux. Quand on ne peut pas payer son loyer, se soigner ou nourrir ses enfants, on vit dans le stress permanent. Dans mon pays, je vois beaucoup de familles pour qui la sécurité financière changerait tout.\nPar contre, au-delà d'un certain niveau, avoir plus d'argent ne rend pas forcément plus heureux. Il y a des gens très riches qui sont seuls ou malades. Ce qui compte le plus, à mon avis, ce sont les relations : la famille, les amis, et aussi la santé et le sens qu'on donne à son travail.\nCertes, l'argent permet de voyager, de se faire plaisir, d'aider les autres, et c'est une vraie source de bonheur. Mais ce bonheur dépend de ce qu'on fait avec l'argent, pas de l'argent lui-même.\nEn résumé, l'argent est une condition du bonheur, pas sa cause.",
+     "notes": ["*il y contribue* — pronoun *y* (contribuer à).", "*pour qui la sécurité financière changerait tout* — relative + conditional.", "*Ce qui compte le plus, ce sont…* — cleft sentence.", "Punchy conclusion: *une condition, pas sa cause*."]
+    },
+    {
+     "theme": "Éducation",
+     "prompt": "« Les études universitaires devraient être gratuites. » Qu'en pensez-vous ?",
+     "model": "Je suis plutôt favorable à cette idée, parce que je pense que l'éducation est un droit, pas un privilège.\nD'abord, la gratuité permet l'égalité des chances. Aujourd'hui, dans beaucoup de pays, un jeune très doué mais pauvre ne peut pas aller à l'université, ou il doit s'endetter pendant des années. Par exemple, au Canada et aux États-Unis, certains étudiants finissent leurs études avec des dizaines de milliers de dollars de dettes.\nEnsuite, c'est un investissement pour la société : des médecins, des ingénieurs, des enseignants bien formés, cela profite à tout le monde.\nCependant, je reconnais que la gratuité a un coût. C'est l'État, donc les contribuables, qui paie. Et certains étudiants pourraient moins s'investir s'ils ne paient rien.\nC'est pourquoi on pourrait imaginer un système intermédiaire : des études gratuites ou presque, mais avec des exigences, par exemple réussir ses examens chaque année, ou travailler quelques années dans le pays après le diplôme.\nPour conclure, je pense qu'un pays qui investit dans ses étudiants investit dans son avenir.",
+     "notes": ["*un droit, pas un privilège* — crisp thesis.", "*s'endetter, contribuables, égalité des chances* — precise vocabulary for the education theme.", "*s'ils ne paient rien* — si + present in the concession.", "Proposes a compromise before concluding."]
+    },
+    {
+     "theme": "Santé",
+     "prompt": "« Faire du sport devrait être obligatoire pour tous les adultes. » Qu'en pensez-vous ?",
+     "model": "Je comprends l'idée, mais je ne suis pas d'accord avec le mot « obligatoire ».\nBien sûr, le sport est excellent pour la santé. Il réduit les risques de maladies du cœur, de diabète, et il est très bon pour le moral. Moi-même, depuis que je marche trente minutes par jour, je dors beaucoup mieux.\nMais obliger les adultes à faire du sport, cela pose plusieurs problèmes. D'abord, comment contrôler ? On ne va pas vérifier la vie de chaque personne. Ensuite, tout le monde n'a pas les mêmes possibilités : certains travaillent douze heures par jour, d'autres ont des problèmes de santé ou n'ont pas d'argent pour une salle de sport.\nÀ mon avis, il vaut mieux encourager qu'obliger. Par exemple, les villes pourraient créer plus de parcs et de pistes cyclables gratuites, et les entreprises pourraient proposer des pauses sportives ou rembourser une partie de l'abonnement.\nEn conclusion, le sport doit être un plaisir accessible à tous, pas une obligation.",
+     "notes": ["Agrees with the goal, disagrees with the means — a sophisticated position.", "*depuis que je marche* — depuis que + present.", "*il vaut mieux encourager qu'obliger* — neat comparison of two infinitives.", "Rhetorical question (*comment contrôler ?*) keeps the monologue lively."]
+    },
+    {
+     "theme": "Immigration",
+     "prompt": "« Il est indispensable de parler la langue du pays où l'on s'installe. » Êtes-vous d'accord ?",
+     "model": "Oui, je suis tout à fait d'accord, et c'est d'ailleurs pour ça que je prépare cet examen !\nD'abord, la langue, c'est la clé du travail. Sans parler la langue, il est très difficile de trouver un emploi qui correspond à ses compétences. Beaucoup d'immigrants très diplômés acceptent des postes moins qualifiés simplement à cause de la langue.\nEnsuite, la langue permet de s'intégrer vraiment : parler avec ses voisins, comprendre l'école de ses enfants, aller chez le médecin sans interprète, comprendre les nouvelles. Sinon, on reste un peu étranger, même après des années.\nCertes, dans certaines grandes villes, on peut vivre en parlant seulement anglais, par exemple à Montréal dans certains quartiers. Et au début, c'est normal de ne pas tout comprendre. Mais je pense qu'il faut faire l'effort dès l'arrivée, parce que c'est aussi une forme de respect envers la société qui nous accueille.\nPour conclure, apprendre la langue, c'est difficile, mais c'est le meilleur investissement qu'un immigrant puisse faire.",
+     "notes": ["Personal link to the topic right away — natural and convincing.", "*à cause de* (negative cause) used correctly.", "*le meilleur investissement qu'un immigrant puisse faire* — subjunctive after a superlative: a B2 marker.", "Concession uses a real Canadian example."]
+    },
+    {
+     "theme": "Ville / campagne",
+     "prompt": "« Il vaut mieux vivre en ville qu'à la campagne. » Qu'en pensez-vous ?",
+     "model": "Pour moi, ça dépend beaucoup de l'âge et du moment de la vie, mais aujourd'hui, je préfère vivre en ville.\nD'abord, en ville, tout est proche : le travail, les écoles, les hôpitaux, les magasins. On perd moins de temps et on n'a pas forcément besoin de voiture. Pour un nouvel arrivant, c'est aussi en ville qu'il y a le plus d'emplois et de services pour les immigrants.\nEnsuite, la ville offre une vie culturelle riche : des concerts, des musées, des restaurants du monde entier. Par exemple, à Toronto, on peut manger nigérian, libanais ou vietnamien dans la même rue !\nCela dit, la campagne a de vrais avantages : le calme, l'air pur, des logements plus grands et moins chers. Pour élever des enfants ou pour la retraite, c'est très attirant. Et avec le télétravail, de plus en plus de gens quittent les grandes villes.\nDonc, en conclusion, je dirais que la ville est idéale pour construire sa carrière, et la campagne pour profiter de la vie plus tard. Moi, j'espère un jour avoir les deux : un appartement en ville et une petite maison à la campagne !",
+     "notes": ["*ça dépend… mais aujourd'hui, je préfère* — nuance without dodging.", "*Cela dit,* — a natural spoken concession marker.", "*c'est en ville qu'il y a le plus de…* — cleft sentence for emphasis.", "Light personal ending keeps it human."]
+    }
+   ]
+  }
+ ]
+}

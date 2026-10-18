@@ -1,0 +1,505 @@
+{
+ "id": "ce",
+ "title": "Reading",
+ "fr": "Compréhension écrite",
+ "icon": "📖",
+ "summary": "39 multiple-choice questions in 60 minutes, from a two-line notice to a C2 opinion column. You need **453** for NCLC 7. Reading is the most trainable skill, and the one where good time management alone can add points.",
+ "facts": [
+  [
+   "Duration",
+   "60 minutes"
+  ],
+  [
+   "Questions",
+   "39 multiple choice, 4 options, one correct answer"
+  ],
+  [
+   "Documents",
+   "Signs, notices, ads, emails, forms, news articles, opinion pieces"
+  ],
+  [
+   "Order",
+   "Easy to hard: A1 → A2 → B1 → B2 → C1 → C2"
+  ],
+  [
+   "Time budget",
+   "≈ 1½ min per item on average — but **fast on A1–A2**, slower on C1–C2"
+  ],
+  [
+   "Scoring",
+   "100–699. Harder questions are worth more (exact weights not public)"
+  ],
+  [
+   "Your target",
+   "**453** (NCLC 7 = 453–498) — aim for ~475 on mocks for margin"
+  ],
+  [
+   "Guessing",
+   "No penalty — **never leave a blank**"
+  ]
+ ],
+ "format": [
+  {
+   "title": "What you read, level by level",
+   "body": "**A1–A2:** short practical texts: a sign (*Fermé le lundi*), an ad, a text message, a timetable. The question is 'who is it for / what must you do / when'.\n**B1:** emails, notices, short articles about everyday life. Questions ask for **the purpose** of the text or **a condition**.\n**B2:** press articles and testimonies. Questions ask for the **main idea**, a cause, the author's position.\n**C1–C2:** dense argumentative texts, literary or academic style. Questions ask what the author **implies, criticises or concedes**."
+  },
+  {
+   "title": "Timing: where candidates lose points",
+   "body": "The most common reading failure isn't vocabulary: it's **running out of time** for the last 8 items — which are the heaviest.\nA workable budget: **A1–A2 items (≈ 10): 30–45 seconds each** → about 7 minutes. **B1–B2 (≈ 20): about 1½ minutes each** → 30 minutes. That leaves **≈ 20 minutes for the last 9 C1–C2 items**.\nCheck the clock at item 20: you should have **30+ minutes left**."
+  }
+ ],
+ "lessons": [
+  {
+   "id": "how",
+   "title": "How the reading section works",
+   "minutes": 8,
+   "steps": [
+    {
+     "kind": "chunk",
+     "title": "39 texts, rising difficulty, one clock",
+     "body": "Each question has its own short document. Texts get longer and harder as you go. You manage the time for the whole section — **nobody tells you to move on**.\nTwo rules: **read the question first**, and **protect time for the end**, where the items are worth most."
+    },
+    {
+     "kind": "check",
+     "q": "It's question 20 and 35 minutes have passed. What does that tell you?",
+     "options": [
+      "You're behind: speed up and guess faster on items you're stuck on",
+      "Perfect pace",
+      "You're ahead"
+     ],
+     "answer": 0,
+     "explain": "At item 20 you want 30+ minutes left for the heavier C1–C2 items. With 25 left you must speed up now."
+    },
+    {
+     "kind": "check",
+     "q": "You're stuck on question 14 after 3 minutes. What do you do?",
+     "options": [
+      "Pick the best option, flag it if the interface allows, move on",
+      "Keep reading until you're sure",
+      "Leave it blank"
+     ],
+     "answer": 0,
+     "explain": "Every item is one answer; time spent over-checking one B1 item is stolen from a C1 item worth more."
+    },
+    {
+     "kind": "recap",
+     "points": [
+      "Question first, then the text.",
+      "Budget: fast on A1–A2, ~1½ min on B1–B2, ~20 min kept for the last 9.",
+      "At item 20: **30+ minutes left**.",
+      "No blanks: guessing is free."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scan",
+   "title": "Question first, then scan",
+   "minutes": 10,
+   "steps": [
+    {
+     "kind": "chunk",
+     "title": "Don't read — search",
+     "body": "Most questions ask for **one piece of information**. Read the question, underline the key word mentally (a day, a price, *pourquoi*, *qui*), then **scan** the text for that spot and read carefully only there.\nFor A1–B1 items, reading the whole text 'properly' first wastes the time you'll need at C1."
+    },
+    {
+     "kind": "check",
+     "context": "**Piscine municipale** — Horaires d'été\nLundi : fermé · Mardi–vendredi : 7 h – 21 h · Samedi–dimanche : 9 h – 18 h\nCours d'aquagym le mercredi à 19 h (sur inscription).",
+     "q": "Le samedi, à quelle heure ferme la piscine ?",
+     "options": [
+      "18 h",
+      "21 h",
+      "19 h",
+      "Elle est fermée."
+     ],
+     "answer": 0,
+     "explain": "Scan for *samedi* → 9 h – 18 h. 21 h is weekdays; 19 h is the aquagym class; Monday is the closed day."
+    },
+    {
+     "kind": "check",
+     "context": "Chers parents, en raison de travaux, la cantine sera fermée du 3 au 7 mars. Les enfants devront apporter un repas froid. Le service de garde du soir reste ouvert normalement.",
+     "q": "Que doivent faire les parents du 3 au 7 mars ?",
+     "options": [
+      "Donner un repas froid à leurs enfants.",
+      "Venir chercher leurs enfants plus tôt.",
+      "Payer la cantine à l'avance.",
+      "Garder leurs enfants à la maison."
+     ],
+     "answer": 0,
+     "explain": "*Les enfants devront apporter un repas froid.* The *garde du soir* stays open, so B and D are wrong."
+    },
+    {
+     "kind": "recap",
+     "points": [
+      "Read the question → find its key word → scan → read closely **there**.",
+      "Timetables and notices: match the exact day/line the question asks about.",
+      "Other details in the text are there to trap you."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "notices",
+   "title": "Signs, ads and notices: the key words",
+   "minutes": 10,
+   "steps": [
+    {
+     "kind": "chunk",
+     "title": "Small words, whole answers",
+     "body": "Practical texts hinge on a few words:\n*interdit / défense de* = forbidden · *obligatoire* = required · *sauf* = except · *à partir de* = from · *jusqu'à* = until · *sur réservation / sur rendez-vous* = booking needed · *gratuit / sans frais* = free · *tarif réduit* = discount · *hors taxes* = before tax · *en panne / hors service* = not working · *fermé exceptionnellement* = unusually closed"
+    },
+    {
+     "kind": "check",
+     "context": "Parking réservé aux résidents, sauf le dimanche.",
+     "q": "Qui peut se garer ici le dimanche ?",
+     "options": [
+      "Tout le monde.",
+      "Seulement les résidents.",
+      "Personne.",
+      "Seulement les visiteurs."
+     ],
+     "answer": 0,
+     "explain": "*Sauf le dimanche* = the residents-only rule doesn't apply on Sunday → anyone can park."
+    },
+    {
+     "kind": "check",
+     "context": "Consultation sans rendez-vous du lundi au vendredi, de 8 h à 11 h. L'après-midi, sur rendez-vous uniquement.",
+     "q": "Vous voulez voir le médecin mardi à 15 h. Que devez-vous faire ?",
+     "options": [
+      "Prendre rendez-vous.",
+      "Venir directement.",
+      "Attendre le lundi.",
+      "Appeler après 11 h pour venir le matin."
+     ],
+     "answer": 0,
+     "explain": "15 h = afternoon → *sur rendez-vous uniquement*."
+    },
+    {
+     "kind": "check",
+     "context": "Soldes : –30 % sur tous les manteaux, à partir du 15 janvier, dans la limite des stocks disponibles.",
+     "q": "Quelle condition est indiquée ?",
+     "options": [
+      "La réduction dure tant qu'il reste des articles.",
+      "La réduction est réservée aux membres.",
+      "Il faut acheter deux manteaux.",
+      "La réduction se termine le 15 janvier."
+     ],
+     "answer": 0,
+     "explain": "*Dans la limite des stocks disponibles* = while stocks last. *À partir du 15* = from the 15th, not until (D)."
+    },
+    {
+     "kind": "recap",
+     "points": [
+      "*sauf* = except · *à partir de* = from · *jusqu'à* = until.",
+      "*sur rendez-vous / sur réservation* = you must book.",
+      "*dans la limite des stocks* = while stocks last.",
+      "Read the tiny words twice — they decide A1–B1 items."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paraphrase",
+   "title": "The answer uses different words",
+   "minutes": 10,
+   "steps": [
+    {
+     "kind": "chunk",
+     "title": "Word match = warning sign",
+     "body": "From B1, the correct option **reformulates** the text. An option that copies a phrase from the text is often a trap: it uses the text's words to say something the text doesn't say.\nAsk: **is this true according to the text?** — not *is this phrase in the text?*"
+    },
+    {
+     "kind": "check",
+     "context": "Depuis l'ouverture de la nouvelle ligne de tramway, le nombre de voitures dans le centre a baissé de 15 %, selon la mairie. Les commerçants, eux, attendent encore de voir l'effet sur leurs ventes.",
+     "q": "Qu'apprend-on ?",
+     "options": [
+      "La circulation automobile a diminué dans le centre.",
+      "Les ventes des commerçants ont baissé de 15 %.",
+      "Le tramway a été fermé.",
+      "Les commerçants sont satisfaits du tramway."
+     ],
+     "answer": 0,
+     "explain": "*Le nombre de voitures a baissé* = *la circulation a diminué*. B steals '15 %' and 'commerçants' but the text says their effect is **not yet known**."
+    },
+    {
+     "kind": "check",
+     "context": "La bibliothèque teste l'ouverture le dimanche pendant trois mois. Si la fréquentation est suffisante, ce nouvel horaire sera maintenu toute l'année.",
+     "q": "À quelle condition l'ouverture le dimanche sera-t-elle maintenue ?",
+     "options": [
+      "S'il vient assez de visiteurs.",
+      "Si les employés sont d'accord.",
+      "Si la mairie paie davantage.",
+      "Si le dimanche reste calme."
+     ],
+     "answer": 0,
+     "explain": "*Si la fréquentation est suffisante* = if enough people come = *s'il vient assez de visiteurs*."
+    },
+    {
+     "kind": "recap",
+     "points": [
+      "Correct options **reformulate**.",
+      "Options that copy the text's words often twist its meaning.",
+      "Test each option: *true according to the text?*"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "purpose",
+   "title": "Emails and letters: why was it written?",
+   "minutes": 8,
+   "steps": [
+    {
+     "kind": "chunk",
+     "title": "Find the purpose in the first and last lines",
+     "body": "Messages are written **to do something**: invite, thank, complain, apologise, ask, inform, remind, cancel. The purpose is usually in the **first sentence after the greeting** (*Je vous écris pour…*) or the **last request** (*Pourriez-vous… ?*).\nPurpose verbs to know: *se plaindre* (complain), *remercier*, *s'excuser*, *rappeler* (remind), *annuler*, *confirmer*, *demander des renseignements*."
+    },
+    {
+     "kind": "check",
+     "context": "Madame, je me permets de vous relancer au sujet de ma demande de remboursement du 12 mars, restée sans réponse. Je vous serais reconnaissant de me tenir informé rapidement.",
+     "q": "Pourquoi cette personne écrit-elle ?",
+     "options": [
+      "Pour rappeler une demande qui n'a pas reçu de réponse.",
+      "Pour demander un premier remboursement.",
+      "Pour remercier d'un remboursement.",
+      "Pour annuler une commande."
+     ],
+     "answer": 0,
+     "explain": "*Relancer* = follow up / remind. *Restée sans réponse* = unanswered. It's not the first request (B)."
+    },
+    {
+     "kind": "check",
+     "q": "*Je tenais à vous faire part de mon mécontentement* signals that the writer wants to…",
+     "options": [
+      "complain",
+      "thank",
+      "invite"
+     ],
+     "answer": 0,
+     "explain": "*Mécontentement* = dissatisfaction; *faire part de* = let someone know → a complaint."
+    },
+    {
+     "kind": "recap",
+     "points": [
+      "Purpose = first line after the greeting, or the final request.",
+      "*relancer* = follow up · *se plaindre* = complain · *faire part de* = inform.",
+      "Distinguish first request vs reminder vs thanks."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "articles",
+   "title": "Articles: main idea vs detail",
+   "minutes": 10,
+   "steps": [
+    {
+     "kind": "chunk",
+     "title": "Title, first sentence, last sentence",
+     "body": "For B2 articles, a question like *Quel est le sujet principal ?* or *Que montre cet article ?* is answered by the **title + first sentence + conclusion**. A true detail from the middle of the text is **not** the main idea — and it's a favourite distractor.\nFor detail questions, go back to scanning."
+    },
+    {
+     "kind": "check",
+     "context": "**Le vélo gagne du terrain en hiver**\nÀ Montréal, de plus en plus de cyclistes roulent toute l'année, même par –15 °C. La ville déneige désormais 700 km de pistes. Pour les associations, ce succès montre que les habitudes changent quand les infrastructures suivent.",
+     "q": "Quelle est l'idée principale ?",
+     "options": [
+      "Les aménagements encouragent l'usage du vélo toute l'année.",
+      "La ville déneige 700 km de pistes.",
+      "Il fait –15 °C à Montréal en hiver.",
+      "Les associations de cyclistes sont nombreuses."
+     ],
+     "answer": 0,
+     "explain": "Title + conclusion: *les habitudes changent quand les infrastructures suivent*. B and C are true details, not the main idea."
+    },
+    {
+     "kind": "recap",
+     "points": [
+      "Main idea = title + first + last sentence.",
+      "A true detail is not the main idea.",
+      "Main-idea options are usually more **general** than detail options."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "opinion",
+   "title": "B2–C2: the author's position",
+   "minutes": 12,
+   "steps": [
+    {
+     "kind": "chunk",
+     "title": "Follow the connectors",
+     "body": "Opinion texts present an idea, then qualify or reject it. The author's position is where the text **lands**:\n*Certes / Il est vrai que / Sans doute… **mais / cependant / pourtant**…* → the view is after *mais*.\n*On pourrait croire que… **Or**…* → *or* introduces the author's correction.\n*Loin de…* = far from (the opposite is true). *Encore faudrait-il…* = it would still be necessary to… (a doubt)."
+    },
+    {
+     "kind": "check",
+     "context": "On présente souvent le travail de nuit comme un choix subi et pénible. Pourtant, de nombreux infirmiers de nuit affirment préférer ces horaires : moins de réunions, plus d'autonomie et une équipe très soudée.",
+     "q": "Quelle idée l'auteur met-il en avant ?",
+     "options": [
+      "Le travail de nuit a aussi des avantages pour certains.",
+      "Le travail de nuit est toujours pénible.",
+      "Les infirmiers de nuit sont mal payés.",
+      "Il faut supprimer le travail de nuit."
+     ],
+     "answer": 0,
+     "explain": "*On présente souvent…* = the common view. *Pourtant* = the author's correction."
+    },
+    {
+     "kind": "check",
+     "context": "Loin de ralentir les chantiers, la nouvelle procédure en ligne a réduit de moitié le délai d'obtention des permis de construire.",
+     "q": "Selon le texte, la procédure en ligne…",
+     "options": [
+      "a accéléré l'obtention des permis.",
+      "a ralenti les chantiers.",
+      "n'a eu aucun effet.",
+      "a supprimé les permis de construire."
+     ],
+     "answer": 0,
+     "explain": "*Loin de ralentir* = far from slowing down → the opposite: it halved the waiting time."
+    },
+    {
+     "kind": "check",
+     "context": "Le ministre assure que la réforme est purement technique ; elle n'en modifie pas moins profondément l'accès aux bourses étudiantes.",
+     "q": "Que suggère l'auteur ?",
+     "options": [
+      "La réforme a des effets importants, malgré ce qu'affirme le ministre.",
+      "La réforme est purement technique.",
+      "La réforme supprime toutes les bourses.",
+      "Le ministre s'oppose à la réforme."
+     ],
+     "answer": 0,
+     "explain": "*N'en… pas moins* = nonetheless. The minister calls it technical, **yet** it deeply changes access to grants. C goes further than the text."
+    },
+    {
+     "kind": "recap",
+     "points": [
+      "The view is after *mais / pourtant / cependant / or*.",
+      "*Loin de* + X = the opposite of X.",
+      "*N'en… pas moins* = nevertheless.",
+      "Wrong C1 options often **overstate** the author."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "traps",
+   "title": "Traps: absolute words and what the text doesn't say",
+   "minutes": 8,
+   "steps": [
+    {
+     "kind": "chunk",
+     "title": "Three traps",
+     "body": "1. **Absolute words** in options: *toujours, jamais, tous, aucun, uniquement, seulement*. If the text says *souvent* or *la plupart*, the absolute option is wrong.\n2. **Not in the text**: an option can be true in real life but not stated. Answer from the text only.\n3. **Half-right**: the first half matches, the second half contradicts. Read every option to the end."
+    },
+    {
+     "kind": "check",
+     "context": "La plupart des participants ont trouvé la formation utile, même si certains l'ont jugée trop courte.",
+     "q": "Quelle affirmation est correcte ?",
+     "options": [
+      "La majorité a apprécié la formation.",
+      "Tous les participants ont apprécié la formation.",
+      "Personne n'a trouvé la formation trop courte.",
+      "La formation a été jugée inutile."
+     ],
+     "answer": 0,
+     "explain": "*La plupart* = most, not *tous* (B). *Certains l'ont jugée trop courte* rules out C."
+    },
+    {
+     "kind": "check",
+     "context": "Le musée propose des visites guidées en français et en anglais le samedi.",
+     "q": "Quelle affirmation est vraie selon le texte ?",
+     "options": [
+      "On peut faire une visite guidée en anglais le samedi.",
+      "Les visites guidées sont gratuites.",
+      "Le musée est fermé le dimanche.",
+      "Il n'y a des visites que le samedi."
+     ],
+     "answer": 0,
+     "explain": "B and C aren't mentioned. D uses an absolute (*que le samedi*) the text doesn't state — it only says they happen on Saturday."
+    },
+    {
+     "kind": "recap",
+     "points": [
+      "Absolute words (*tous, jamais, uniquement*) → check the text says exactly that.",
+      "Answer only from the text, not from real-world knowledge.",
+      "Read every option to the end: half-right is wrong."
+     ]
+    }
+   ]
+  }
+ ],
+ "mistakes": [
+  {
+   "title": "Reading every text in full before the question",
+   "why": "It eats the time you need for the C1–C2 items at the end.",
+   "fix": "Question first, then scan for its key word. Read closely only where the answer is."
+  },
+  {
+   "title": "Running out of time on the last items",
+   "why": "The last 9 items are the heaviest — losing them costs the most.",
+   "fix": "Check the clock at item 20: 30+ minutes left. Guess and move on when stuck beyond 2 minutes."
+  },
+  {
+   "title": "Picking the option that copies the text",
+   "why": "Distractors recycle the text's words; correct options paraphrase.",
+   "fix": "Test meaning: *is it true according to the text?*"
+  },
+  {
+   "title": "Choosing a true detail as the main idea",
+   "why": "The detail is in the text, so it feels safe.",
+   "fix": "Main idea = title + first + last sentence; it's the most general option that fits."
+  },
+  {
+   "title": "Ignoring *sauf, uniquement, à partir de*",
+   "why": "One small word flips the answer on A1–B1 notices.",
+   "fix": "Circle (mentally) every restriction word in practical texts."
+  },
+  {
+   "title": "Answering from general knowledge",
+   "why": "An option can be true in real life but not stated in the text.",
+   "fix": "If you can't point to the sentence, it's not the answer."
+  },
+  {
+   "title": "Missing the turn after *pourtant / or / mais*",
+   "why": "The author sets up a view to reject it.",
+   "fix": "In opinion texts, the position is where the text lands — after the connector."
+  },
+  {
+   "title": "Leaving blanks",
+   "why": "A blank scores zero; a guess doesn't lose anything.",
+   "fix": "Answer everything. Always."
+  }
+ ],
+ "checklist": [
+  "Read the **question first**; find its key word; scan; read closely there.",
+  "A1–A2 items: 30–45 seconds each. Don't over-check.",
+  "At item 20: **30+ minutes left**, or speed up.",
+  "Main-idea questions: title + first + last sentence.",
+  "Opinion texts: the view is after *mais / pourtant / or*.",
+  "Stuck for 2 minutes? Best guess, move on. Never leave a blank."
+ ],
+ "resources": [
+  "1jour1actu",
+  "rfi-ex",
+  "lemonde",
+  "lingua-read",
+  "kdsingh",
+  "tcfcan",
+  "tcftefprep",
+  "reussir",
+  "fei",
+  "tv5monde"
+ ],
+ "videos": [
+  "RqVWFLSlS5U",
+  "zS9xfh1Hdis"
+ ],
+ "levelLinks": {
+  "A1": "https://www.kdsinghacademy.com/tcf-cea1",
+  "A2": "https://www.kdsinghacademy.com/tcf-cea2",
+  "B1": "https://www.kdsinghacademy.com/tcf-ceb1",
+  "B2": "https://www.kdsinghacademy.com/tcf-ceb2",
+  "C1": "https://www.kdsinghacademy.com/tcf-cec1",
+  "C2": "https://www.kdsinghacademy.com/tcf-cec2"
+ }
+}

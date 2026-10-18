@@ -1,0 +1,94 @@
+{
+  "traps": [
+    { "id": "fauxamis", "title": "Faux amis", "rule": "*actuellement* = currently · *éventuellement* = possibly · *sensible* = sensitive · *librairie* = bookshop · *assister à* = to attend · *passer un examen* = to sit one (réussir = pass)",
+      "items": [
+        { "type": "mcq", "q": "*Actuellement, je travaille à Lagos.*", "options": ["Currently, I work in Lagos.", "Actually, I work in Lagos."], "answer": 0 },
+        { "type": "mcq", "q": "*Je passe l'examen demain.*", "options": ["I'm sitting the exam tomorrow.", "I'm passing the exam tomorrow."], "answer": 0 },
+        { "type": "mcq", "q": "\"I passed the TCF!\"", "options": ["J'ai réussi le TCF !", "J'ai passé le TCF !"], "answer": 0, "explain": "*passer* = sit. Passing = *réussir*." },
+        { "type": "mcq", "q": "*Il est très sensible.*", "options": ["He's very sensitive.", "He's very sensible."], "answer": 0 },
+        { "type": "mcq", "q": "\"I attended the meeting.\"", "options": ["J'ai assisté à la réunion.", "J'ai attendu la réunion."], "answer": 0 },
+        { "type": "mcq", "q": "*On pourrait éventuellement reporter.*", "options": ["We could possibly postpone.", "We could eventually postpone."], "answer": 0 },
+        { "type": "mcq", "q": "\"The library is closed.\"", "options": ["La bibliothèque est fermée.", "La librairie est fermée."], "answer": 0 },
+        { "type": "mcq", "q": "\"Actually, I'm a doctor.\"", "options": ["En fait, je suis médecin.", "Actuellement, je suis médecin."], "answer": 0 }
+      ] },
+    { "id": "avoiretre", "title": "avoir, not être", "rule": "*j'ai 32 ans · j'ai faim · j'ai soif · j'ai froid · j'ai chaud · j'ai raison · j'ai tort · j'ai peur · j'ai besoin de · j'ai envie de*",
+      "items": [
+        { "type": "gap", "q": "J'___ trente-deux ans.", "answer": ["ai"] },
+        { "type": "gap", "q": "Tu ___ froid ?", "answer": ["as"] },
+        { "type": "gap", "q": "Vous ___ raison.", "answer": ["avez"] },
+        { "type": "gap", "q": "J'___ besoin d'aide.", "answer": ["ai"] },
+        { "type": "mcq", "q": "\"I'm hungry.\"", "options": ["J'ai faim.", "Je suis faim.", "Je suis affamé."], "answer": 0 },
+        { "type": "mcq", "q": "\"She's afraid.\"", "options": ["Elle a peur.", "Elle est peur."], "answer": 0 }
+      ] },
+    { "id": "depuis", "title": "depuis + present", "rule": "Still true now → **depuis + present**: *j'habite ici depuis cinq ans*. Finished/ago → *il y a*: *il y a cinq ans, j'ai déménagé*. Closed duration → *pendant*.",
+      "items": [
+        { "type": "mcq", "q": "\"I've been living in Lagos for 5 years.\"", "options": ["J'habite à Lagos depuis cinq ans.", "J'ai habité à Lagos depuis cinq ans."], "answer": 0 },
+        { "type": "mcq", "q": "\"I moved five years ago.\"", "options": ["J'ai déménagé il y a cinq ans.", "J'ai déménagé depuis cinq ans."], "answer": 0 },
+        { "type": "mcq", "q": "\"I studied French for two months (then stopped).\"", "options": ["J'ai étudié le français pendant deux mois.", "J'étudie le français depuis deux mois."], "answer": 0 },
+        { "type": "mcq", "q": "\"How long have you been working here?\"", "options": ["Depuis combien de temps travaillez-vous ici ?", "Pendant combien de temps avez-vous travaillé ici ?"], "answer": 0 },
+        { "type": "gap", "q": "Je suis médecin ___ 2019.", "answer": ["depuis"] }
+      ] },
+    { "id": "pays", "title": "Country prepositions", "rule": "Feminine (-e) & vowel: **en** France, en Côte d'Ivoire, en Iran · Masculine: **au** Canada, au Nigeria, au Bénin, au Togo, au Cameroun · Plural: **aux** États-Unis · Cities: **à** Lagos, à Montréal",
+      "items": [
+        { "type": "mcq", "q": "J'habite ___ Nigeria.", "options": ["au", "en", "à"], "answer": 0 },
+        { "type": "mcq", "q": "Je vais ___ France.", "options": ["en", "au", "à la"], "answer": 0 },
+        { "type": "mcq", "q": "Elle travaille ___ États-Unis.", "options": ["aux", "en", "au"], "answer": 0 },
+        { "type": "mcq", "q": "Mon tuteur est ___ Côte d'Ivoire.", "options": ["en", "au", "à"], "answer": 0 },
+        { "type": "mcq", "q": "On arrive ___ Montréal lundi.", "options": ["à", "au", "en"], "answer": 0 },
+        { "type": "mcq", "q": "Je voudrais immigrer ___ Canada.", "options": ["au", "en", "à"], "answer": 0 },
+        { "type": "mcq", "q": "Ma tutrice habite ___ Bénin.", "options": ["au", "en"], "answer": 0 }
+      ] },
+    { "id": "savoir", "title": "savoir vs connaître", "rule": "**savoir** = a fact, or how to do something (+ infinitive, + que, + question word) · **connaître** = a person, a place, a work — familiarity",
+      "items": [
+        { "type": "mcq", "q": "Je ___ Montréal.", "options": ["connais", "sais"], "answer": 0 },
+        { "type": "mcq", "q": "Tu ___ nager ?", "options": ["sais", "connais"], "answer": 0 },
+        { "type": "mcq", "q": "Je ne ___ pas où il habite.", "options": ["sais", "connais"], "answer": 0 },
+        { "type": "mcq", "q": "Vous ___ le docteur Martin ?", "options": ["connaissez", "savez"], "answer": 0 },
+        { "type": "mcq", "q": "Je ___ qu'il a raison.", "options": ["sais", "connais"], "answer": 0 }
+      ] },
+    { "id": "bonbien", "title": "bon/bien · meilleur/mieux", "rule": "**bon / meilleur** = adjectives (describe a noun) · **bien / mieux** = adverbs (describe a verb). *C'est bien* = it's good (judgement).",
+      "items": [
+        { "type": "mcq", "q": "C'est un ___ médecin.", "options": ["bon", "bien"], "answer": 0 },
+        { "type": "mcq", "q": "Il travaille ___ .", "options": ["bien", "bon"], "answer": 0 },
+        { "type": "mcq", "q": "Ce plan est ___ que l'autre.", "options": ["meilleur", "mieux"], "answer": 0 },
+        { "type": "mcq", "q": "Je parle ___ qu'avant.", "options": ["mieux", "meilleur"], "answer": 0 },
+        { "type": "mcq", "q": "Ça sent ___ !", "options": ["bon", "bien"], "answer": 0, "explain": "Fixed: *ça sent bon*, *il fait bon*." }
+      ] },
+    { "id": "preposition", "title": "Verb + à / de", "rule": "*penser à* (think about) vs *penser de* (opinion of) · *téléphoner à* · *parler à / de* · *rendre visite à* a person, *visiter* a place · *décider de* · *essayer de* · *commencer à* · *réussir à* · *avoir besoin de* · *assister à*",
+      "items": [
+        { "type": "mcq", "q": "Je téléphone ___ ma mère.", "options": ["à", "—", "de"], "answer": 0 },
+        { "type": "mcq", "q": "Qu'est-ce que tu penses ___ ce projet ?", "options": ["de", "à"], "answer": 0 },
+        { "type": "mcq", "q": "Je pense souvent ___ mon pays.", "options": ["à", "de"], "answer": 0 },
+        { "type": "mcq", "q": "J'ai rendu visite ___ mes parents.", "options": ["à", "—"], "answer": 0 },
+        { "type": "mcq", "q": "\"We visited Québec.\"", "options": ["On a visité Québec.", "On a rendu visite à Québec."], "answer": 0 },
+        { "type": "mcq", "q": "J'essaie ___ comprendre.", "options": ["de", "à", "—"], "answer": 0 },
+        { "type": "mcq", "q": "Il commence ___ pleuvoir.", "options": ["à", "de"], "answer": 0 }
+      ] },
+    { "id": "genre", "title": "Gender", "rule": "Every noun with its article. Useful patterns: -tion, -té, -ure, -ence, -ette → usually feminine · -ment, -age, -eau, -isme → usually masculine. Exceptions exist (la plage, l'eau f.).",
+      "items": [
+        { "type": "mcq", "q": "___ situation", "options": ["la", "le"], "answer": 0 },
+        { "type": "mcq", "q": "___ problème", "options": ["le", "la"], "answer": 0 },
+        { "type": "mcq", "q": "___ santé", "options": ["la", "le"], "answer": 0 },
+        { "type": "mcq", "q": "___ logement", "options": ["le", "la"], "answer": 0 },
+        { "type": "mcq", "q": "___ voyage", "options": ["le", "la"], "answer": 0 },
+        { "type": "mcq", "q": "___ plage", "options": ["la", "le"], "answer": 0, "explain": "Exception: -age but feminine." },
+        { "type": "mcq", "q": "___ système", "options": ["le", "la"], "answer": 0 },
+        { "type": "mcq", "q": "___ ordonnance", "options": ["une", "un"], "answer": 0 }
+      ] },
+    { "id": "pcimp", "title": "Passé composé vs imparfait", "rule": "Film method: **imparfait** = scenery, states, habits, what was going on · **passé composé** = the events that move the story.",
+      "items": [
+        { "type": "mcq", "q": "Il ___ beau quand nous sommes partis.", "options": ["faisait", "a fait"], "answer": 0 },
+        { "type": "mcq", "q": "Tout à coup, la lumière ___ .", "options": ["s'est éteinte", "s'éteignait"], "answer": 0 },
+        { "type": "mcq", "q": "Avant, je ___ le bus tous les jours.", "options": ["prenais", "ai pris"], "answer": 0 },
+        { "type": "mcq", "q": "Je ___ trois fois à Paris.", "options": ["suis allé", "allais"], "answer": 0 },
+        { "type": "mcq", "q": "Pendant que je ___ , le téléphone a sonné.", "options": ["cuisinais", "ai cuisiné"], "answer": 0 }
+      ] },
+    { "id": "si", "title": "Never conditional/future after si", "rule": "si + present → future · si + imparfait → conditionnel · si + plus-que-parfait → conditionnel passé.",
+      "items": [
+        { "type": "mcq", "q": "Si j'___ plus de temps, je lirais plus.", "options": ["avais", "aurais"], "answer": 0 },
+        { "type": "mcq", "q": "S'il pleut, on ___ à la maison.", "options": ["restera", "resterait"], "answer": 0 },
+        { "type": "mcq", "q": "Si tu ___ venu, tu l'aurais vu.", "options": ["étais", "serais"], "answer": 0 },
+        { "type": "mcq", "q": "Which is wrong?", "options": ["Si j'aurais le temps…", "Si j'avais le temps…", "Si j'ai le temps…"], "answer": 0 }
+      ] }
+  ]
+}

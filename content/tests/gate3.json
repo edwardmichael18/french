@@ -1,0 +1,28 @@
+{
+ "id": "gate3",
+ "kind": "gate",
+ "gate": 3,
+ "title": "Gate 3 — end of week 13 (14 Dec)",
+ "timed": false,
+ "intro": "Pass: **CO ≥ 400 and CE ≥ 400 on a TCF sample · 180-word piece at ~9/20 · 3 min unprepared.** **Production only missing: normal, Block C fixes it. Comprehension missing: move to April** (the slower of the two to repair).",
+ "sections": [
+  {
+   "id": "link",
+   "type": "link",
+   "title": "Take Mock A (untimed)",
+   "href": "/test/mockA"
+  },
+  {
+   "id": "criteria",
+   "type": "criteria",
+   "title": "Gate 3 criteria",
+   "items": [
+    "CO ≥ 400 (Mock A or official sample)",
+    "CE ≥ 400",
+    "180-word piece at ~9/20",
+    "3 minutes unprepared, sustained"
+   ],
+   "rule": "Production short only → continue (Block C fixes it). Comprehension short → move to April."
+  }
+ ]
+}

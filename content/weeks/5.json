@@ -1,0 +1,55 @@
+{
+  "w": 5,
+  "title": "Imparfait, and the contrast",
+  "level": "A2",
+  "objective": "Master the hardest, most-tested contrast: passé composé vs imparfait — with the film method, not rules.",
+  "tasks": [
+    "Start the registration watch: 2027 calendars publish Nov–Dec (Lagos portal, Port Harcourt site)",
+    "Tutor to 5×/week",
+    "Every Friday: retell your weekend shift aloud, 3 minutes"
+  ],
+  "resources": ["rfi", "lepointdufle", "italki"],
+  "steps": [
+    { "kind": "chunk", "title": "Formation is trivial",
+      "body": "Take the **nous** form, drop **-ons**, add **-ais, -ais, -ait, -ions, -iez, -aient**.\n*nous parl-ons* → je parl**ais**, on parl**ait**, vous parl**iez**.\nOnly **être** is irregular: **ét-** → *j'étais*, *c'était*." },
+    { "kind": "check", "type": "gap", "q": "Imparfait of *faire* for *je*: nous **fais**ons → je ___", "answer": ["faisais"] },
+    { "kind": "chunk", "title": "The film method",
+      "body": "**Imparfait** is the set, the weather, the camera panning. **Passé composé** is what *happens*.\n*Il **pleuvait**, il **était** trois heures du matin, le service **était** calme — **quand** un patient **est arrivé**.*\nEverything before *quand* is scenery; the arrival is plot." },
+    { "kind": "explain", "prompt": "In your own words: what does the imparfait do in a story, and what does the passé composé do?",
+      "model": "Imparfait paints the background (states, descriptions, what was going on, habits). Passé composé moves the story forward (single completed events)." },
+    { "kind": "chunk", "title": "Minimal pairs, not paradigms",
+      "body": "*Je **lisais** quand il a téléphoné* — I was reading (interrupted).\n*J'**ai lu** quand il a téléphoné* — I read (after he phoned).\n*Il **était** malade* — a state. *Il **a été** malade* — a bounded episode, now over." },
+    { "kind": "drill", "title": "Scenery or plot?", "items": [
+      { "type": "mcq", "q": "Quand je suis arrivé, il ___ .", "options": ["pleuvait", "a plu"], "answer": 0, "explain": "Weather at that moment → scenery.", "trap": "pcimp" },
+      { "type": "mcq", "q": "Soudain, le téléphone ___ .", "options": ["a sonné", "sonnait"], "answer": 0, "explain": "*Soudain* = an event.", "trap": "pcimp" },
+      { "type": "mcq", "q": "Quand j'étais enfant, je ___ au foot tous les samedis.", "options": ["jouais", "ai joué"], "answer": 0, "explain": "Repeated habit → imparfait.", "trap": "pcimp" },
+      { "type": "mcq", "q": "Hier, j'___ trois patients.", "options": ["ai vu", "voyais"], "answer": 0, "explain": "Counted, completed events → PC.", "trap": "pcimp" },
+      { "type": "mcq", "q": "Le patient ___ fatigué et il avait de la fièvre.", "options": ["était", "a été"], "answer": 0, "explain": "Description of a state → imparfait.", "trap": "pcimp" },
+      { "type": "mcq", "q": "J'___ à Ibadan pendant deux ans, puis je suis parti.", "options": ["ai habité", "habitais"], "answer": 0, "explain": "*pendant deux ans* closes the period → PC.", "trap": "pcimp" }
+    ] },
+    { "kind": "chunk", "title": "Signal words (use them, don't rely on them)",
+      "body": "Scenery / habit: *d'habitude, tous les jours, souvent, quand j'étais petit, pendant que*\nEvents: *soudain, tout à coup, un jour, ce matin-là, à ce moment-là, pendant deux heures (closed)*" },
+    { "kind": "produce", "mode": "speak", "title": "Friday drill: your weekend shift, 3 minutes",
+      "task": "Retell your weekend shift. Set the scene in the imparfait (time, weather, how the ward was), then the events in the passé composé. The content is already true — you're only practising the contrast.",
+      "prompt": "Racontez votre garde du week-end : le décor, puis ce qui s'est passé.",
+      "model": "Il **était** minuit, il **faisait** chaud et le service **était** calme. Je **lisais** un dossier **quand** une infirmière **est arrivée** en courant. Un patient **avait** du mal à respirer. **J'ai appelé** l'anesthésiste, **on a mis** le patient sous oxygène et, une heure après, il **allait** mieux.",
+      "seconds": 180,
+      "hints": ["Scene: *Il était… il faisait… le service était…*", "Hinge: *… quand + passé composé*", "Close: *Finalement, … / Une heure après, il allait mieux.*"] },
+    { "kind": "produce", "mode": "write", "title": "Write the same story — 100 words",
+      "task": "This is writing tâche 2 in miniature — exactly where PC/imparfait is graded hardest. Underline (mentally) each verb: scenery or plot?",
+      "prompt": "Racontez un événement marquant à l'hôpital (≈100 mots).",
+      "min": 90, "max": 120 },
+    { "kind": "recap", "points": [
+      "Imparfait = nous-stem + ais/ais/ait/ions/iez/aient; only être is irregular (ét-)",
+      "Imparfait = scenery, states, habits, what was going on",
+      "Passé composé = events that move the story",
+      "*… quand* + PC is the classic interruption",
+      "Registration watch opens this week"
+    ] },
+    { "kind": "spiral", "title": "Weeks 2–4", "items": [
+      { "type": "mcq", "q": "*Elle ___ partie à 7 h.*", "options": ["est", "a"], "answer": 0 },
+      { "type": "mcq", "q": "\"She is 30.\"", "options": ["Elle a trente ans.", "Elle est trente ans."], "answer": 0, "trap": "avoiretre" },
+      { "type": "mcq", "q": "*actuellement* means…", "options": ["currently", "actually"], "answer": 0, "trap": "fauxamis" }
+    ] }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "w": 4,
+  "title": "Passé composé · GATE 1",
+  "level": "A2",
+  "gate": 1,
+  "objective": "Tell what you did — in speech, accurately. Then Gate 1: 3–5 minutes without switching to English.",
+  "tasks": [
+    "Learn the être verbs as movement + change of state + all reflexives",
+    "Vocabulary: your own day (la garde, le service, une ordonnance…)",
+    "Take Gate 1 on Friday and compare with your week-1 recording"
+  ],
+  "resources": ["lepointdufle", "italki", "anki"],
+  "steps": [
+    { "kind": "chunk", "title": "Passé composé = auxiliary + past participle",
+      "body": "**avoir** is the default: *j'**ai** mangé*, *on **a** travaillé*, *vous **avez** fini*.\nParticiples: -er → **-é** (parlé) · -ir → **-i** (fini) · -re → **-u** (vendu)." },
+    { "kind": "chunk", "title": "Irregular participles, frequency order",
+      "body": "**eu** (avoir) · **été** (être) · **fait** · **dit** · **pris** · **mis** · **vu** · **venu** · **pu** · **voulu** · **su** · **lu** · **écrit**\n[[J'ai eu de la chance.]] [[J'ai fait une garde.]] [[J'ai pris le bus.]]" },
+    { "kind": "drill", "title": "Participles", "items": [
+      { "type": "gap", "q": "J'ai ___ (voir) le patient.", "answer": ["vu"] },
+      { "type": "gap", "q": "Il a ___ (prendre) une décision.", "answer": ["pris"] },
+      { "type": "gap", "q": "On a ___ (faire) une pause.", "answer": ["fait"] },
+      { "type": "gap", "q": "Vous avez ___ (lire) le dossier ?", "answer": ["lu"] },
+      { "type": "gap", "q": "J'ai ___ (écrire) une ordonnance.", "answer": ["écrit"] }
+    ] },
+    { "kind": "chunk", "title": "être verbs — learn the logic, not a mnemonic",
+      "body": "**Movement and change of state**: aller, venir, arriver, partir, entrer, sortir, monter, descendre, tomber, rester, naître, mourir, devenir, retourner, rentrer.\n**Plus all reflexives**: *je me suis levé(e)*.\nWith être the participle **agrees**: *elle est arrivé**e***, *ils sont parti**s***." },
+    { "kind": "check", "type": "mcq", "q": "\"She arrived at 3 am.\"", "options": ["Elle est arrivée à trois heures du matin.", "Elle a arrivé à trois heures du matin.", "Elle est arrivé à trois heures du matin."], "answer": 0, "explain": "Movement → **être** → agreement with *elle*: arrivé**e**." },
+    { "kind": "check", "type": "mcq", "q": "\"I got up early.\"", "options": ["Je me suis levé tôt.", "J'ai me levé tôt.", "Je m'ai levé tôt."], "answer": 0, "explain": "Reflexives always take **être**." },
+    { "kind": "chunk", "title": "Negation wraps the auxiliary",
+      "body": "*Je **n'ai pas** mangé.* · *Il **n'est pas** venu.* · *On **n'a rien** fait.*\nAdverbs sit between auxiliary and participle: *j'ai **beaucoup** travaillé*, *j'ai **bien** dormi*." },
+    { "kind": "check", "type": "mcq", "q": "\"I didn't sleep.\"", "options": ["Je n'ai pas dormi.", "Je n'ai dormi pas.", "Je ne pas ai dormi."], "answer": 0 },
+    { "kind": "chunk", "title": "Deliberately deferred",
+      "body": "Agreement with a **preceding direct object** (*les livres que j'ai lu**s***) — high cost, near-zero spoken yield, usually inaudible. **Recognition only until week 15.** What a teacher defers matters as much as what they teach." },
+    { "kind": "chunk", "title": "Vocabulary: your own day",
+      "body": "[[la garde]] (shift) · [[le service]] (ward/department) · [[une ordonnance]] (prescription) · [[un patient]] · [[soigner]] (to treat) · [[un rendez-vous]] · [[les urgences]] · [[être de garde]]\n*Santé* is a TCF theme where you hold an advantage over every other candidate in the room." },
+    { "kind": "produce", "mode": "speak", "title": "Your last shift — 2 minutes",
+      "task": "Tell what happened on your last shift in the **passé composé**. At least 6 different verbs, 2 with **être**, 1 negative. Don't stop for errors — note them after.",
+      "prompt": "Racontez votre dernière garde.",
+      "model": "Samedi, **je suis arrivé(e)** à l'hôpital à huit heures. **J'ai vu** beaucoup de patients. Vers minuit, un homme **est venu** aux urgences. **J'ai fait** un examen et **j'ai écrit** une ordonnance. **Je n'ai pas dormi**. Dimanche matin, **je suis rentré(e)** à la maison.",
+      "seconds": 120,
+      "hints": ["Start: *Samedi, je suis arrivé(e) à…*", "Middle: *J'ai vu… J'ai fait… Un patient est venu…*", "End: *Je n'ai pas dormi. Je suis rentré(e)…*"] },
+    { "kind": "produce", "mode": "write", "title": "Write it — 60–80 words",
+      "task": "Write the same story. Passé composé only. Check every être verb for agreement.",
+      "prompt": "Racontez votre dernière garde (60–80 mots).",
+      "min": 60, "max": 80 },
+    { "kind": "recap", "points": [
+      "PC = avoir (default) / être + participle",
+      "être = movement, change of state, all reflexives → agreement",
+      "eu, été, fait, dit, pris, mis, vu, venu, pu, voulu, su, lu, écrit",
+      "Negation wraps the auxiliary; adverbs sit inside",
+      "Preceding-direct-object agreement: recognition only until week 15"
+    ] },
+    { "kind": "spiral", "title": "Weeks 1–3", "items": [
+      { "type": "mcq", "q": "\"What's happening?\"", "options": ["Qu'est-ce qui se passe ?", "Qu'est-ce que se passe ?"], "answer": 0 },
+      { "type": "gap", "q": "J'habite à Lagos ___ cinq ans. (for five years, still true)", "answer": ["depuis"], "trap": "depuis", "explain": "**depuis** + present: *J'habite ici depuis cinq ans.*" },
+      { "type": "mcq", "q": "Default question form in every register?", "options": ["est-ce que", "inversion", "intonation"], "answer": 0 }
+    ] }
+  ]
+}

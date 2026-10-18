@@ -1,0 +1,63 @@
+{
+  "w": 3,
+  "title": "Verbs, negation, and the question habit",
+  "level": "A1",
+  "objective": "Regular verbs, the high-frequency irregulars, negation — and ten reusable question frames. In speaking task 2 **you ask the examiner 10–12 questions**.",
+  "tasks": [
+    "Tutor 2×/week: question-formation drills",
+    "Write your ten question frames on one card and say them daily",
+    "Anki ~30 new/day · shadow 15 min/day"
+  ],
+  "resources": ["lepointdufle", "coffeebreak", "italki", "anki"],
+  "steps": [
+    { "kind": "chunk", "title": "-er verbs: 90% of all verbs",
+      "body": "**parler**: je parle · tu parles · il/on parle · vous parlez · ils parlent\nFour of those five sound **identical** ([[parle]]). Only *vous parlez* is different.\nThe highest-yield pattern in the language." },
+    { "kind": "chunk", "title": "-ir (two patterns) and -re",
+      "body": "**finir**: je finis · il finit · vous finissez · ils finissent\n**partir**: je pars · il part · vous partez · ils partent\n**prendre**: je prends · il prend · vous prenez · ils prennent" },
+    { "kind": "chunk", "title": "The irregulars, by frequency",
+      "body": "**pouvoir** je peux · **vouloir** je veux · **devoir** je dois · **savoir** je sais · **prendre** je prends · **venir** je viens · **voir** je vois · **dire** je dis · **mettre** je mets\nLearn them in exactly this order." },
+    { "kind": "drill", "title": "Conjugate", "items": [
+      { "type": "gap", "q": "Vous ___ (parler) français ?", "answer": ["parlez"] },
+      { "type": "gap", "q": "Je ___ (pouvoir) vous aider.", "answer": ["peux"] },
+      { "type": "gap", "q": "Elle ___ (finir) à 18 h.", "answer": ["finit"] },
+      { "type": "gap", "q": "On ___ (prendre) le bus.", "answer": ["prend"] },
+      { "type": "gap", "q": "Je ___ (devoir) partir.", "answer": ["dois"] },
+      { "type": "gap", "q": "Vous ___ (venir) d'où ?", "answer": ["venez"] }
+    ] },
+    { "kind": "chunk", "title": "Negation",
+      "body": "**ne … pas** (not) · **ne … plus** (no longer) · **ne … jamais** (never) · **ne … rien** (nothing) · **ne … personne** (nobody)\n*Je **ne** travaille **plus** le lundi.*\nIn speech *ne* mostly vanishes — [[j'sais pas]]. Recognise it. **Keep writing it.**" },
+    { "kind": "check", "type": "mcq", "q": "\"I never work on Mondays.\"", "options": ["Je ne travaille jamais le lundi.", "Je ne travaille pas jamais le lundi.", "Je travaille ne jamais le lundi."], "answer": 0 },
+
+    { "kind": "chunk", "title": "Three ways to ask",
+      "body": "Everyone rehearses answering; almost nobody rehearses asking — and **tâche 2 of the speaking paper is you asking 10–12 questions**.\nIntonation: *Tu viens ?* (informal)\n**est-ce que**: *Est-ce que vous venez ?* — **make this your default.** Safe in every register, no word-order risk.\nInversion: *Venez-vous ?* (formal — keep it for writing)" },
+    { "kind": "chunk", "title": "que = object, qui = subject",
+      "body": "*Qu'est-ce **que** tu fais ?* — what are you doing? (*tu* is the subject, *que* is the thing done)\n*Qu'est-ce **qui** se passe ?* — what is happening? (the unknown thing IS the subject)" },
+    { "kind": "check", "type": "mcq", "q": "\"What's bothering you?\" (the thing bothers → subject)", "options": ["Qu'est-ce qui vous gêne ?", "Qu'est-ce que vous gêne ?"], "answer": 0 },
+    { "kind": "check", "type": "mcq", "q": "\"What do you think of it?\"", "options": ["Qu'est-ce que vous en pensez ?", "Qu'est-ce qui vous en pensez ?"], "answer": 0 },
+
+    { "kind": "chunk", "title": "Your ten question frames — for four months",
+      "body": "1 *Est-ce que vous pourriez me dire… ?* 2 *Qu'est-ce que vous pensez de… ?* 3 *Depuis combien de temps… ?* 4 *Pourquoi est-ce que… ?* 5 *Quel est votre… ?* 6 *Comment est-ce que vous… ?* 7 *Est-ce que vous avez déjà… ?* 8 *Qu'est-ce qui vous plaît le plus dans… ?* 9 *Vous préférez X ou Y ?* 10 *Auriez-vous… ?*" },
+    { "kind": "produce", "mode": "write", "title": "Build your frames",
+      "task": "The examiner says: *\"Je suis professeur de musique à Montréal.\"* Write **five** questions to him using five different frames.",
+      "prompt": "Interview someone who is a music teacher in Montréal.",
+      "model": "Depuis combien de temps est-ce que vous enseignez ?\nQu'est-ce qui vous plaît le plus dans votre travail ?\nEst-ce que vous avez déjà vécu ailleurs ?\nVous préférez enseigner aux enfants ou aux adultes ?\nQu'est-ce que vous pensez de la vie à Montréal ?",
+      "min": 25, "max": 80,
+      "hints": ["Start with *Depuis combien de temps…* + present tense.", "*Qu'est-ce qui vous plaît le plus dans…*", "*Vous préférez X ou Y ?* is the easiest."] },
+    { "kind": "produce", "mode": "speak", "title": "Say them — no reading",
+      "task": "Record the five questions from memory, at conversational speed. Then play back: is every *est-ce que* one smooth group ([[est-ce que]])?",
+      "prompt": "Ask five questions without looking.", "seconds": 60, "noFeedback": true },
+    { "kind": "recap", "points": [
+      "-er: four forms sound the same",
+      "Irregulars in frequency order: pouvoir, vouloir, devoir, savoir, prendre, venir, voir, dire, mettre",
+      "ne…pas/plus/jamais/rien/personne — write the *ne*",
+      "est-ce que = your default question",
+      "que = object, qui = subject",
+      "Ten frames — recycle them until February"
+    ] },
+    { "kind": "spiral", "title": "Weeks 1–2", "items": [
+      { "type": "mcq", "q": "*Je n'ai pas ___ voiture.*", "options": ["de", "une", "la"], "answer": 0, "explain": "After negative: **de**." },
+      { "type": "gap", "q": "J'___ faim. (avoir/être)", "answer": ["ai"], "trap": "avoiretre" },
+      { "type": "listen", "say": "roue", "q": "Which word?", "options": ["rue", "roue"], "answer": 1, "keepOrder": true }
+    ] }
+  ]
+}

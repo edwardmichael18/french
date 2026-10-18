@@ -1,0 +1,178 @@
+{
+ "tasks": [
+  {
+   "id": "EE1",
+   "name": "Tâche 1 — message (60–120 mots)",
+   "meta": "60–120 words · about 15 min · describe, tell or explain to a named reader",
+   "secs": 900, "min": 60, "max": 120,
+   "how": "**Greeting** → **why you're writing** → **two or three details** (who, what, when, where) → **a request or question to the reader** → **sign-off**. Match the register to the reader: a friend gets *tu* and *Salut*, a neighbour or manager gets *vous* and *Bonjour Madame*. Simple tenses done accurately beat ambitious ones done badly.",
+   "frame": "Salut [prénom] ! / Bonjour Madame [nom],\nJe t'écris / Je vous écris pour …\nD'abord, … Ensuite, … (qui, quoi, quand, où)\nEst-ce que tu pourrais / Pourriez-vous … ?\nÀ bientôt, Bises / Cordialement,\n[nom]",
+   "prompts": [
+    {
+     "theme": "Logement",
+     "prompt": "Vous venez d'emménager dans un nouvel appartement. Écrivez un message à un(e) ami(e) pour lui décrire votre logement et votre quartier, et invitez-le/la à venir vous voir.",
+     "model": "Salut Julie !\nÇa y est, j'ai déménagé ! Mon nouvel appartement est au troisième étage d'un vieil immeuble, près du parc. Il y a deux chambres, une grande cuisine et un petit balcon où je prends mon café le matin. Le quartier est calme mais très vivant : il y a une boulangerie, un marché le samedi et la station de métro est à cinq minutes à pied.\nEst-ce que tu voudrais venir dîner samedi prochain ? Je peux cuisiner un plat nigérian. Dis-moi si tu es libre !\nBises,\nAmara",
+     "notes": ["Register: *tu* and *Salut … Bises* for a friend — kept all the way through.", "Answers all three parts of the task: the flat, the area, the invitation.", "Concrete details (floor, rooms, balcony, metro) instead of vague adjectives.", "Ends with a clear question the friend can answer."]
+    },
+    {
+     "theme": "Travail",
+     "prompt": "Vous ne pourrez pas venir au travail demain. Écrivez un message à votre responsable pour le prévenir, expliquer pourquoi et proposer une solution.",
+     "model": "Bonjour Madame Tremblay,\nJe vous écris pour vous prévenir que je ne pourrai pas venir travailler demain. Mon fils est malade et je dois l'emmener chez le médecin à 9 h. J'ai déjà terminé le rapport pour le client Dubois ; je vous l'envoie ce soir par courriel. Pour la réunion de 14 h, Karim a accepté de me remplacer et il connaît bien le dossier.\nSi c'est possible, je pourrais rattraper ces heures samedi matin. Merci de votre compréhension.\nCordialement,\nChidi Okafor",
+     "notes": ["Formal register: *Bonjour Madame*, *vous*, *Cordialement*.", "Future (*je ne pourrai pas*) and conditional (*je pourrais*) for a polite offer.", "Gives a reason and a concrete solution — the task asks for both.", "About 90 words: well inside 60–120."]
+    },
+    {
+     "theme": "Voisinage",
+     "prompt": "Vous organisez une petite fête chez vous samedi soir. Écrivez un message à vos voisins pour les prévenir et vous excuser à l'avance pour le bruit.",
+     "model": "Chers voisins,\nJe m'appelle Tunde et j'habite au 4B. Je vous écris pour vous prévenir que j'organise un petit anniversaire chez moi samedi 14 octobre, à partir de 19 h. Nous serons une quinzaine de personnes. Je vais faire attention au bruit et la musique s'arrêtera avant minuit.\nJe m'excuse à l'avance pour le dérangement. Si vous avez le moindre problème pendant la soirée, n'hésitez pas à frapper à ma porte. Et si vous voulez passer boire un verre, vous êtes les bienvenus !\nBien cordialement,\nTunde",
+     "notes": ["*Chers voisins* + *vous* plural: polite but warm.", "Date, time, number of guests, end time — the reader knows exactly what to expect.", "*Je m'excuse à l'avance pour* — a set phrase worth memorising.", "Future simple for plans (*la musique s'arrêtera*)."]
+    },
+    {
+     "theme": "Loisirs",
+     "prompt": "Vous avez commencé une nouvelle activité sportive. Écrivez à un(e) ami(e) pour la lui décrire et lui proposer de venir avec vous.",
+     "model": "Salut Marc !\nJ'espère que tu vas bien. Depuis trois semaines, je fais de l'escalade dans une salle près de chez moi. C'est génial ! Les cours ont lieu le mardi et le jeudi soir, de 18 h à 20 h. Au début, j'avais un peu peur, mais le moniteur est très patient et l'ambiance est super sympa. En plus, ça me fait du bien après le travail.\nTu veux venir essayer avec moi mardi prochain ? Le premier cours est gratuit. Réponds-moi vite !\nÀ bientôt,\nNgozi",
+     "notes": ["*Depuis trois semaines, je fais* — depuis + PRESENT, a classic trap handled correctly.", "Imparfait for a past feeling (*j'avais un peu peur*).", "Connectors: *au début, mais, en plus*.", "Concrete invitation with a day and a reason to say yes."]
+    },
+    {
+     "theme": "Santé",
+     "prompt": "Vous avez un rendez-vous chez le médecin que vous devez annuler. Écrivez un message au cabinet médical pour annuler et demander un nouveau rendez-vous.",
+     "model": "Bonjour,\nJe m'appelle Fatima Bello et j'avais rendez-vous avec le docteur Lavoie le jeudi 9 novembre à 10 h 30. Malheureusement, je dois annuler ce rendez-vous parce que je dois partir en déplacement pour mon travail cette semaine-là.\nPourriez-vous me proposer un autre créneau ? Je suis disponible les lundis et les mercredis après 16 h, ou le samedi matin. Vous pouvez me joindre au 514 555 0192.\nJe vous remercie par avance.\nCordialement,\nFatima Bello",
+     "notes": ["All the identifying details a real clinic needs: name, doctor, date, time.", "*Pourriez-vous me proposer un autre créneau ?* — conditional politeness.", "Gives availability so the request can actually be answered.", "*Je vous remercie par avance* — standard formal close."]
+    },
+    {
+     "theme": "Voyage",
+     "prompt": "Un(e) ami(e) va visiter votre ville pour la première fois. Écrivez-lui un message pour lui donner des conseils (quoi voir, où manger, comment se déplacer).",
+     "model": "Coucou Léa !\nSuper nouvelle que tu viennes à Montréal ! Voici mes conseils. D'abord, monte au mont Royal : la vue sur la ville est magnifique, surtout au coucher du soleil. Ensuite, promène-toi dans le Vieux-Montréal. Pour manger, essaie une poutine chez La Banquise, c'est une institution ! Pour te déplacer, prends le métro : c'est rapide et le billet de 24 heures coûte environ 11 dollars.\nJe peux te faire visiter le samedi si tu veux. Envoie-moi tes dates !\nBises,\nEmeka",
+     "notes": ["Imperative with *tu* for advice (*monte, promène-toi, essaie, prends*).", "Organised with *d'abord, ensuite, pour manger, pour te déplacer* — the three things asked.", "Subjunctive after *super nouvelle que* (*que tu viennes*) — a bonus, not required at this task.", "Closes with an offer and a question."]
+    },
+    {
+     "theme": "Consommation",
+     "prompt": "Vous avez acheté un appareil sur un site internet et il ne fonctionne pas. Écrivez au service client pour expliquer le problème et demander une solution.",
+     "model": "Madame, Monsieur,\nLe 3 octobre, j'ai commandé une bouilloire électrique sur votre site (commande n° 48213). Je l'ai reçue le 8 octobre, mais elle ne fonctionne pas : quand je la branche, le voyant s'allume puis s'éteint tout de suite et l'eau ne chauffe pas.\nJe souhaiterais donc soit un remboursement complet, soit un échange contre un appareil neuf. Pourriez-vous m'indiquer comment renvoyer le produit ?\nDans l'attente de votre réponse, je vous prie d'agréer mes salutations distinguées.\nOmar Sani",
+     "notes": ["*Madame, Monsieur* when you don't know the reader.", "Passé composé for the facts, present for the problem as it is now.", "*soit … soit …* offers two clear solutions.", "Formal closing formula — learn it as one block."]
+    },
+    {
+     "theme": "Famille",
+     "prompt": "Vous ne pouvez pas aller au mariage d'un(e) cousin(e). Écrivez-lui un message pour vous excuser, le/la féliciter et proposer de le/la voir plus tard.",
+     "model": "Chère Aïcha,\nFélicitations pour ton mariage ! Je suis vraiment heureux pour toi et pour Samuel. Malheureusement, je ne pourrai pas venir le 20 juillet, car je passe un examen important au Canada ce jour-là et je ne peux pas changer la date. Je suis vraiment désolé de manquer ce grand moment.\nJe t'envoie un petit cadeau par la poste. Quand je rentrerai à Lagos en août, j'aimerais vous inviter tous les deux au restaurant pour fêter ça.\nJe t'embrasse très fort,\nDavid",
+     "notes": ["Three jobs in order: congratulate → apologise with a reason → propose.", "*Quand je rentrerai* — future after *quand*, not present (differs from English).", "*J'aimerais* softens the invitation.", "Warm family register: *Chère*, *Je t'embrasse*."]
+    }
+   ]
+  },
+  {
+   "id": "EE2",
+   "name": "Tâche 2 — article / récit + avis (120–150 mots)",
+   "meta": "120–150 words · about 20 min · blog, article or letter for readers: tell an experience and give your opinion",
+   "secs": 1200, "min": 120, "max": 150,
+   "how": "**Title** → **context** → **what happened (passé composé for events, imparfait for the scenery)** → **your reaction** → **opinion with one reason and one example** → **short conclusion or recommendation**. This is where PC/imparfait is graded hardest.",
+   "frame": "[Titre accrocheur]\nIl y a [temps], j'ai vécu une expérience …\nC'était [décor à l'imparfait] quand [événement au PC] …\nJ'ai été [réaction] parce que …\nÀ mon avis, … Par exemple, …\nBref, je conseille à tous de …",
+   "prompts": [
+    {
+     "theme": "Vie de quartier",
+     "prompt": "Pour le blog de votre ville, racontez une fête ou un événement de quartier auquel vous avez participé et donnez votre avis sur ce type d'événement.",
+     "model": "Une rue, cent voisins\nL'été dernier, j'ai participé pour la première fois à la fête des voisins de ma rue. Il faisait beau, des tables étaient installées sur le trottoir et chacun avait apporté un plat. Au début, je ne connaissais personne et j'étais un peu timide. Puis une voisine âgée m'a présenté à tout le monde et, finalement, nous avons dansé jusqu'à minuit !\nÀ mon avis, ce type d'événement est essentiel dans les grandes villes, où beaucoup de gens vivent seuls. Par exemple, depuis cette fête, je salue mes voisins, nous échangeons des services et je me sens plus en sécurité. Ces fêtes ne coûtent presque rien, mais elles créent des liens durables.\nBref, si votre rue organise une fête, n'hésitez pas : allez-y !",
+     "notes": ["Imparfait for the scene (*il faisait beau, des tables étaient installées*), PC for the events (*m'a présenté, nous avons dansé*).", "Clear turn to opinion: *À mon avis* + reason + *Par exemple*.", "*depuis cette fête, je salue* — depuis + present.", "Title and a closing recommendation, as the genre expects."]
+    },
+    {
+     "theme": "Voyage",
+     "prompt": "Pour un magazine, racontez un voyage qui ne s'est pas passé comme prévu et dites si, selon vous, il vaut mieux tout organiser à l'avance.",
+     "model": "Le voyage qui m'a appris à lâcher prise\nEn mars dernier, je devais passer une semaine à Québec. Tout était organisé : hôtel, musées, restaurants. Mais le jour du départ, une tempête de neige a fermé l'aéroport. J'étais furieux ! Finalement, je suis parti deux jours plus tard et mon hôtel avait annulé ma réservation. J'ai donc dormi chez l'habitant, dans un petit village au bord du fleuve,, une famille charmante qui m'a fait découvrir des endroits que je n'aurais jamais trouvés seul.\nSelon moi, il faut organiser l'essentiel, comme le transport et le logement, mais pas chaque minute. En effet, les meilleurs souvenirs viennent souvent de l'imprévu. De plus, un programme trop chargé crée du stress.\nEn somme, préparez votre voyage, mais laissez de la place à la surprise !",
+     "notes": ["*je devais* (imparfait: the plan) vs *une tempête a fermé* (PC: what happened).", "Plus-que-parfait *avait annulé* for an earlier past — a B2 marker.", "Conditional past *je n'aurais jamais trouvés* — ambitious and correct.", "A nuanced answer to the question (*l'essentiel, mais pas chaque minute*)."]
+    },
+    {
+     "theme": "Travail",
+     "prompt": "Pour le site d'une association, racontez votre premier jour dans un nouveau travail et donnez votre avis sur l'accueil des nouveaux employés.",
+     "model": "Mon premier jour : ce qui fait la différence\nQuand je suis arrivée à l'hôpital pour mon premier jour d'infirmière, j'étais très stressée. Personne ne m'attendait à l'accueil et j'ai cherché mon service pendant vingt minutes. Heureusement, une collègue, Nadia, m'a vue perdue et m'a fait visiter tout l'étage. Elle m'a aussi présenté l'équipe et m'a donné son numéro en cas de question. Grâce à elle, ma première semaine s'est finalement très bien passée.\nJe pense que l'accueil des nouveaux employés est trop souvent négligé. Pourtant, un bon premier jour donne confiance et envie de rester. Par exemple, un simple programme d'intégration avec un parrain ou une marraine peut éviter beaucoup de stress et d'erreurs.\nC'est pourquoi j'encourage toutes les entreprises à préparer ce premier jour avec soin.",
+     "notes": ["Feminine agreement kept consistent: *je suis arrivée, stressée, m'a vue perdue*.", "*Pourtant* turns to a counter-point — a strong connector.", "Concrete suggestion (*parrain ou marraine*) makes the opinion convincing.", "About 130 words: inside 120–150."]
+    },
+    {
+     "theme": "Environnement",
+     "prompt": "Pour le journal de votre quartier, racontez une action écologique à laquelle vous avez participé et dites si les petites actions individuelles sont utiles.",
+     "model": "Une matinée pour notre rivière\nSamedi dernier, j'ai participé au grand nettoyage des bords de la rivière avec une trentaine d'habitants. Il faisait froid et il pleuvait un peu, mais l'ambiance était excellente. En trois heures, nous avons ramassé plus de quarante sacs de déchets : bouteilles, emballages et même un vieux vélo ! À la fin, la mairie nous a offert un repas chaud.\nOn dit souvent que les petites actions individuelles ne servent à rien face aux grandes entreprises qui polluent. Je ne suis pas d'accord. D'abord, ces actions ont un effet visible et immédiat. Ensuite, elles sensibilisent les enfants, qui étaient nombreux ce jour-là. Bien sûr, elles ne remplacent pas les lois, mais elles montrent aux élus que les citoyens s'engagent.\nAlors, rendez-vous au prochain nettoyage !",
+     "notes": ["Sets up the other view (*On dit souvent que…*) then disagrees — very effective structure.", "*D'abord … Ensuite … Bien sûr … mais* — argument ladder with concession.", "Numbers and specifics make the story credible.", "Imparfait/PC contrast in the first paragraph."]
+    },
+    {
+     "theme": "Technologie",
+     "prompt": "Pour un forum en ligne, racontez une expérience où vous avez passé une journée sans téléphone portable et dites ce que vous en pensez.",
+     "model": "24 heures sans téléphone : mon défi\nLe mois dernier, j'ai oublié mon téléphone chez un ami un dimanche matin. Au début, je me sentais perdu : je ne pouvais ni vérifier l'heure du bus ni envoyer de messages. Alors, j'ai décidé de profiter de la journée. J'ai lu un livre entier au parc, j'ai discuté avec un vieux monsieur sur un banc et, le soir, j'ai remarqué que j'étais beaucoup plus calme.\nÀ mon avis, le téléphone est un outil indispensable, mais nous l'utilisons trop. En effet, nous le consultons des dizaines de fois par heure sans raison. C'est pourquoi je pense qu'une journée sans écran par semaine serait bénéfique pour tout le monde.\nEt vous, seriez-vous capables de relever ce défi dès ce week-end ?",
+     "notes": ["*ne … ni … ni* — elegant negation.", "Feeling at the time in imparfait (*je me sentais, je ne pouvais*), actions in PC.", "Concession then position: *indispensable, mais nous l'utilisons trop*.", "Ending with a question engages forum readers."]
+    },
+    {
+     "theme": "Éducation",
+     "prompt": "Pour le site d'une école de langues, racontez comment vous avez appris une langue étrangère et donnez votre avis sur la meilleure façon d'apprendre.",
+     "model": "Comment l'anglais est devenu ma deuxième langue\nÀ l'école, j'avais des cours d'anglais trois fois par semaine, mais j'apprenais surtout des listes de mots et je n'osais pas parler. Tout a changé à dix-neuf ans, quand je suis parti travailler six mois dans un hôtel à Londres. Là-bas, j'étais obligé de parler toute la journée. J'ai fait beaucoup d'erreurs, mais les clients étaient patients et j'ai progressé très vite. Au retour, je rêvais même en anglais !\nSelon moi, la meilleure façon d'apprendre une langue, c'est de l'utiliser dans des situations réelles. La grammaire est utile, bien sûr, mais elle ne suffit pas. Par exemple, parler dix minutes par jour avec un tuteur est plus efficace qu'une heure de listes.\nMon conseil : osez parler dès le premier jour !",
+     "notes": ["Habit in the past = imparfait (*j'avais des cours, j'apprenais*); turning point = PC (*tout a changé, je suis parti*).", "*être obligé de* + infinitive.", "Cleft sentence *c'est de l'utiliser* for emphasis.", "Balanced: grammar *utile … mais ne suffit pas*."]
+    },
+    {
+     "theme": "Santé",
+     "prompt": "Pour un magazine santé, racontez un changement d'habitude qui a amélioré votre vie et dites s'il est facile de changer ses habitudes.",
+     "model": "Pourquoi je me lève à 6 heures\nPendant des années, je me couchais tard et je commençais chaque journée fatigué. L'an dernier, mon médecin m'a conseillé de changer mes horaires. J'ai donc décidé de me coucher à 22 h et de me lever à 6 h pour marcher trente minutes avant le travail. Les deux premières semaines ont été très difficiles, mais ensuite, mon corps s'est habitué. Aujourd'hui, je dors mieux et je suis plus concentré.\nÀ mon avis, changer ses habitudes n'est pas facile, parce que notre cerveau préfère la routine. Cependant, c'est possible si on commence petit et si on est patient. Il vaut mieux changer une seule chose à la fois que tout vouloir changer d'un coup.\nEssayez : trois semaines suffisent souvent !",
+     "notes": ["*Pendant des années, je me couchais* — repeated past habit = imparfait.", "*mon corps s'est habitué* — pronominal verb with *être*.", "*Il vaut mieux … que …* — comparison of two options.", "*Cependant* concedes difficulty, then the conditions for success."]
+    },
+    {
+     "theme": "Immigration",
+     "prompt": "Pour le site d'une association d'accueil, racontez vos premières semaines dans un nouveau pays (ou une nouvelle ville) et donnez des conseils aux nouveaux arrivants.",
+     "model": "Mes premières semaines à Ottawa\nQuand je suis arrivé à Ottawa en janvier, il faisait moins vingt degrés et je n'avais même pas de bottes ! Les premières semaines ont été difficiles : je devais trouver un logement, ouvrir un compte bancaire et demander mon numéro d'assurance sociale. Je me sentais souvent seul. Puis, j'ai découvert un centre communautaire où des bénévoles m'ont aidé à remplir mes formulaires et m'ont invité à des activités. Petit à petit, je me suis fait des amis.\nÀ mon avis, les nouveaux arrivants doivent demander de l'aide dès le début au lieu d'attendre. D'abord, les associations connaissent toutes les démarches. Ensuite, elles permettent de rencontrer des gens et de pratiquer la langue.\nMon conseil : achetez des bottes avant de sortir de l'aéroport !",
+     "notes": ["Administrative vocabulary the TCF loves: *compte bancaire, numéro d'assurance sociale, remplir des formulaires, démarches*.", "*au lieu de* + infinitive.", "Humour in the close is fine in a blog post and shows range.", "PC/imparfait handled in every sentence of the story."]
+    }
+   ]
+  },
+  {
+   "id": "EE3",
+   "name": "Tâche 3 — comparer deux documents + argumenter (120–180 mots)",
+   "meta": "120–180 words · about 25 min · part 1: summarise both views (40–60) · part 2: your argued opinion (80–120)",
+   "secs": 1500, "min": 120, "max": 180,
+   "how": "**Part 1 (40–60 words): present both documents** — who says what, in your own words, no opinion yet. **Part 2 (80–120 words): your position** with two arguments and an example, a concession (*certes… mais*), and a conclusion. ***Never just summarise, never copy whole sentences from the documents.*** Watch both word limits.",
+   "frame": "[Titre]\nPartie 1 — Selon le premier document, … En revanche, le second affirme que … Les deux textes s'opposent donc sur …\nPartie 2 — Pour ma part, je pense que … D'abord, … De plus, … Par exemple, …\nCertes, …, mais …\nEn somme, …",
+   "prompts": [
+    {
+     "theme": "Travail",
+     "prompt": "Document 1 : « Le télétravail améliore la qualité de vie : moins de trajets, plus de temps en famille et une meilleure concentration. » Document 2 : « Le télétravail isole les salariés et brouille la frontière entre vie professionnelle et vie privée. » Présentez les deux points de vue, puis donnez votre opinion.",
+     "model": "Télétravail : liberté ou isolement ?\nLe premier document présente le télétravail comme un progrès : les salariés perdent moins de temps dans les transports, voient davantage leur famille et se concentrent mieux. Au contraire, le second souligne ses dangers : la solitude et la difficulté à séparer travail et vie personnelle, puisque le bureau est aussi la maison.\nPour ma part, je pense que le télétravail est une bonne chose, à condition de ne pas en abuser. D'abord, il fait gagner un temps précieux : dans ma ville, certains collègues passent deux heures par jour dans les bouchons. De plus, il permet de travailler au calme. Certes, travailler seul tous les jours peut isoler, mais une formule mixte, deux ou trois jours à la maison, résout ce problème. En somme, c'est l'équilibre entre maison et bureau qui compte le plus.",
+     "notes": ["Part 1 ≈ 50 words, reformulated (*perdent moins de temps dans les transports* instead of copying *moins de trajets*).", "Part 2 opens with a clear, conditional position (*à condition de*).", "Two arguments + a real example + concession (*Certes … mais*) + conclusion.", "Total ≈ 130 words: both parts inside their limits."]
+    },
+    {
+     "theme": "Transport",
+     "prompt": "Document 1 : « Des transports en commun gratuits réduiraient la pollution et aideraient les ménages modestes. » Document 2 : « La gratuité coûte cher aux contribuables et ne fait pas changer les habitudes des automobilistes. » Présentez les deux points de vue, puis donnez votre opinion.",
+     "model": "Faut-il rendre le bus gratuit ?\nSelon le premier texte, la gratuité des transports publics serait bonne pour l'environnement et pour le budget des familles modestes. Le second, en revanche, estime que cette mesure est trop coûteuse pour les contribuables et inefficace, car les conducteurs gardent leur voiture.\nÀ mon avis, la gratuité totale n'est pas la meilleure solution. En effet, le vrai problème des transports, c'est souvent la qualité : des bus rares, en retard et bondés. Si le service reste mauvais, les automobilistes ne changeront pas, même gratuitement. Je préférerais donc que la ville investisse dans des lignes plus fréquentes et proposer des tarifs réduits aux étudiants et aux personnes à faible revenu. Certes, la gratuité est un symbole fort, mais un service fiable et rapide convainc davantage.",
+     "notes": ["Conditional in part 1 (*serait*) reports the document's hypothesis accurately.", "Takes a nuanced third position rather than just picking a side.", "*Si le service reste mauvais, ils ne changeront pas* — si + present → future.", "Concession at the end, then the decisive argument."]
+    },
+    {
+     "theme": "Éducation",
+     "prompt": "Document 1 : « Interdire le téléphone à l'école améliore la concentration et les relations entre élèves. » Document 2 : « Mieux vaut apprendre aux élèves à bien utiliser le téléphone que de l'interdire. » Présentez les deux points de vue, puis donnez votre opinion.",
+     "model": "Le portable à l'école : interdire ou éduquer ?\nLe premier document défend l'interdiction du téléphone à l'école, car elle permettrait aux élèves de mieux se concentrer et de davantage se parler. Le second préfère l'éducation : selon lui, il faut apprendre aux jeunes à se servir de leur téléphone de façon responsable.\nPersonnellement, je suis plutôt favorable à l'interdiction pendant les cours. D'abord, les notifications empêchent les élèves de suivre et les enseignants perdent du temps à faire la discipline. Ensuite, sans téléphone, les récréations redeviennent des moments d'échange. Cependant, je rejoins en partie le second document : l'école doit aussi enseigner les dangers des réseaux sociaux, par exemple dans un cours d'éducation numérique. Ainsi, on pourrait combiner les deux approches : protéger la concentration en classe et former des utilisateurs responsables pour l'avenir.",
+     "notes": ["*plutôt favorable à* — a measured position.", "*Cependant, je rejoins en partie…* — shows you engaged with BOTH documents.", "*Ainsi* for the conclusion; *empêcher quelqu'un de* + infinitive.", "No sentence copied from the prompt."]
+    },
+    {
+     "theme": "Alimentation",
+     "prompt": "Document 1 : « Manger local protège l'environnement et soutient les agriculteurs de la région. » Document 2 : « Les produits locaux sont souvent plus chers et le choix est limité, surtout en hiver. » Présentez les deux points de vue, puis donnez votre opinion.",
+     "model": "Manger local : un luxe ou un devoir ?\nLe premier texte encourage la consommation de produits locaux, qui serait meilleure pour la planète et pour les producteurs de la région. Le second met en avant deux limites : ces produits coûtent plus cher et l'offre est réduite, particulièrement en hiver.\nJe pense qu'il faut privilégier les produits locaux, sans en faire une règle absolue. D'une part, ils voyagent moins et sont souvent plus frais. D'autre part, acheter au marché crée un lien direct avec ceux qui nous nourrissent. Il est vrai que les prix posent problème pour les familles modestes. C'est pourquoi les villes pourraient soutenir des paniers à prix réduit. Quant à l'hiver, les conserves et les légumes de saison permettent de continuer à manger local sans se ruiner.",
+     "notes": ["*D'une part … D'autre part* — paired arguments.", "*Il est vrai que … C'est pourquoi …* — concession turned into a proposal.", "*Quant à* introduces the document's second objection and answers it.", "Relative clause *ceux qui nous nourrissent*."]
+    },
+    {
+     "theme": "Santé",
+     "prompt": "Document 1 : « Il faudrait taxer davantage les boissons sucrées pour lutter contre l'obésité. » Document 2 : « Taxer les produits sucrés punit les plus pauvres et ne change pas les comportements ; il faut plutôt éduquer. » Présentez les deux points de vue, puis donnez votre opinion.",
+     "model": "Taxer le sucre, une bonne idée ?\nD'après le premier document, une taxe plus élevée sur les boissons sucrées aiderait à réduire l'obésité. Le second s'y oppose : une telle taxe toucherait surtout les ménages pauvres, sans modifier les habitudes, alors que l'éducation à la nutrition, dès l'école, serait plus efficace.\nÀ mon sens, les deux mesures sont complémentaires. D'abord, une taxe envoie un signal clair et, dans plusieurs pays, elle a poussé les fabricants à réduire le sucre dans leurs recettes. Ensuite, l'argent récolté pourrait financer des programmes de nutrition dans les écoles, ce qui répond à l'objection du second texte. Certes, une taxe seule ne suffit pas, mais sans elle, l'éducation met des années à produire des effets. Il faut donc agir sur les deux fronts, en même temps et sur la durée.",
+     "notes": ["*s'y oppose* — pronoun *y* replacing *à cette idée*.", "Answers the opponent's objection instead of ignoring it (*ce qui répond à l'objection du second texte*).", "*à mon sens* — a less common opinion marker, good for lexical range.", "*alors que* for contrast inside the summary."]
+    },
+    {
+     "theme": "Logement",
+     "prompt": "Document 1 : « Vivre en colocation après 30 ans permet d'économiser et de ne pas être seul. » Document 2 : « Après 30 ans, on a besoin d'intimité et d'indépendance ; la colocation devient une contrainte. » Présentez les deux points de vue, puis donnez votre opinion.",
+     "model": "Colocation après 30 ans : pourquoi pas ?\nLe premier document présente la colocation comme une solution intéressante pour les trentenaires : elle réduit les dépenses et évite la solitude. À l'inverse, le second considère qu'à cet âge, on recherche plutôt l'intimité et l'autonomie, ce qui rend la vie commune pesante.\nSelon moi, tout dépend de la situation de chacun. Avec la hausse des loyers dans les grandes villes, la colocation est parfois la seule façon de vivre près de son travail. De plus, pour une personne qui vient d'arriver dans un nouveau pays, partager un appartement aide à se faire des amis. En revanche, pour un couple ou une famille, elle devient vite compliquée. Bref, ce n'est pas l'âge qui compte, mais le mode de vie et le caractère des colocataires.",
+     "notes": ["*À l'inverse* / *En revanche* — contrast connectors varied, not repeated.", "*tout dépend de* — a nuanced stance that is still a clear position.", "Final sentence reframes the debate (*ce n'est pas l'âge qui compte, mais…*) — strong conclusion.", "Relevant personal angle (new country) without drifting off-topic."]
+    },
+    {
+     "theme": "Culture",
+     "prompt": "Document 1 : « Les musées devraient être gratuits pour tous : la culture est un droit. » Document 2 : « La gratuité des musées coûte cher et profite surtout à ceux qui y allaient déjà. » Présentez les deux points de vue, puis donnez votre opinion.",
+     "model": "Musées gratuits : vraie démocratisation ?\nLe premier texte réclame la gratuité des musées au nom du droit à la culture. Le second doute de l'intérêt de cette mesure : elle serait coûteuse et bénéficierait principalement aux visiteurs habituels, qui fréquentaient déjà les musées avant, sans attirer de nouveaux publics.\nPour ma part, je pense que la gratuité est utile, mais qu'elle ne suffit pas. En effet, le prix n'est pas le seul obstacle : beaucoup de gens pensent que les musées « ne sont pas pour eux ». Par exemple, dans ma ville, les journées gratuites attirent surtout des touristes. Il faudrait donc accompagner la gratuité d'actions ciblées : visites avec les écoles, animations dans les quartiers, horaires en soirée. Ainsi, la culture deviendrait réellement accessible à tous, et pas seulement à ceux qui la connaissent déjà.",
+     "notes": ["*au nom de* — precise, formal.", "Conditional *elle serait coûteuse et bénéficierait* to report a claim neutrally.", "*mais qu'elle ne suffit pas* — two *que* clauses after *je pense*.", "Concrete proposals make the argument convincing."]
+    },
+    {
+     "theme": "Environnement",
+     "prompt": "Document 1 : « Il faudrait interdire les voitures dans le centre des grandes villes. » Document 2 : « Interdire les voitures pénaliserait les personnes âgées, les travailleurs de nuit et les commerçants. » Présentez les deux points de vue, puis donnez votre opinion.",
+     "model": "Une ville sans voitures ?\nLe premier document propose de bannir complètement les voitures des centres-villes. Le second met en garde contre cette mesure, qui désavantagerait plusieurs groupes : les personnes âgées, ceux qui travaillent la nuit et les commerçants, qui risqueraient de perdre des clients.\nJe suis favorable à une réduction forte de la circulation, mais pas à une interdiction totale. D'abord, moins de voitures signifie un air plus propre et des rues plus sûres pour les enfants. Ensuite, des villes comme Copenhague montrent que le commerce peut prospérer avec des piétons et des vélos. Néanmoins, le second texte a raison sur un point : il faut prévoir des exceptions pour les livraisons, les taxis et les personnes à mobilité réduite, ainsi que des transports publics fréquents la nuit. Une ville sans voitures doit rester une ville pour tous.",
+     "notes": ["*mettre en garde contre* — precise reporting verb.", "*Néanmoins, le second texte a raison sur un point* — explicit engagement with the opposite view.", "Real-world example (Copenhague) as evidence.", "Position is nuanced but unmistakable in the first sentence of part 2."]
+    }
+   ]
+  }
+ ]
+}

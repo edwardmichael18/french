@@ -1,0 +1,51 @@
+[
+ {
+  "id": "mockA",
+  "kind": "mock",
+  "gate": 3,
+  "title": "Mock A — Gate 3 (untimed)",
+  "timed": false
+ },
+ {
+  "id": "mockB",
+  "kind": "mock",
+  "gate": 4,
+  "title": "Mock B — Gate 4 (timed)",
+  "timed": true
+ },
+ {
+  "id": "mockC",
+  "kind": "mock",
+  "gate": null,
+  "title": "Mock C — Weeks 19–20 GO / DEFER (exam conditions)",
+  "timed": true
+ },
+ {
+  "id": "gate1",
+  "kind": "gate",
+  "gate": 1,
+  "title": "Gate 1 — end of week 4 (12 Oct)",
+  "timed": false
+ },
+ {
+  "id": "gate2",
+  "kind": "gate",
+  "gate": 2,
+  "title": "Gate 2 — end of week 9 (16 Nov)",
+  "timed": true
+ },
+ {
+  "id": "gate3",
+  "kind": "gate",
+  "gate": 3,
+  "title": "Gate 3 — end of week 13 (14 Dec)",
+  "timed": false
+ },
+ {
+  "id": "gate4",
+  "kind": "gate",
+  "gate": 4,
+  "title": "Gate 4 — end of week 17 (11 Jan) · the last calm decision point",
+  "timed": true
+ }
+]

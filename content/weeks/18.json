@@ -1,0 +1,34 @@
+{
+  "w": 18,
+  "title": "Speed work",
+  "level": "B2",
+  "objective": "Comprehension at 1.25×, writing to time, unprepared speaking. Last week that adds vocabulary (target 4,000).",
+  "tasks": [
+    "All listening at 1.25×",
+    "Every writing piece timed",
+    "Daily: one unprepared 4-minute opinion with the tutor"
+  ],
+  "resources": ["hugodecrypte", "tv5monde", "fei"],
+  "steps": [
+    { "kind": "chunk", "title": "Train faster than the exam",
+      "body": "If you can follow 1.25×, the exam at 1.0× feels slow. Set podcast/YouTube speed to **1.25** for all listening this week." },
+    { "kind": "drill", "title": "Fast listening (TTS at speed)", "items": [
+      { "type": "listen", "say": "Le centre sera exceptionnellement fermé lundi en raison d'une formation du personnel. Les rendez-vous seront reportés au mardi.", "rate": 1.2, "q": "What happens to Monday's appointments?", "options": ["Moved to Tuesday", "Cancelled", "Held online"], "answer": 0 },
+      { "type": "listen", "say": "Selon une étude récente, un tiers des jeunes Canadiens déclarent se sentir seuls au moins une fois par semaine.", "rate": 1.2, "q": "What proportion feel lonely weekly?", "options": ["One third", "One quarter", "Half"], "answer": 0 },
+      { "type": "listen", "say": "Je voulais vous prévenir que votre colis n'a pas pu être livré. Vous pouvez le récupérer au bureau de poste à partir de demain, muni d'une pièce d'identité.", "rate": 1.2, "q": "What must you bring?", "options": ["An ID document", "The receipt", "Nothing"], "answer": 0 }
+    ] },
+    { "kind": "produce", "mode": "speak", "title": "Unprepared — 4 minutes",
+      "task": "Click record the moment you've read the question. No prep.",
+      "prompt": "Faut-il rendre le vote obligatoire ?", "seconds": 240, "task_id": "EO3" },
+    { "kind": "produce", "mode": "write", "title": "Tâche 2 to time — 20 minutes",
+      "task": "Recount a time you had to adapt to a new culture or place; give your opinion on moving abroad.",
+      "prompt": "Racontez une expérience d'adaptation dans un nouvel endroit et donnez votre avis sur l'expatriation (120–150 mots).",
+      "min": 120, "max": 150, "seconds": 1200, "task_id": "EE2" },
+    { "kind": "recap", "points": ["1.25× listening", "Everything timed", "Unprepared speaking daily"] },
+    { "kind": "spiral", "title": "Gate-4 weak spots", "items": [
+      { "type": "mcq", "q": "Si j'étais toi, je ___ .", "options": ["refuserais", "refuserai", "refusais"], "answer": 0, "trap": "si" },
+      { "type": "mcq", "q": "Ce ___ je retiens, c'est l'effort.", "options": ["que", "qui"], "answer": 0 },
+      { "type": "mcq", "q": "Je pense que c'___ une bonne idée.", "options": ["est", "soit"], "answer": 0 }
+    ] }
+  ]
+}

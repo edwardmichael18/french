@@ -1,0 +1,35 @@
+{
+  "w": 14,
+  "title": "Catch-up, by design",
+  "level": "B1+",
+  "objective": "Protected week (3–4 hrs/day). Holidays and call rotas land here. Clear the backlog; if none, consolidate weeks 7–13 and begin timed CO/CE.",
+  "tasks": [
+    "List every skipped lesson/drill from weeks 1–13 and clear the top five",
+    "Begin the format shift: one timed CO and one timed CE set",
+    "Do NOT reach forward for new grammar"
+  ],
+  "resources": ["fei", "tv5monde", "rfi"],
+  "steps": [
+    { "kind": "chunk", "title": "Don't fill this week",
+      "body": "Across four months you will have lost days to shifts, power cuts and illness. This week absorbs them.\nIf you genuinely have no backlog: **don't reach forward** for new grammar. Consolidate weeks 7–13 and start timed comprehension." },
+    { "kind": "check", "type": "mcq", "q": "You have no backlog. What do you do this week?", "options": ["Consolidate weeks 7–13 + start timed CO/CE", "Start the week-17 B2 grammar early", "Take the week off entirely"], "answer": 0 },
+    { "kind": "drill", "title": "Consolidation sweep: weeks 5–13", "items": [
+      { "type": "mcq", "q": "Il ___ nuit quand l'accident ___ .", "options": ["faisait … est arrivé", "a fait … arrivait"], "answer": 0, "trap": "pcimp" },
+      { "type": "mcq", "q": "Il faut que tu ___ ce document.", "options": ["lises", "lis"], "answer": 0 },
+      { "type": "mcq", "q": "C'est la ville ___ je suis né.", "options": ["où", "que", "dont"], "answer": 0 },
+      { "type": "mcq", "q": "Si on ___ plus tôt, on aurait moins de stress.", "options": ["partait", "partirait"], "answer": 0, "trap": "si" },
+      { "type": "mcq", "q": "Il m'a dit qu'il ___ le lendemain.", "options": ["viendrait", "viendra"], "answer": 0 },
+      { "type": "mcq", "q": "Les résultats ___ par le ministère.", "options": ["ont été publiés", "ont publié"], "answer": 0 },
+      { "type": "mcq", "q": "___ je trouve inquiétant, c'est le prix.", "options": ["Ce que", "Ce qui"], "answer": 0 },
+      { "type": "mcq", "q": "Je n'en ai ___ besoin.", "options": ["pas", "pas de"], "answer": 0 }
+    ] },
+    { "kind": "chunk", "title": "Timed comprehension starts",
+      "body": "Go to **Gates & mocks** → take the CO section of Mock A timed (it was untimed at Gate 3). Then one CE set against the clock.\nRule: **never leave a blank** — there's no penalty for guessing." },
+    { "kind": "recap", "points": ["Protected week — backlog first", "No new grammar", "Timed CO/CE begin"] },
+    { "kind": "spiral", "title": "Error traps sweep", "items": [
+      { "type": "mcq", "q": "*une librairie* is…", "options": ["a bookshop", "a library"], "answer": 0, "trap": "fauxamis" },
+      { "type": "mcq", "q": "*passer un examen* means…", "options": ["to sit an exam", "to pass an exam"], "answer": 0, "trap": "fauxamis" },
+      { "type": "mcq", "q": "Il habite ___ États-Unis.", "options": ["aux", "en", "au"], "answer": 0, "trap": "pays" }
+    ] }
+  ]
+}

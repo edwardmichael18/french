@@ -1,0 +1,654 @@
+{
+ "id": "co",
+ "title": "Listening",
+ "fr": "Compréhension orale",
+ "icon": "🎧",
+ "summary": "39 multiple-choice questions in 35 minutes. Each recording plays **once**, and the questions get harder from A1 to C2. You need **458** for NCLC 7. It's the slowest skill to repair, which is why listening runs every single day of the plan.",
+ "facts": [
+  [
+   "Duration",
+   "35 minutes"
+  ],
+  [
+   "Questions",
+   "39 multiple choice, 4 options, one correct answer"
+  ],
+  [
+   "Audio",
+   "**Played once.** Question and options are on screen — read them first"
+  ],
+  [
+   "Order",
+   "Easy to hard: A1 → A2 → B1 → B2 → C1 → C2"
+  ],
+  [
+   "Scoring",
+   "100–699. Harder questions are worth more (FEI's exact weights aren't public)"
+  ],
+  [
+   "Your target",
+   "**458** (NCLC 7 = 458–502) — aim for ~480 on mocks for margin"
+  ],
+  [
+   "Guessing",
+   "No penalty for a wrong answer — **never leave a blank**"
+  ],
+  [
+   "Re-marking",
+   "Suspended from 1 Sep 2026 — the score you get is the score you keep"
+  ]
+ ],
+ "format": [
+  {
+   "title": "What you hear, level by level",
+   "body": "**A1–A2:** short, slow, everyday: a price, a time, a place, an announcement in a station, a voicemail. The question is factual: *À quelle heure… ? Où… ? Combien… ?*\n**B1:** short conversations and messages about work, housing, health, leisure. Questions ask *why*, *what's the problem*, *what does the person want*.\n**B2:** radio extracts, interviews, opinions. Questions ask for the **speaker's view**, a cause, a condition, a nuance.\n**C1–C2:** fast, dense speech with implicit meaning, irony, concession. Questions ask what the speaker **implies** or **criticises**.\nThe questions reach B2 around question 20. NCLC 7 means getting almost all A1–B1 right and a good share of B2."
+  },
+  {
+   "title": "How the score works (and what it means for you)",
+   "body": "A wrong answer at A1 costs you as much as it does anyone: **the easy questions are where scores are lost cheaply**. Candidates who rush the first 15 to 'save time for the hard ones' lose more than they gain.\nBecause harder items weigh more, each B2 item you win is worth more than an A2 item. But you can't reach 458 on B2 alone: you need a near-perfect base *and* half the B2s.\nThe score on this site's mocks is an **estimate** on the same 100–699 scale, not FEI's real formula."
+  }
+ ],
+ "lessons": [
+  {
+   "id": "how",
+   "title": "How the listening section works",
+   "minutes": 8,
+   "steps": [
+    {
+     "kind": "chunk",
+     "title": "Once, then gone",
+     "body": "You'll hear **39 recordings, each once**. The question and the four options appear on screen **before** the audio starts. That preparation time is the whole game: a candidate who reads the options first knows what to listen for; one who doesn't is listening to *everything*.\nRule 1: **eyes on the question and options before the sound starts.**"
+    },
+    {
+     "kind": "check",
+     "q": "The recording for question 7 starts. You haven't read the options yet. What do you do?",
+     "options": [
+      "Read the options while listening, focusing on the question word",
+      "Close your eyes and memorise the recording",
+      "Skip it and come back later"
+     ],
+     "answer": 0,
+     "explain": "You can't replay or come back: the audio plays once. Glance at the question word (*où, quand, pourquoi…*) and listen for that one piece of information."
+    },
+    {
+     "kind": "chunk",
+     "title": "No penalty for guessing",
+     "body": "A wrong answer scores the same as a blank: zero. So **a blank is always a mistake**. If you lose a recording, eliminate what you can and pick one — you have a 25% chance at worst, often 50% after eliminating two."
+    },
+    {
+     "kind": "check",
+     "q": "You heard the recording but you're unsure between B and D. What's the best strategy?",
+     "options": [
+      "Choose one of B or D straight away and move on",
+      "Leave it blank to avoid losing points",
+      "Pick A, since it's rarely the answer"
+     ],
+     "answer": 0,
+     "explain": "Blanks score zero; guessing between two gives 50%. And don't dwell — the next audio is coming."
+    },
+    {
+     "kind": "check",
+     "q": "Where do the easy questions sit in the section?",
+     "options": [
+      "At the beginning — the section goes from A1 to C2",
+      "At the end",
+      "Mixed randomly"
+     ],
+     "answer": 0,
+     "explain": "The TCF orders items from easiest to hardest. The first ~12 are A1–A2: that's your base score, so give them full attention."
+    },
+    {
+     "kind": "recap",
+     "points": [
+      "Read the question and options **before** the audio.",
+      "Audio plays **once** — no replay, no going back.",
+      "**Never leave a blank**: a wrong answer costs nothing extra.",
+      "Easy items come first — they're cheap points, don't rush them."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "predict",
+   "title": "Read the question, predict the answer",
+   "minutes": 10,
+   "steps": [
+    {
+     "kind": "chunk",
+     "title": "The question word tells you what to catch",
+     "body": "**Où ?** → a place (à la gare, au deuxième étage). **Quand / À quelle heure ?** → a time or date. **Combien ?** → a number or price. **Pourquoi ?** → listen for *parce que, car, à cause de, grâce à, comme*. **Qu'est-ce que la personne veut / propose ?** → listen for *je voudrais, on pourrait, est-ce que tu peux*.\nBefore the audio: **say to yourself what kind of answer you expect.**"
+    },
+    {
+     "kind": "check",
+     "q": "Question: *Pourquoi Fatou ne vient-elle pas au match ?* Which words should you listen for?",
+     "options": [
+      "parce que / car / à cause de",
+      "à quelle heure / vers",
+      "combien / ça coûte"
+     ],
+     "answer": 0,
+     "explain": "*Pourquoi* = a reason. The answer usually comes after *parce que, car, à cause de* — or right after *mais*."
+    },
+    {
+     "kind": "check",
+     "type": "listen",
+     "say": "Salut, c'est Fatou. Je ne pourrai pas venir au match demain, ma voiture est au garage. Tu pourrais passer me prendre ?",
+     "rate": 0.9,
+     "q": "Pourquoi Fatou a-t-elle un problème pour venir ?",
+     "options": [
+      "Sa voiture est en réparation.",
+      "Elle est malade.",
+      "Elle travaille demain.",
+      "Le match est annulé."
+     ],
+     "answer": 0,
+     "explain": "*Ma voiture est au garage* = it's being repaired. No *parce que* here: the reason simply follows the refusal. Predicting 'a reason' let you catch it anyway."
+    },
+    {
+     "kind": "chunk",
+     "title": "Use the options to predict",
+     "body": "The four options tell you the **topic** and often the **type of information** before a word is spoken. If the options are four times, you know to catch a time — and to beware of the *other* times mentioned (see lesson 4)."
+    },
+    {
+     "kind": "check",
+     "q": "Options: *A. 8 h  B. 10 h  C. 16 h  D. 18 h*. What should you expect in the recording?",
+     "options": [
+      "Several times mentioned — only one answers the question",
+      "Only one time mentioned",
+      "No time at all — it's a trick"
+     ],
+     "answer": 0,
+     "explain": "Test-makers put the other options *in* the recording (opening time vs closing time). Catch which time answers **the question asked**."
+    },
+    {
+     "kind": "check",
+     "type": "listen",
+     "say": "La médiathèque ouvre à dix heures et ferme à dix-huit heures, sauf le jeudi, où elle reste ouverte jusqu'à vingt heures.",
+     "rate": 0.9,
+     "q": "À quelle heure ferme la médiathèque le lundi ?",
+     "options": [
+      "À 18 h",
+      "À 10 h",
+      "À 20 h",
+      "À 16 h"
+     ],
+     "answer": 0,
+     "explain": "Three times are said. Monday is a normal day, so *ferme à dix-huit heures* = 18 h. 20 h is Thursday only; 10 h is the opening time."
+    },
+    {
+     "kind": "recap",
+     "points": [
+      "The question word tells you **what type** of answer to catch.",
+      "*Pourquoi* → *parce que, car, à cause de, comme*.",
+      "Options predict the topic — and the traps.",
+      "Expect the wrong options to be **mentioned** in the audio."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paraphrase",
+   "title": "The answer is said differently",
+   "minutes": 10,
+   "steps": [
+    {
+     "kind": "chunk",
+     "title": "Same meaning, different words",
+     "body": "From B1 up, the correct option almost never repeats the recording's words. It **paraphrases**: *Il a trop de travail* → *Il est occupé*. *Le vol décollera avec une heure de retard* → *Le vol est retardé*.\nMeanwhile, a **wrong** option often reuses a word you heard. Matching sounds is not matching meaning."
+    },
+    {
+     "kind": "check",
+     "type": "listen",
+     "say": "J'ai voulu réserver une table pour huit samedi soir, mais le restaurant était complet. On m'a proposé vendredi soir ou dimanche midi.",
+     "rate": 0.95,
+     "q": "Quelle est la situation ?",
+     "options": [
+      "Le restaurant est plein samedi ; on lui propose deux autres moments.",
+      "Sa réservation pour samedi est confirmée.",
+      "Le restaurant est complet dimanche.",
+      "Le restaurant est fermé le vendredi."
+     ],
+     "answer": 0,
+     "explain": "*Complet* is paraphrased as *plein*; *vendredi soir ou dimanche midi* becomes *deux autres moments*. Option C reuses *complet* and *dimanche* but mixes them up — the classic trap."
+    },
+    {
+     "kind": "check",
+     "q": "Match: *Il ne s'agit pas de supprimer les voitures du centre, mais d'en limiter l'accès aux heures de pointe.*",
+     "options": [
+      "Un accès limité plutôt qu'une suppression",
+      "Une suppression totale des voitures",
+      "Un accès totalement libre"
+     ],
+     "answer": 0,
+     "explain": "*Limiter l'accès* = restrict. The word *supprimer* is in the sentence, but negated (*il ne s'agit pas de*) — option B is the trap."
+    },
+    {
+     "kind": "chunk",
+     "title": "Build a paraphrase bank",
+     "body": "High-frequency pairs to know on sight:\n*complet* = plein · *annulé* = n'aura pas lieu · *reporté* = remis à plus tard · *gratuit* = sans frais · *obligatoire* = il faut / exigé · *souhaité* = apprécié mais pas exigé · *en panne* = ne fonctionne pas · *désormais* = à partir de maintenant · *malgré* = même si · *le lendemain* = le jour suivant"
+    },
+    {
+     "kind": "check",
+     "q": "*Permis de conduire souhaité, mais pas exigé.* What does the ad say about a driving licence?",
+     "options": [
+      "It's appreciated but not required.",
+      "It's required.",
+      "It doesn't matter at all."
+     ],
+     "answer": 0,
+     "explain": "*Souhaité* = wished for, appreciated. *Pas exigé* = not required."
+    },
+    {
+     "kind": "check",
+     "q": "*Le marché aura désormais lieu le samedi.* What changes?",
+     "options": [
+      "From now on, the market is on Saturday.",
+      "The market was on Saturday but stops.",
+      "The market is cancelled on Saturday."
+     ],
+     "answer": 0,
+     "explain": "*Désormais* = from now on. A tiny word that carries the whole answer."
+    },
+    {
+     "kind": "recap",
+     "points": [
+      "From B1 up, the right answer **paraphrases**.",
+      "An option that repeats the audio's words is **suspicious**.",
+      "Learn pairs: complet/plein, désormais/à partir de maintenant, souhaité/apprécié."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "traps",
+   "title": "Distractor tricks: negation, numbers, changes of plan",
+   "minutes": 12,
+   "steps": [
+    {
+     "kind": "chunk",
+     "title": "The four favourite traps",
+     "body": "1. **Negation**: the option contains the word, but the speaker said *ne… pas*, *ne… plus*, *ne… jamais*.\n2. **Numbers and times**: several are said; only one answers the question.\n3. **Change of plan**: the first idea is replaced after *mais, finalement, en fait, au dernier moment, plutôt*. **The answer is what comes after.**\n4. **Someone else's opinion**: *Mes collègues trouvent que…, mais moi…* — the question asks about *the speaker*."
+    },
+    {
+     "kind": "check",
+     "type": "listen",
+     "say": "On devait partir à Québec samedi, mais finalement, avec la tempête, on a tout reporté à la semaine prochaine.",
+     "rate": 0.95,
+     "q": "Qu'est-ce qui s'est passé ?",
+     "options": [
+      "Le voyage a été repoussé.",
+      "Ils sont partis samedi.",
+      "Ils ont annulé le voyage définitivement.",
+      "Ils partent à Québec en voiture."
+     ],
+     "answer": 0,
+     "explain": "*On devait* = the plan. *Mais finalement… reporté* = the change. *Reporté* = postponed, not cancelled (option C)."
+    },
+    {
+     "kind": "check",
+     "type": "listen",
+     "say": "Mes amis adorent ce restaurant, ils y vont chaque semaine. Moi, honnêtement, je trouve ça trop cher pour ce que c'est.",
+     "rate": 0.95,
+     "q": "Que pense la personne qui parle du restaurant ?",
+     "options": [
+      "Il est trop cher.",
+      "Elle l'adore.",
+      "Elle y va chaque semaine.",
+      "Il est excellent."
+     ],
+     "answer": 0,
+     "explain": "*Mes amis adorent… Moi… je trouve* — the question is about **her** opinion, which comes after *moi*."
+    },
+    {
+     "kind": "check",
+     "type": "listen",
+     "say": "Je ne prends plus le métro depuis que j'ai acheté un vélo électrique.",
+     "rate": 0.95,
+     "q": "Comment la personne se déplace-t-elle maintenant ?",
+     "options": [
+      "À vélo.",
+      "En métro.",
+      "En voiture.",
+      "À pied."
+     ],
+     "answer": 0,
+     "explain": "*Ne… plus* = not any more. *Métro* is said, but negated."
+    },
+    {
+     "kind": "check",
+     "q": "Which word most often signals the **real** answer is coming?",
+     "options": [
+      "finalement",
+      "d'abord",
+      "aussi"
+     ],
+     "answer": 0,
+     "explain": "*Finalement, en fait, mais, au bout du compte* announce a change or the conclusion — listen hardest right after them."
+    },
+    {
+     "kind": "recap",
+     "points": [
+      "**Negation**: the word is there, the meaning is the opposite.",
+      "**Several numbers**: match the one to the question.",
+      "**Change of plan**: the answer follows *mais / finalement / en fait*.",
+      "**Whose opinion?** The answer follows *moi, personnellement, à mon avis*."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "docs",
+   "title": "Know the document types",
+   "minutes": 10,
+   "steps": [
+    {
+     "kind": "chunk",
+     "title": "Five kinds of recording",
+     "body": "**Announcements** (station, airport, shop, pharmacy): delays, platforms, times, closures. Listen for *retard, annulé, voie, quai, fermé exceptionnellement*.\n**Voicemails / phone calls**: who's calling and **why** — invite, cancel, ask, confirm.\n**Conversations**: two people disagree or decide — who wants what?\n**Interviews / testimonies**: a person's experience and opinion.\n**Radio news / short talks**: the main fact, its cause and a figure."
+    },
+    {
+     "kind": "check",
+     "q": "A voicemail. Which question is it most likely to ask?",
+     "options": [
+      "Pourquoi la personne appelle-t-elle ?",
+      "Quelle est la population de la ville ?",
+      "Quel est le titre de l'émission ?"
+     ],
+     "answer": 0,
+     "explain": "Voicemails are about purpose: *Pourquoi… appelle-t-il ? Que demande-t-elle ?*"
+    },
+    {
+     "kind": "check",
+     "type": "listen",
+     "say": "Votre attention, s'il vous plaît. Le train numéro soixante-quatre à destination de Québec partira avec trente minutes de retard. Nouveau départ prévu à dix-sept heures vingt-cinq, voie huit.",
+     "rate": 0.95,
+     "q": "À quelle heure part le train ?",
+     "options": [
+      "17 h 25",
+      "16 h 55",
+      "17 h 08",
+      "8 h 25"
+     ],
+     "answer": 0,
+     "explain": "*Dix-sept heures vingt-cinq* = 17:25. *Huit* is the platform and *soixante-quatre* the train number — number traps."
+    },
+    {
+     "kind": "check",
+     "type": "listen",
+     "say": "D'après un sondage publié hier, huit parents sur dix estiment que leurs enfants passent trop de temps devant les écrans.",
+     "rate": 1,
+     "q": "Que montre le sondage ?",
+     "options": [
+      "La grande majorité des parents s'inquiètent du temps d'écran de leurs enfants.",
+      "Deux parents sur dix interdisent les écrans.",
+      "Les enfants regardent moins d'écrans qu'avant.",
+      "Les parents passent trop de temps sur les écrans."
+     ],
+     "answer": 0,
+     "explain": "*Huit sur dix* = a large majority; *estiment que… trop de temps* = they're worried. B turns the 2 left over into a claim nobody made; D swaps who spends the time."
+    },
+    {
+     "kind": "recap",
+     "points": [
+      "Announcements → times, places, delays, closures.",
+      "Messages → **why** they're calling.",
+      "Conversations → **who wants what**.",
+      "News → main fact + cause + figure."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "numbers",
+   "title": "Numbers, times and dates at speed",
+   "minutes": 10,
+   "steps": [
+    {
+     "kind": "chunk",
+     "title": "Where A1–A2 points are lost",
+     "body": "French numbers above 60 are built by addition: **soixante-dix** = 60+10 = 70, **quatre-vingts** = 4×20 = 80, **quatre-vingt-dix** = 90. Times use the 24-hour clock in announcements: *dix-neuf heures* = 7 pm. Prices: *cinq euros cinquante* = 5,50 €.\nThe trap is hearing the first part and stopping: **soixante…-dix-huit** is 78, not 60."
+    },
+    {
+     "kind": "check",
+     "type": "listen",
+     "say": "Votre numéro de dossier est le quatre-vingt-dix-sept, soixante-quinze.",
+     "rate": 0.9,
+     "q": "Quel est le numéro ?",
+     "options": [
+      "97 75",
+      "87 65",
+      "97 65",
+      "47 75"
+     ],
+     "answer": 0,
+     "explain": "*Quatre-vingt-dix-sept* = 97, *soixante-quinze* = 75."
+    },
+    {
+     "kind": "check",
+     "type": "listen",
+     "say": "Le rendez-vous est le jeudi seize mars, à quatorze heures quinze.",
+     "rate": 0.9,
+     "q": "Quand est le rendez-vous ?",
+     "options": [
+      "Jeudi 16 mars à 14 h 15",
+      "Jeudi 6 mars à 14 h 15",
+      "Mardi 16 mars à 4 h 15",
+      "Jeudi 16 mai à 14 h 50"
+     ],
+     "answer": 0,
+     "explain": "*Seize* (16) vs *six* (6); *quinze* (15) vs *cinquante* (50); *mars* vs *mai*."
+    },
+    {
+     "kind": "check",
+     "type": "listen",
+     "say": "Ça fait soixante-dix-huit dollars quatre-vingt-dix, s'il vous plaît.",
+     "rate": 0.9,
+     "q": "Combien faut-il payer ?",
+     "options": [
+      "78,90 $",
+      "68,90 $",
+      "78,19 $",
+      "70,98 $"
+     ],
+     "answer": 0,
+     "explain": "*Soixante-dix-huit* = 78, *quatre-vingt-dix* = 90."
+    },
+    {
+     "kind": "chunk",
+     "title": "Daily fix: 2 minutes",
+     "body": "Every day this week: go to **Basics → Numbers** and do the listening drill for 2 minutes, then say today's date, the time and a price out loud. Numbers need speed, not knowledge."
+    },
+    {
+     "kind": "recap",
+     "points": [
+      "70 = soixante-dix · 80 = quatre-vingts · 90 = quatre-vingt-dix.",
+      "Wait for the **end** of the number before choosing.",
+      "Announcements use the 24-hour clock.",
+      "Drill numbers 2 minutes a day — it's pure speed."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b2c1",
+   "title": "B2–C1: attitude, nuance and what's implied",
+   "minutes": 12,
+   "steps": [
+    {
+     "kind": "chunk",
+     "title": "From facts to viewpoints",
+     "body": "From about question 20, the questions stop asking *what* and start asking **what the speaker thinks** or **implies**. The key is the **connectors**:\n**concession** — *certes, bien que, même si, il est vrai que… mais*\n**opposition** — *pourtant, cependant, en revanche, alors que, au contraire*\n**contesting an idea** — *contrairement à une idée reçue, on croit souvent que… or*\nThe speaker's view is usually **after** the concession."
+    },
+    {
+     "kind": "check",
+     "type": "listen",
+     "say": "Contrairement à une idée reçue, ce n'est pas le froid qui donne le rhume, ce sont les virus, qui circulent plus facilement quand on reste tous enfermés.",
+     "rate": 1,
+     "q": "Quelle idée la personne conteste-t-elle ?",
+     "options": [
+      "Que le froid cause le rhume.",
+      "Que les virus causent le rhume.",
+      "Qu'il faut sortir en hiver.",
+      "Que le rhume est une maladie grave."
+     ],
+     "answer": 0,
+     "explain": "*Contrairement à une idée reçue* announces the idea being rejected: 'the cold gives you a cold'. B is what the speaker says is actually true."
+    },
+    {
+     "kind": "check",
+     "type": "listen",
+     "say": "Qu'un produit soit cher ne garantit en rien sa qualité ; encore faudrait-il comparer sa composition avec celle des autres.",
+     "rate": 1,
+     "q": "Que pense la personne ?",
+     "options": [
+      "Un prix élevé ne prouve pas qu'un produit est bon.",
+      "Les produits chers sont mauvais.",
+      "Il faut toujours acheter le moins cher.",
+      "Tous les produits ont la même composition."
+     ],
+     "answer": 0,
+     "explain": "She doesn't say expensive products are bad (B); she says price isn't proof of quality. C1 questions punish options that go **further** than the speaker."
+    },
+    {
+     "kind": "check",
+     "q": "*Certes, le projet coûte cher, mais il créera des milliers d'emplois.* What is the speaker's position?",
+     "options": [
+      "Favourable to the project",
+      "Against the project",
+      "Neutral"
+     ],
+     "answer": 0,
+     "explain": "*Certes* concedes the cost; *mais* introduces the speaker's real view: jobs → favourable."
+    },
+    {
+     "kind": "recap",
+     "points": [
+      "The view comes **after** *certes / il est vrai que … mais*.",
+      "*Contrairement à une idée reçue* introduces the idea rejected.",
+      "At C1, wrong options **exaggerate** what the speaker said — choose the one that stays closest."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "routine",
+   "title": "Training routine: how listening actually improves",
+   "minutes": 8,
+   "steps": [
+    {
+     "kind": "chunk",
+     "title": "Volume + transcripts",
+     "body": "Test tricks add maybe 30 points. The other 150+ come from **hours of listening at the right level**. The plan's routine:\n1. **Listen once** without text (like the exam).\n2. **Listen again with the transcript**, pausing at every surprise.\n3. **Shadow** 1–2 minutes: say it with the speaker.\n4. **Listen once more** without text — you'll now hear it all.\nUse the listening ladder in Resources: Coffee Break → RFI facile → TV5Monde → InnerFrench → HugoDécrypte."
+    },
+    {
+     "kind": "check",
+     "q": "Which step makes the biggest difference for comprehension?",
+     "options": [
+      "Re-listening with the transcript and noticing what you missed",
+      "Listening to French radio in the background all day",
+      "Doing only test questions"
+     ],
+     "answer": 0,
+     "explain": "Background noise is not input. Active re-listening with the transcript turns 'noise' into words you'll recognise next time."
+    },
+    {
+     "kind": "check",
+     "q": "Your mock CO is 400 in week 14. What's the plan's advice?",
+     "options": [
+      "Add listening volume — an extra hour daily for two weeks — before changing anything else",
+      "Switch to reading practice",
+      "Take the exam anyway"
+     ],
+     "answer": 0,
+     "explain": "From the plan: when listening is short, it's almost always volume. Comprehension is the slowest skill to repair, so act early."
+    },
+    {
+     "kind": "recap",
+     "points": [
+      "Tricks help; **hours of listening** decide the score.",
+      "Once blind → with transcript → shadow → once blind again.",
+      "Short at a gate? **Add an hour of listening daily** before changing anything else."
+     ]
+    }
+   ]
+  }
+ ],
+ "mistakes": [
+  {
+   "title": "Reading the options only after the audio starts",
+   "why": "You end up listening to everything and remembering nothing specific.",
+   "fix": "Use the seconds before each recording to read the question word and the four options. Predict the type of answer."
+  },
+  {
+   "title": "Choosing the option that repeats a word you heard",
+   "why": "From B1 up, the correct option paraphrases; distractors recycle the recording's words.",
+   "fix": "Ask *does this option mean what was said?*, not *did I hear this word?*"
+  },
+  {
+   "title": "Missing the negation",
+   "why": "*Je ne prends plus le métro* contains *métro*. The option 'en métro' feels right.",
+   "fix": "Train your ear for *ne… pas / plus / jamais / rien* — in fast speech the *ne* disappears: *j'prends plus le métro*."
+  },
+  {
+   "title": "Stopping at the first idea",
+   "why": "Speakers change their minds: *on devait…, mais finalement…*",
+   "fix": "The answer is usually after *mais, finalement, en fait, plutôt*."
+  },
+  {
+   "title": "Confusing numbers",
+   "why": "*seize/six, quinze/cinquante, soixante-dix-huit/soixante-huit*.",
+   "fix": "Wait for the end of the number. Two minutes of number dictation a day (Basics → Numbers)."
+  },
+  {
+   "title": "Answering with someone else's opinion",
+   "why": "*Mes collègues pensent que… Moi, je…* — the question asks about the speaker.",
+   "fix": "Listen for *moi, personnellement, à mon avis, je trouve que*."
+  },
+  {
+   "title": "Freezing after a lost recording",
+   "why": "Candidates keep thinking about question 12 and miss 13 and 14.",
+   "fix": "Guess, move on, reset for the next recording. One lost item is one; three lost items is panic."
+  },
+  {
+   "title": "Leaving blanks",
+   "why": "A blank scores zero; a guess scores 25–50% on average.",
+   "fix": "Answer every question. Always."
+  }
+ ],
+ "checklist": [
+  "Before the audio: read the **question word** and the **four options**. Predict the kind of answer.",
+  "During: listen for the one piece of information — especially after *mais / finalement / parce que*.",
+  "Choose the option that **means** what was said, not the one that **sounds** like it.",
+  "Lost it? **Eliminate and guess** immediately. Reset for the next item.",
+  "First 12 questions: full attention — they're the cheapest points in the exam.",
+  "Never leave a blank."
+ ],
+ "resources": [
+  "coffeebreak",
+  "rfi",
+  "tv5monde",
+  "innerfrench",
+  "hugodecrypte",
+  "kdsingh",
+  "formation",
+  "reussir",
+  "tcfcan",
+  "tcftefprep",
+  "lingua-listen",
+  "fei"
+ ],
+ "videos": [
+  "t6M4YWSPys0",
+  "aElkN9Hffmc",
+  "zC1sxwfPfsc",
+  "yyYqoZ3H6rM"
+ ],
+ "levelLinks": {
+  "A1": "https://www.kdsinghacademy.com/tcf-a1",
+  "A2": "https://www.kdsinghacademy.com/tcf-a2",
+  "B1": "https://www.kdsinghacademy.com/tcf-b1",
+  "B2": "https://www.kdsinghacademy.com/tcf-b2",
+  "C1": "https://www.kdsinghacademy.com/tcf-c1",
+  "C2": "https://www.kdsinghacademy.com/tcf-c2"
+ }
+}

@@ -1,0 +1,55 @@
+{
+  "w": 7,
+  "title": "Subjunctive, triaged",
+  "level": "B1",
+  "objective": "Don't \"learn the subjunctive\". Learn six triggers and seven irregular verbs — that covers most B1 use.",
+  "tasks": [
+    "Listening: RFI Journal en français facile, daily",
+    "Drill *il faut que* alone for two days",
+    "3 marked writing pieces · tutor 5×/week"
+  ],
+  "resources": ["rfi", "tv5monde", "lepointdufle"],
+  "steps": [
+    { "kind": "chunk", "title": "Formation",
+      "body": "Take the **ils** present stem, add **-e, -es, -e, -ions, -iez, -ent**.\n*ils finiss-ent* → que je finiss**e** · *ils prenn-ent* → que je prenn**e** · *ils parl-ent* → que je parl**e**" },
+    { "kind": "chunk", "title": "The seven irregulars",
+      "body": "**être** que je sois · **avoir** que j'aie · **aller** que j'aille · **faire** que je fasse · **pouvoir** que je puisse · **savoir** que je sache · **vouloir** que je veuille" },
+    { "kind": "chunk", "title": "Trigger 1: il faut que — highest yield in the language",
+      "body": "*Il faut que tu **viennes**.* · *Il faut qu'on **fasse** attention.* · *Il faut que je **sois** à l'heure.*\nDrill it alone for two days." },
+    { "kind": "drill", "title": "il faut que…", "items": [
+      { "type": "gap", "q": "Il faut que je ___ (partir).", "answer": ["parte"] },
+      { "type": "gap", "q": "Il faut que vous ___ (être) patient.", "answer": ["soyez"] },
+      { "type": "gap", "q": "Il faut qu'on ___ (faire) une pause.", "answer": ["fasse"] },
+      { "type": "gap", "q": "Il faut que tu ___ (avoir) ton passeport.", "answer": ["aies"] }
+    ] },
+    { "kind": "chunk", "title": "Triggers 2–6",
+      "body": "2 **will**: *je veux que / je voudrais que* — *Je voudrais que vous **veniez**.*\n3 **emotion**: *je suis content que / j'ai peur que* — *J'ai peur qu'il **soit** en retard.*\n4 **doubt**: *je ne pense pas que* — *Je ne pense pas que ce **soit** juste.*\n5 **bien que** (although) — *Bien qu'il **fasse** froid…*\n6 **pour que** (so that) — *Je parle lentement pour que tu **comprennes**.*" },
+    { "kind": "chunk", "title": "The trap: je pense que",
+      "body": "*Je **pense** que c'**est** juste* — **indicative** (you believe it).\n*Je **ne pense pas** que ce **soit** juste* — **subjunctive** (doubt).\nThe negative flips it. Same with *croire*." },
+    { "kind": "drill", "title": "Indicative or subjunctive?", "items": [
+      { "type": "mcq", "q": "Je pense que le système ___ efficace.", "options": ["est", "soit"], "answer": 0 },
+      { "type": "mcq", "q": "Je ne crois pas que le système ___ efficace.", "options": ["soit", "est"], "answer": 0 },
+      { "type": "mcq", "q": "Bien qu'il ___ tard, on continue.", "options": ["soit", "est"], "answer": 0 },
+      { "type": "mcq", "q": "Je suis sûr qu'il ___ raison.", "options": ["a", "ait"], "answer": 0, "explain": "Certainty → indicative." },
+      { "type": "mcq", "q": "Je suis content que tu ___ là.", "options": ["sois", "es"], "answer": 0 }
+    ] },
+    { "kind": "explain", "prompt": "Explain back: why is it *je pense qu'il **a** raison* but *je ne pense pas qu'il **ait** raison*?",
+      "model": "Affirmative *penser/croire* states a belief → indicative. Negated, it expresses doubt → subjunctive." },
+    { "kind": "produce", "mode": "speak", "title": "Advice to a new colleague — 90 seconds",
+      "task": "A new doctor starts on your ward. Give advice using **il faut que** three times and **je voudrais que / pour que / bien que** once each.",
+      "prompt": "Donnez des conseils à un nouveau collègue.",
+      "model": "Bienvenue ! **Il faut que tu sois** à l'heure pour la relève. **Il faut que tu fasses** attention aux ordonnances, et **il faut qu'on puisse** te joindre la nuit. **Je voudrais que tu viennes** à la réunion lundi. **Bien que** le service **soit** chargé, l'équipe est sympa. Pose des questions **pour que** tout le monde **sache** ce que tu fais.",
+      "seconds": 90 },
+    { "kind": "recap", "points": [
+      "ils-stem + e/es/e/ions/iez/ent",
+      "Seven irregulars: sois, aie, aille, fasse, puisse, sache, veuille",
+      "Six triggers: il faut que · vouloir que · emotion · ne pas penser que · bien que · pour que",
+      "je pense que + indicative; je ne pense pas que + subjunctive"
+    ] },
+    { "kind": "spiral", "title": "Weeks 4–6", "items": [
+      { "type": "mcq", "q": "Je ___ téléphone ce soir. (à ma mère)", "options": ["lui", "la"], "answer": 0, "trap": "preposition" },
+      { "type": "mcq", "q": "Hier soir, pendant que je ___ , il a appelé.", "options": ["dormais", "ai dormi"], "answer": 0, "trap": "pcimp" },
+      { "type": "gap", "q": "Demain, on ___ (aller) au consulat.", "answer": ["ira", "va aller"] }
+    ] }
+  ]
+}

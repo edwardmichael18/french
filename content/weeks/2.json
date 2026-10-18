@@ -1,0 +1,63 @@
+{
+  "w": 2,
+  "title": "Liaison, and the first grammar",
+  "level": "A1",
+  "objective": "Make fast French sound like words again (liaison, elision, group stress). Start grammar with the four verbs that carry most of what you'll say.",
+  "tasks": [
+    "Anki properly: ~30 new cards/day, article always visible",
+    "Shadow 15 min/day",
+    "Drill être · avoir · aller · faire cold until instant"
+  ],
+  "resources": ["frenchtoday", "coffeebreak", "anki", "lepointdufle"],
+  "steps": [
+    { "kind": "chunk", "title": "Liaison — why French sounds like one long word",
+      "body": "A silent final consonant **wakes up** before a vowel.\nCompulsory: [[les amis]] (lé-z-ami) · [[un homme]] · [[nous avons]] · [[vous êtes]]\nForbidden: after **et** ([[et un]]), and before an *h aspiré* ([[les héros]])." },
+    { "kind": "check", "type": "mcq", "q": "In **les amis**, what do you hear between *les* and *amis*?", "options": ["a z sound", "an s sound", "nothing"], "answer": 0, "explain": "Liaison s/x sounds like **z**: *lé‿zami*." },
+    { "kind": "chunk", "title": "Elision",
+      "body": "Short words drop their vowel before another vowel: *je ai* → **j'ai**, *le homme* → **l'homme**, *que il* → **qu'il**, *ne est* → **n'est**.\nNot optional — *je ai* is simply wrong." },
+    { "kind": "check", "type": "gap", "q": "Write it correctly: *le hôpital* → ___", "answer": ["l'hôpital"], "explain": "Mute h behaves like a vowel: **l'hôpital**." },
+    { "kind": "chunk", "title": "Stress falls at the end of the group",
+      "body": "English stresses each word. French puts one rise at the **end of the rhythm group**, and every other syllable is even.\n[[Je travaille à l'hôpital.]] — the weight lands on *-tal*.\nThis is instantly audible to an examiner." },
+
+    { "kind": "chunk", "title": "Four verbs carry everything",
+      "body": "Learn these cold before any regular verb.\n**être**: je suis · tu es · il/on est · vous êtes\n**avoir**: j'ai · tu as · il/on a · vous avez\n**aller**: je vais · tu vas · il/on va · vous allez\n**faire**: je fais · tu fais · il/on fait · vous faites" },
+    { "kind": "chunk", "title": "Shortcut: use on for \"we\"",
+      "body": "French people say **on va**, not *nous allons*. *On* takes the **il** ending — so it deletes a whole conjugation row from your active load.\nLearn **je / tu / il / vous** first. *Nous* is rare in speech; *ils* has an ending you can't hear anyway." },
+    { "kind": "drill", "title": "Quick-fire: the four verbs", "items": [
+      { "type": "gap", "q": "Vous ___ médecin ? (être)", "answer": ["êtes"] },
+      { "type": "gap", "q": "J'___ trente-deux ans. (avoir)", "answer": ["ai"], "trap": "avoiretre" },
+      { "type": "gap", "q": "On ___ au marché ce soir. (aller)", "answer": ["va"] },
+      { "type": "gap", "q": "Qu'est-ce que vous ___ ce week-end ? (faire)", "answer": ["faites"] },
+      { "type": "gap", "q": "Tu ___ faim ? (avoir)", "answer": ["as"], "trap": "avoiretre" }
+    ] },
+    { "kind": "explain", "prompt": "Why is \"Je suis 32 ans\" wrong? Explain in your own words, then write the correct sentence.",
+      "model": "French uses **avoir** for age (and hunger, cold, being right): *J'ai 32 ans.* *Je suis 32 ans* is a direct English calque." },
+
+    { "kind": "chunk", "title": "Articles and gender",
+      "body": "Definite: **le** (m) · **la** (f) · **l'** (vowel) · **les** (pl)\nIndefinite: **un** · **une** · **des**\nPartitive (some): **du** · **de la** · **de l'** — *je bois du café*.\nEvery noun enters your head **with** its article." },
+    { "kind": "chunk", "title": "The rule that catches everyone",
+      "body": "After a **negative**, the partitive and indefinite collapse to **de**:\n*Je mange **du** pain* → *Je ne mange **pas de** pain.*\n*J'ai **un** rendez-vous* → *Je n'ai **pas de** rendez-vous.*\nSame after quantities: *beaucoup **de** temps*, *un peu **d'**eau*." },
+    { "kind": "check", "type": "mcq", "q": "Negate: *Il y a des patients.*", "options": ["Il n'y a pas de patients.", "Il n'y a pas des patients.", "Il n'y a pas les patients."], "answer": 0, "explain": "After *pas*, **des → de**." },
+    { "kind": "check", "type": "gap", "q": "J'ai beaucoup ___ travail cette semaine.", "answer": ["de"], "explain": "Quantity + **de** (no article)." },
+
+    { "kind": "produce", "mode": "speak", "title": "Introduce yourself — 1 minute",
+      "task": "Speak for one minute. Use **être, avoir, aller, faire** at least once each, one negative with *pas de*, and **on** for \"we\". Record, then play it back listening only for liaison and final stress.",
+      "prompt": "Présentez-vous : nom, âge, travail, ce que vous faites le week-end.",
+      "model": "Je m'appelle… **J'ai** trente-deux ans. **Je suis** médecin, je travaille à l'hôpital. Le week-end, **je fais** des gardes : **on a** beaucoup **de** patients. **Je n'ai pas de** temps libre le samedi, mais le lundi **je vais** au marché.",
+      "seconds": 60,
+      "hints": ["Start: *Je m'appelle… J'ai… ans.*", "Work: *Je suis médecin. Je travaille à…*", "Negative: *Je n'ai pas de temps libre le samedi.*"] },
+    { "kind": "recap", "points": [
+      "Liaison: compulsory after les/un/nous/vous before a vowel; never after *et*",
+      "Elision: j'ai, l'homme, qu'il — not optional",
+      "One stress at the end of each rhythm group",
+      "être · avoir · aller · faire — cold",
+      "**on** = we, with il-endings",
+      "pas de / beaucoup de — the partitive collapses"
+    ] },
+    { "kind": "spiral", "title": "From week 1", "items": [
+      { "type": "listen", "say": "vous", "q": "Which word?", "options": ["vu", "vous"], "answer": 1, "keepOrder": true },
+      { "type": "listen", "say": "bain", "q": "Which word?", "options": ["banc", "bon", "bain"], "answer": 2, "keepOrder": true },
+      { "type": "mcq", "q": "*ils travaillent* — how many syllables do you pronounce in *travaillent*?", "options": ["2 (tra-vaill)", "3 (tra-vaill-ent)"], "answer": 0, "explain": "The -ent is silent." }
+    ] }
+  ]
+}

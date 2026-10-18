@@ -1,0 +1,45 @@
+{
+  "w": 16,
+  "title": "Expression orale — to template",
+  "level": "B2",
+  "objective": "Tutor daily. The three speaking tasks as reflexes. Fluency beats accuracy here.",
+  "tasks": [
+    "Tutor DAILY — if you ration the budget anywhere, don't ration it here",
+    "Timed mock CO/CE",
+    "Learn the filler bank cold"
+  ],
+  "resources": ["italki", "fei", "vid-eo-all", "vid-eo-t2", "vid-eo-t3"],
+  "steps": [
+    { "kind": "chunk", "title": "Tâche 1 (~2 min, no prep) — entretien dirigé",
+      "body": "The examiner asks about **you**: name, work, family, city, hobbies, plans. Answer in full, connected sentences — never one word.\nHave a ready 60-second *présentation* (who, work, where, since when with **depuis**, why French/Canada) and expand each answer with *parce que* + one detail." },
+    { "kind": "chunk", "title": "Tâche 2 (~5½ min incl. 2 min prep) — YOU ask the questions",
+      "body": "You get a document (an ad, an offer) and the examiner plays the seller/manager. **You ask 10–12 questions** — price, dates, conditions, availability — and react.\nThis is where your **ten question frames** from week 3 and **conditional politeness** from week 9 score. Ask for clarification (*Pardon, vous pourriez répéter ?*), negotiate (*Serait-il possible de … ?*)." },
+    { "kind": "chunk", "title": "Tâche 3 (~4½ min) — defend an opinion, no notes",
+      "body": "One structure across all sixteen themes until the shape is reflex:\n**Position → argument 1 + example → argument 2 → other side → conclusion.**" },
+    { "kind": "chunk", "title": "The thing to internalise",
+      "body": "**Fluency beats accuracy here.** A candidate who speaks continuously with several small errors scores above one who is accurate but halting.\n**Never stop to repair a gender.**\nFillers that buy thinking time: *C'est une bonne question… · Ce qu'il faut voir, c'est que… · Je dirais que… · Disons que… · Comment dire… · Si je comprends bien, vous voulez dire que…*" },
+    { "kind": "check", "type": "mcq", "q": "Mid-sentence you realise you said *le* instead of *la*. What do you do?", "options": ["Keep going", "Stop and correct it", "Apologise and restart the sentence"], "answer": 0, "explain": "Never stop to repair a gender. Continuity is scored; a single gender slip barely is." },
+    { "kind": "check", "type": "mcq", "q": "In which speaking task are YOU the one asking questions?", "options": ["Tâche 2", "Tâche 1", "Tâche 3"], "answer": 0 },
+    { "kind": "produce", "mode": "speak", "title": "Tâche 1 — 2 minutes",
+      "task": "Answer as if the examiner asked: *Présentez-vous. Parlez-moi de votre travail, de votre ville et de vos loisirs.* Keep talking for the full 2 minutes.",
+      "prompt": "Présentez-vous : travail, ville, loisirs, projets.", "seconds": 120, "task_id": "EO1" },
+    { "kind": "produce", "mode": "speak", "title": "Tâche 2 — 2 min prep + 3½ min",
+      "task": "Document: *« À louer — appartement 3 pièces, Montréal (Plateau). 1 450 $/mois. Proche métro. Libre le 1er mars. Contactez M. Tremblay. »* You call the landlord. Ask 10–12 questions (charges, deposit, pets, heating, visit this weekend…) and negotiate.",
+      "prompt": "Vous appelez M. Tremblay au sujet de l'appartement à louer.",
+      "prep": 120, "seconds": 210, "task_id": "EO2" },
+    { "kind": "produce", "mode": "speak", "title": "Tâche 3 — 4½ minutes, no notes",
+      "task": "Defend your opinion. Use at least three fillers on purpose.",
+      "prompt": "« L'intelligence artificielle va remplacer les médecins. » Qu'en pensez-vous ?", "seconds": 270, "task_id": "EO3" },
+    { "kind": "recap", "points": [
+      "T1 = the examiner interviews you — full sentences, depuis, parce que + detail",
+      "T2 = YOU ask 10–12 questions from a document + conditional politeness",
+      "T3 = one shape, no notes",
+      "Fluency > accuracy; fillers buy time; never stop for a gender"
+    ] },
+    { "kind": "spiral", "title": "Weeks 3, 9, 10", "items": [
+      { "type": "mcq", "q": "Best question for tâche 2:", "options": ["Est-ce que les charges sont comprises dans le loyer ?", "Charges ?", "Tu as les charges ?"], "answer": 0 },
+      { "type": "mcq", "q": "Polite refusal:", "options": ["Je regrette, mais ce ne sera pas possible.", "Non.", "Je refuse."], "answer": 0 },
+      { "type": "mcq", "q": "\"She sings better than me.\"", "options": ["Elle chante mieux que moi.", "Elle chante meilleur que moi."], "answer": 0, "trap": "bonbien" }
+    ] }
+  ]
+}

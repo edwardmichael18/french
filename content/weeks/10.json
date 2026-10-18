@@ -1,0 +1,52 @@
+{
+  "w": 10,
+  "title": "Connectors and comparison",
+  "level": "B1",
+  "objective": "Learn twelve connectors and use them perfectly. Comparison for writing task 3. Start 3-minute prepared monologues with one reusable shape.",
+  "tasks": [
+    "One 3-minute prepared monologue per day, same shape, new content",
+    "3 marked pieces · tutor 5×/week",
+    "Registration watch: check the Lagos portal and Port Harcourt calendar"
+  ],
+  "resources": ["innerfrench", "tv5monde", "rfi"],
+  "steps": [
+    { "kind": "chunk", "title": "Twelve, not forty",
+      "body": "Twelve deployed accurately reads as controlled; thirty half-understood reads as someone reciting a list.\n*parce que · donc · mais · cependant · par contre · d'abord · ensuite · enfin · de plus · par exemple · c'est pourquoi · alors que*" },
+    { "kind": "chunk", "title": "What each one does",
+      "body": "Cause: **parce que** · Consequence: **donc**, **c'est pourquoi**\nOpposition: **mais**, **cependant** (formal), **par contre** (spoken), **alors que** (whereas)\nOrder: **d'abord**, **ensuite**, **enfin** · Addition: **de plus** · Illustration: **par exemple**" },
+    { "kind": "drill", "title": "Which connector fits?", "items": [
+      { "type": "mcq", "q": "Le télétravail est pratique. ___ , il peut isoler les employés.", "options": ["Cependant", "Donc", "De plus"], "answer": 0 },
+      { "type": "mcq", "q": "Il y a peu de médecins, ___ les délais sont longs.", "options": ["c'est pourquoi", "alors que", "par exemple"], "answer": 0 },
+      { "type": "mcq", "q": "Mon frère adore la ville ___ moi, je préfère la campagne.", "options": ["alors que", "donc", "enfin"], "answer": 0 },
+      { "type": "mcq", "q": "Le vélo est écologique. ___ , c'est bon pour la santé.", "options": ["De plus", "Cependant", "Par contre"], "answer": 0 },
+      { "type": "mcq", "q": "Je reste à la maison ___ je suis malade.", "options": ["parce que", "donc", "c'est pourquoi"], "answer": 0 }
+    ] },
+    { "kind": "chunk", "title": "Comparison — writing task 3 is nothing but this",
+      "body": "*plus / moins / aussi + adj + **que***: *Le train est **plus** rapide **que** le bus.*\n**meilleur** (adj) vs **mieux** (adv): *un **meilleur** système* · *ça marche **mieux***\n*par rapport à* · *contrairement à* · *d'un côté … de l'autre*" },
+    { "kind": "drill", "title": "meilleur or mieux?", "items": [
+      { "type": "mcq", "q": "Ce médicament est ___ que l'autre.", "options": ["meilleur", "mieux"], "answer": 0, "trap": "bonbien" },
+      { "type": "mcq", "q": "Il parle ___ français que moi.", "options": ["mieux", "meilleur"], "answer": 0, "trap": "bonbien" },
+      { "type": "mcq", "q": "C'est un ___ choix.", "options": ["bon", "bien"], "answer": 0, "trap": "bonbien" },
+      { "type": "mcq", "q": "Tu as ___ travaillé !", "options": ["bien", "bon"], "answer": 0, "trap": "bonbien" }
+    ] },
+    { "kind": "chunk", "title": "The monologue shape — make it automatic",
+      "body": "**Position** → **argument 1 with a concrete example** → **argument 2** → **acknowledge the other side** → **conclude**.\n*À mon avis, … D'abord, … Par exemple, … De plus, … Cependant, il faut reconnaître que … C'est pourquoi je pense que …*\nRehearse until the shape is reflex and only content changes." },
+    { "kind": "explain", "prompt": "Write the five slots of the monologue shape from memory, with the connector you'll use in each.",
+      "model": "1 Position (À mon avis…) 2 Argument 1 + example (D'abord… Par exemple…) 3 Argument 2 (De plus…) 4 Other side (Cependant, il faut reconnaître que…) 5 Conclusion (C'est pourquoi…)" },
+    { "kind": "produce", "mode": "speak", "title": "Prepared monologue — 3 minutes",
+      "task": "Prepare 5 minutes (notes), then speak 3 minutes without notes. Use the shape and at least 6 of the 12 connectors.",
+      "prompt": "Vaut-il mieux vivre en ville ou à la campagne ?",
+      "prep": 300, "seconds": 180,
+      "model": "**À mon avis**, il vaut mieux vivre en ville, surtout quand on est jeune. **D'abord**, il y a plus d'emplois. **Par exemple**, à Lagos, la plupart des hôpitaux sont en ville. **De plus**, les services sont plus proches. **Cependant**, il faut reconnaître que la vie en ville est plus chère et plus stressante, **alors qu'**à la campagne on vit plus calmement. **C'est pourquoi** je pense que la ville est **meilleure** pour travailler, mais la campagne **mieux** pour la retraite." },
+    { "kind": "recap", "points": [
+      "Twelve connectors — perfectly",
+      "plus/moins/aussi … que · meilleur (adj) vs mieux (adv)",
+      "Monologue: position → arg 1 + example → arg 2 → other side → conclusion"
+    ] },
+    { "kind": "spiral", "title": "Weeks 7–9", "items": [
+      { "type": "mcq", "q": "Si j'___ le temps, je ferais du sport.", "options": ["avais", "aurais"], "answer": 0, "trap": "si" },
+      { "type": "mcq", "q": "Ce ___ me frappe, c'est le bruit.", "options": ["qui", "que"], "answer": 0 },
+      { "type": "mcq", "q": "*sensible* means…", "options": ["sensitive", "sensible (reasonable)"], "answer": 0, "trap": "fauxamis" }
+    ] }
+  ]
+}

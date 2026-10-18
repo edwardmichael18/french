@@ -1,0 +1,28 @@
+{
+  "sets": [
+    { "id": "u", "title": "u vs ou", "tip": "u = tongue as for \"ee\", lips as for \"oo\". ou = English \"oo\".", "video": "MP6_gwzFTMA",
+      "groups": [["tu", "tout"], ["rue", "roue"], ["vu", "vous"], ["dessus", "dessous"], ["pu", "pou"], ["su", "sous"], ["lu", "loup"], ["bu", "bout"]] },
+    { "id": "e", "title": "é vs è", "tip": "é closed and tight (smile); è/ê/ai open (jaw drops).",
+      "groups": [["les", "lait"], ["ses", "sait"], ["été", "était"], ["dé", "dais"], ["fée", "fait"]] },
+    { "id": "nasal", "title": "The three nasals", "tip": "Air through the nose, no n/m at the end. Produce three: an/en · on · in.", "video": "81_IUit_LLA",
+      "groups": [["banc", "bon", "bain"], ["vent", "vont", "vingt"], ["lent", "long", "lin"], ["sans", "son", "saint"], ["temps", "ton", "teint"]] },
+    { "id": "nasalvsoral", "title": "Nasal vs oral", "tip": "bon (nasal) vs bonne (oral o + n). The n is only pronounced when a vowel follows it.",
+      "groups": [["bon", "bonne"], ["an", "Anne"], ["fin", "fine"], ["plein", "pleine"]] },
+    { "id": "r", "title": "The R", "tip": "Back of the throat. Easiest after a consonant, then between vowels, word-initial last.", "video": "82y6aNvhBnQ",
+      "words": ["trois", "très", "grand", "France", "prendre", "Paris", "merci", "arriver", "rouge", "rien", "rendez-vous", "heureux"] },
+    { "id": "silent", "title": "Silent endings", "tip": "Final consonants usually silent; -ent on plural verbs is silent. CaReFuL: c, r, f, l often ARE pronounced.",
+      "groups": [["il parle", "ils parlent"], ["il mange", "ils mangent"], ["petit", "petite"], ["grand", "grande"]] },
+    { "id": "liaison", "title": "Liaison & elision", "tip": "Compulsory after les/des/un/nous/vous/ils before a vowel; forbidden after et and before h aspiré.",
+      "phrases": ["les amis", "un homme", "nous avons", "vous êtes", "ils ont", "des enfants", "c'est important", "j'ai un rendez-vous", "et un café", "les héros"] },
+    { "id": "rhythm", "title": "Rhythm & group stress", "tip": "Even syllables; one rise at the end of each rhythm group.",
+      "phrases": ["Je travaille à l'hôpital.", "Depuis combien de temps est-ce que vous habitez ici ?", "À mon avis, c'est une bonne idée.", "Il faut que je sois à l'heure.", "Si j'avais le temps, je ferais du sport."] }
+  ],
+  "shadow": [
+    "Bonjour, je m'appelle Ed. Je suis médecin et j'habite à Lagos depuis cinq ans.",
+    "Le week-end, je travaille à l'hôpital. Le samedi, je fais une garde de douze heures.",
+    "Qu'est-ce que vous pensez de la vie à Montréal ? Vous y habitez depuis longtemps ?",
+    "Il était minuit, le service était calme, quand un patient est arrivé aux urgences.",
+    "À mon avis, le télétravail présente des avantages, mais il peut aussi isoler les employés.",
+    "Serait-il possible de changer la date de mon rendez-vous ? Je voudrais venir mardi, si possible."
+  ]
+}

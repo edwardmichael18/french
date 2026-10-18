@@ -1,0 +1,25 @@
+{
+  "w": 20,
+  "title": "Second mock · repair the weakest ability",
+  "level": "B2",
+  "objective": "Second full mock (re-take Mock C sections or the Didier mocks). Repair only the weakest ability.",
+  "tasks": [
+    "Second full mock",
+    "Identify the single lowest ability — spend 70% of the week on it",
+    "Read the error log daily"
+  ],
+  "resources": ["didier", "fei"],
+  "steps": [
+    { "kind": "chunk", "title": "Only the weakest",
+      "body": "The lowest score decides the result. Spreading effort across four abilities now buys nothing. Pick **one**." },
+    { "kind": "check", "type": "mcq", "q": "Scores: CO 480, CE 470, EE 11/20, EO 10/20. Where does 70% of this week go?", "options": ["Expression orale", "Compréhension orale", "Spread evenly"], "answer": 0 },
+    { "kind": "produce", "mode": "speak", "title": "Repair round (if EO is lowest): Tâche 3 × 3",
+      "task": "Three different topics back-to-back, 4 minutes each. Rest 1 minute between.",
+      "prompt": "1) Les réseaux sociaux rapprochent-ils les gens ? 2) Faut-il payer les études universitaires ? 3) Le tourisme de masse est-il une chance ?", "seconds": 240, "task_id": "EO3" },
+    { "kind": "produce", "mode": "write", "title": "Repair round (if EE is lowest): Tâche 3",
+      "task": "Doc 1: *Le travail à quatre jours améliore la productivité et le bien-être.* Doc 2: *La semaine de quatre jours désorganise les services et coûte cher aux entreprises.*",
+      "prompt": "La semaine de quatre jours : comparez les deux points de vue et donnez votre opinion (120–180 mots).",
+      "min": 120, "max": 180, "seconds": 1800, "task_id": "EE3" },
+    { "kind": "recap", "points": ["Second mock", "Weakest ability only", "Error log daily"] }
+  ]
+}

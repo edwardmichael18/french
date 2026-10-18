@@ -1,0 +1,57 @@
+{
+  "groups": [
+    { "id": "open", "title": "Open items — booking & money", "items": [
+      { "id": "o1", "text": "Confirm **in writing** that the 12 February session is **2027**, and get the full Jan–May 2027 calendar" },
+      { "id": "o2", "text": "Create the Lagos portal account (aflagos.extranet-aec.com) to see the calendar" },
+      { "id": "o3", "text": "Book the week-1 tutor assessment (Tue/Wed, 30 min, \"assessment, not teaching\")" },
+      { "id": "o4", "text": "Open a separate fee account and bank **₦44,000/week**" },
+      { "id": "o5", "text": "Confirm the refund/transfer policy **before** paying" },
+      { "id": "o6", "text": "Confirm it is TCF **Canada** — not TCF Québec or tout public (IRCC rejects those)" },
+      { "id": "o7", "text": "Name on registration matches passport **exactly**" },
+      { "id": "o8", "text": "Verify with the centre: **re-marking of speaking/writing suspended** for sessions from 1 Sep 2026" },
+      { "id": "o9", "text": "Week 5: start the registration watch (Lagos portal + Port Harcourt calendar)" },
+      { "id": "o10", "text": "Week 9 (Mon 16 Nov): money decision — fee fund ≥ ₦400k and contract income landed? Else March/April sitting" },
+      { "id": "o11", "text": "Week 11: **register the day the 2027 calendar opens**" }
+    ] },
+    { "id": "setup", "title": "Set-up (week 1)", "items": [
+      { "id": "s1", "text": "Install Anki + *5000 most frequently used French words v6.0*" },
+      { "id": "s2", "text": "Pick the **Canadian French audio** variant" },
+      { "id": "s3", "text": "**Never hide the article field** — *la chose*, not *chose*" },
+      { "id": "s4", "text": "Record the 2-minute week-1 baseline voice memo (Diagnostic page)" },
+      { "id": "s5", "text": "Bookmark French Today audio guide, Forvo, Coffee Break French S1" },
+      { "id": "s6", "text": "Create the error log (starts in earnest week 6)" }
+    ] },
+    { "id": "materials", "title": "Materials (two books is the whole spend)", "items": [
+      { "id": "m1", "text": "Grammaire Progressive du Français A2 (then B1) — check AF Lagos stock" },
+      { "id": "m2", "text": "Réussir le TCF Canada (Didier) — by week 13" },
+      { "id": "m3", "text": "Download the official TCF samples + Manuel du candidat — read before the first mock" }
+    ] },
+    { "id": "gates", "title": "Gates", "items": [
+      { "id": "g1", "text": "**Gate 1 (12 Oct):** 3–5 min conversation without English · ~900 words · PC accurate in speech · pronunciation not fossilising · movement vs week-1 recording" },
+      { "id": "g2", "text": "**Gate 2 (16 Nov):** InnerFrench 1.0× with transcript · ~2,000 words · 120 words in 20 min · 3 min prepared speech" },
+      { "id": "g3", "text": "**Gate 3 (14 Dec):** CO ≥ 400 · CE ≥ 400 · 180-word piece ~9/20 · 3 min unprepared" },
+      { "id": "g4", "text": "**Gate 4 (11 Jan):** CO ≥ 458 · CE ≥ 453 timed · EE tâche 2 10/20 · EO tâche 3 sustained" },
+      { "id": "g5", "text": "**GO/DEFER (week 19):** full mock clears all four thresholds **with margin**" }
+    ] },
+    { "id": "examday", "title": "Exam week", "items": [
+      { "id": "e1", "text": "Rest Thursday 11 Feb" },
+      { "id": "e2", "text": "Passport + convocation packed" },
+      { "id": "e3", "text": "Warm-up: 10 question frames + 1-minute opinion" }
+    ] }
+  ],
+  "selfcheck": [
+    "Did new material enter **Tuesday to Thursday** (not a post-call Monday)?",
+    "Did I **speak out loud** on at least four days?",
+    "Did **every** piece of writing come back **marked**?",
+    "Did Friday's spiral happen (not just this week's review)?",
+    "Is the error log growing — and did I read it on Sunday?",
+    "Anki: did the streak hold (no break of 3+ days)?"
+  ],
+  "selfcheckRule": "Any two of **2, 3 and 5** failing for two consecutive weeks is the same signal as a missed gate. Act then, not at the next checkpoint.",
+  "wellbeing": [
+    ["sleep", "Is sleep holding?"],
+    ["anki", "Anki streak intact (no 3+ day break)?"],
+    ["tutor", "No skipped paid tutor sessions?"]
+  ],
+  "wellbeingRule": "**Two of three failing:** cut micro1 to the 10-hour minimum and move the TCF to April. Pre-committed — no renegotiating in the moment."
+}

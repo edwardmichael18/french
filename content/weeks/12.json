@@ -1,0 +1,50 @@
+{
+  "w": 12,
+  "title": "Passive, register, administrative French",
+  "level": "B1",
+  "objective": "Recognise and produce formal register; spend real time on démarches administratives — very common in listening, almost never studied.",
+  "tasks": [
+    "Reading ladder: 1jour1actu → RFI exercises (B1→B2) · Le Monde free articles",
+    "Listening ladder: Hugo Décrypte / TV5Monde 7 jours sur la planète (native speed)",
+    "3 marked pieces, one formal letter"
+  ],
+  "resources": ["rfi", "lemonde", "hugodecrypte", "tv5monde"],
+  "steps": [
+    { "kind": "chunk", "title": "The passive",
+      "body": "**être + participle (agrees)**: *Le formulaire **a été envoyé**.* · *Les résultats **seront publiés** lundi.*\n**par** for the agent: *… envoyé **par** le consulat*. **de** with feelings/states: *Il est aimé **de** tous.*" },
+    { "kind": "chunk", "title": "But French prefers on",
+      "body": "Where English uses the passive, French speakers say **on**:\n*I was told that…* → ***On m'a dit** que…*\n*French is spoken here* → ***On parle** français ici.*\nUse the passive in writing; use *on* in speech." },
+    { "kind": "check", "type": "mcq", "q": "Most natural spoken French for \"I was asked for my passport\":", "options": ["On m'a demandé mon passeport.", "J'ai été demandé mon passeport."], "answer": 0 },
+    { "kind": "chunk", "title": "Gérondif: en + -ant",
+      "body": "*nous travaill-ons* → **en travaillant** (while/by working)\n*J'ai appris le français **en écoutant** la radio.* · ***En arrivant**, j'ai vu le médecin.*" },
+    { "kind": "chunk", "title": "Register: tu vs vous, and letters",
+      "body": "**vous** with anyone you don't know, officials, older people. Switch to **tu** only when invited (*on peut se tutoyer ?*).\nFormal letter: *Madame, Monsieur,* … *Je vous écris afin de …* … *Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.*\nRecognise informal forum French in the reading paper: *mdr, perso, bcp, j'avoue, trop bien*." },
+    { "kind": "chunk", "title": "Démarches administratives — free marks",
+      "body": "[[prendre rendez-vous]] · [[un formulaire]] · [[remplir]] · [[une pièce justificative]] · [[un justificatif de domicile]] · [[le guichet]] · [[les horaires d'ouverture]] · [[un remboursement]] · [[une réclamation]] · [[déposer un dossier]] · [[le délai]] · [[une attestation]]\nThis is also the substance of speaking task 2." },
+    { "kind": "drill", "title": "Admin French", "items": [
+      { "type": "mcq", "q": "*Veuillez vous munir d'une pièce d'identité* means…", "options": ["Please bring an ID document", "Please fill in the ID form", "Your ID has been refused"], "answer": 0 },
+      { "type": "mcq", "q": "*Le délai de traitement est de 15 jours ouvrables.*", "options": ["Processing takes 15 working days", "The deadline was 15 days ago", "The office opens in 15 days"], "answer": 0 },
+      { "type": "listen", "say": "Le guichet est fermé le mercredi après-midi. Vous pouvez prendre rendez-vous en ligne.", "q": "When is the counter closed?", "options": ["Wednesday afternoon", "Every afternoon", "Wednesday morning"], "answer": 0 },
+      { "type": "mcq", "q": "*un justificatif de domicile* is…", "options": ["proof of address", "a residence permit", "a home visit"], "answer": 0 }
+    ] },
+    { "kind": "produce", "mode": "write", "title": "Formal email — 120–150 words",
+      "task": "You were charged twice for a medical test. Write to the clinic's customer service asking for a refund. Formal register, one passive, one conditional of politeness, correct letter opening/closing.",
+      "prompt": "Écrivez au service clients d'une clinique pour demander un remboursement (120–150 mots).",
+      "min": 120, "max": 150 },
+    { "kind": "produce", "mode": "speak", "title": "Role-play — at the counter (task 2 style)",
+      "task": "You want to renew a document, but you don't have the proof of address. Negotiate: ask what alternatives exist, ask for the opening hours, ask if you can send it by email. 3 minutes.",
+      "prompt": "Au guichet : il vous manque un justificatif de domicile.", "seconds": 180 },
+    { "kind": "recap", "points": [
+      "Passive: être + participle (agrees), par for the agent",
+      "Speech: *on* instead of the passive",
+      "Gérondif: en + -ant",
+      "vous by default; formal letter formulas",
+      "Admin vocabulary = free listening marks + task 2 content"
+    ] },
+    { "kind": "spiral", "title": "Weeks 9–11", "items": [
+      { "type": "mcq", "q": "Il m'a demandé si je ___ fatigué.", "options": ["étais", "suis"], "answer": 0 },
+      { "type": "mcq", "q": "Quand je suis arrivé, le train ___ .", "options": ["était déjà parti", "est déjà parti"], "answer": 0 },
+      { "type": "mcq", "q": "J'ai assisté ___ une conférence.", "options": ["à", "de", "—"], "answer": 0, "trap": "preposition", "explain": "*assister à* = to attend (faux ami + preposition)." }
+    ] }
+  ]
+}

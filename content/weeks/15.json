@@ -1,0 +1,49 @@
+{
+  "w": 15,
+  "title": "Expression écrite — to template",
+  "level": "B2",
+  "objective": "Make the shape of each writing task automatic so working memory goes to content. Four marked pieces.",
+  "tasks": [
+    "Write each template out five times until it needs no thought",
+    "Four marked pieces (at least one of each tâche)",
+    "Fold in past-participle agreement with a preceding direct object (deferred from week 4)"
+  ],
+  "resources": ["fei", "didier"],
+  "steps": [
+    { "kind": "chunk", "title": "Templates aren't cheating",
+      "body": "They're **cognitive offloading**: if the shape is automatic, working memory goes to content. Write each out five times, then only content varies.\nWriting = 60 minutes for all three tâches." },
+    { "kind": "chunk", "title": "Tâche 1 — informal message (~60–120 words, tu)",
+      "body": "**Greeting** → **why you're writing** → **two or three details** → **a question to the reader** → **sign-off**.\n*Salut Léa ! Je t'écris parce que … D'abord … Ensuite … Et toi, tu … ? Bises, …*\n**Simple tenses done accurately beat ambitious ones done badly.**" },
+    { "kind": "chunk", "title": "Tâche 2 — semi-formal recount + opinion (~120–150)",
+      "body": "**Context** → **what happened (PC/imparfait)** → **your reaction** → **opinion with one reason and one example** → **close**.\nThis is where PC/imparfait is graded hardest — why month II mattered." },
+    { "kind": "chunk", "title": "Tâche 3 — compare two opposing texts (~120–180)",
+      "body": "**Text A's position** → **text B's** → **where they clash** → **your position with two arguments** → **nuanced conclusion**.\n***Never just summarise*** — you're marked on the comparison and on having a stance.\n*Selon le premier document … Le second, au contraire, … Les deux textes s'opposent sur … Pour ma part, … En somme, …*" },
+    { "kind": "check", "type": "mcq", "q": "Tâche 3: what's the most common way to lose marks?", "options": ["Summarising both texts without taking a stance", "Using connectors", "Writing 170 words"], "answer": 0 },
+    { "kind": "chunk", "title": "Now fold in: agreement with a preceding direct object",
+      "body": "With **avoir**, the participle agrees with a direct object that comes **before** it:\n*les lettres que j'ai écrit**es*** · *Ta sœur ? Je l'ai vu**e**.*\nCheap now, and examiners see it in writing." },
+    { "kind": "check", "type": "mcq", "q": "*Les documents que j'ai ___ sont sur la table.*", "options": ["envoyés", "envoyé"], "answer": 0 },
+    { "kind": "produce", "mode": "write", "title": "Tâche 1 — timed 10 minutes",
+      "task": "Write to a friend who is visiting you next month: tell them what you'll do together and ask what they'd like to eat.",
+      "prompt": "Votre ami(e) vient vous rendre visite le mois prochain. Écrivez-lui un message (60–120 mots).",
+      "min": 60, "max": 120, "seconds": 600, "task_id": "EE1" },
+    { "kind": "produce", "mode": "write", "title": "Tâche 2 — timed 20 minutes",
+      "task": "Article for a community blog: tell about a volunteering experience and give your opinion on volunteering.",
+      "prompt": "Racontez une expérience de bénévolat pour le blog de votre quartier et donnez votre opinion (120–150 mots).",
+      "min": 120, "max": 150, "seconds": 1200, "task_id": "EE2" },
+    { "kind": "produce", "mode": "write", "title": "Tâche 3 — timed 30 minutes",
+      "task": "Doc 1: *Les écrans aident les enfants à apprendre : applications éducatives, accès à l'information, préparation au monde numérique.* Doc 2: *Les écrans nuisent aux enfants : troubles du sommeil, manque d'activité physique, baisse de la concentration.* Compare, then give your position.",
+      "prompt": "Les écrans et les enfants : comparez les deux points de vue et donnez votre opinion (120–180 mots).",
+      "min": 120, "max": 180, "seconds": 1800, "task_id": "EE3" },
+    { "kind": "recap", "points": [
+      "T1: greeting → why → details → question → sign-off",
+      "T2: context → story (PC/imp) → reaction → opinion + reason + example → close",
+      "T3: A → B → clash → your stance + 2 arguments → nuanced conclusion. Never just summarise",
+      "Preceding-direct-object agreement: now in writing"
+    ] },
+    { "kind": "spiral", "title": "Weeks 7–11", "items": [
+      { "type": "mcq", "q": "Bien que ce ___ cher, c'est utile.", "options": ["soit", "est"], "answer": 0 },
+      { "type": "mcq", "q": "Selon le premier texte, …; le second, ___ , …", "options": ["au contraire", "donc", "de plus"], "answer": 0 },
+      { "type": "mcq", "q": "Elle m'a demandé ___ j'avais fini.", "options": ["si", "que", "de"], "answer": 0 }
+    ] }
+  ]
+}

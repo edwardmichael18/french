@@ -1,0 +1,79 @@
+{
+  "w": 1,
+  "title": "Sound only",
+  "level": "A1",
+  "objective": "Hear and produce the sounds English doesn't have. No grammar this week — it has the highest long-term leverage of the four months.",
+  "tasks": [
+    "Record a 2-minute voice memo about yourself in whatever French you have (Gate 1 compares against it)",
+    "Book ONE 30-min italki community-tutor session as an assessment (Tue or Wed)",
+    "Install Anki + the 5000-word deck: Canadian audio variant, never hide the article field",
+    "Shadow 15 min/day (Coffee Break French S1)"
+  ],
+  "resources": ["frenchtoday", "dylane", "forvo", "anki", "coffeebreak", "italki"],
+  "steps": [
+    { "kind": "chunk", "title": "Why sound comes first",
+      "body": "You **cannot recognise in speech what you have never correctly produced**. If you read French with English phonics, your listening score gets capped by pronunciation, not vocabulary.\nSo this week: sound only. It will feel like it isn't language learning. It is the week with the most leverage." },
+    { "kind": "check", "type": "mcq", "q": "Your reading is ahead of your speaking. What does that most likely cap first?",
+      "options": ["Your listening score", "Your vocabulary size", "Your reading speed"], "answer": 0,
+      "explain": "The ear can only match sounds it has stored correctly. That's why weeks 1–2 are phonetics — compressing them is the one economy that would cost you the exam." },
+
+    { "kind": "chunk", "title": "The vowel English doesn't have: u",
+      "body": "Say \"ee\". Keep your tongue exactly there. Now round your lips as if for \"oo\". That's French **u**.\n**ou** is the English \"oo\".\nClick each: [[tu]] / [[tout]] · [[rue]] / [[roue]] · [[vu]] / [[vous]] · [[dessus]] / [[dessous]] · [[pu]] / [[pou]]" },
+    { "kind": "check", "type": "listen", "say": "tout", "q": "Which word did you hear?", "options": ["tu", "tout"], "answer": 1, "keepOrder": true },
+    { "kind": "check", "type": "listen", "say": "rue", "q": "Which word did you hear?", "options": ["rue", "roue"], "answer": 0, "keepOrder": true },
+    { "kind": "check", "type": "listen", "say": "dessous", "q": "Which word did you hear?", "options": ["dessus (on top)", "dessous (underneath)"], "answer": 1, "keepOrder": true },
+    { "kind": "explain", "prompt": "In your own words: how do you physically make the French **u**? (One or two sentences.)",
+      "model": "Tongue forward and high as for \"ee\", lips tightly rounded as for \"oo\" — never a glide." },
+
+    { "kind": "chunk", "title": "No diphthongs",
+      "body": "*The* anglophone error, and almost nobody is told. English vowels glide — \"no\" is really *now-oo*. French vowels are **pure, short, and stop**.\n[[beau]] is one sound, held briefly. Same for [[mot]], [[nez]], [[café]].\nFixing this alone makes you markedly more comprehensible." },
+    { "kind": "chunk", "title": "é versus è",
+      "body": "**é** is closed and tight (smile a little): [[été]].\n**è / ê / ai** is open (jaw drops): [[est]], [[fête]], [[lait]].\nPairs: [[les]] / [[lait]] · [[ses]] / [[sait]] · [[été]] / [[était]]" },
+    { "kind": "check", "type": "mcq", "q": "An English speaker says **beau** like \"bow-oo\". What's wrong?",
+      "options": ["The vowel glides into a second sound", "The b should be silent", "It should be nasal"], "answer": 0,
+      "explain": "French vowels don't glide. One pure sound, then stop." },
+
+    { "kind": "chunk", "title": "The three nasal vowels",
+      "body": "Air through the nose, **no n or m sound at the end**.\n[[banc]] / [[bon]] / [[bain]]\n[[vent]] / [[vont]] / [[vingt]]\n[[lent]] / [[long]] / [[lin]]\n**Produce three, not four.** Most modern speakers merge *un* into *in* — recognise it, never worry about it." },
+    { "kind": "check", "type": "listen", "say": "bon", "q": "Which word did you hear?", "options": ["banc", "bon", "bain"], "answer": 1, "keepOrder": true },
+    { "kind": "check", "type": "listen", "say": "vingt", "q": "Which word did you hear?", "options": ["vent", "vont", "vingt"], "answer": 2, "keepOrder": true },
+    { "kind": "check", "type": "listen", "say": "lent", "q": "Which word did you hear?", "options": ["lent", "long", "lin"], "answer": 0, "keepOrder": true },
+
+    { "kind": "chunk", "title": "The R",
+      "body": "Uvular — back of the throat, nothing to do with the tongue tip. Think of a light gargle.\nEasiest **after a consonant**: [[trois]] · [[très]] · [[grand]] · [[France]]\nThen **between vowels**: [[Paris]] · [[merci]]\nWord-initial last: [[rouge]] · [[rien]]\nDon't chase it. It arrives over two to three weeks." },
+    { "kind": "chunk", "title": "Silent endings",
+      "body": "Final consonants are usually silent: [[petit]] · [[grand]] · [[vous]].\nThe killer: **-ent on a 3rd-person plural verb is silent**. [[ils parlent]] sounds exactly like [[il parle]]." },
+    { "kind": "check", "type": "mcq", "q": "How do **il parle** and **ils parlent** differ when spoken?",
+      "options": ["They sound identical", "You hear the -ent in parlent", "You hear the s in ils"], "answer": 0,
+      "explain": "Identical (unless a vowel follows *ils* and triggers liaison: *ils‿aiment*). You'll rely on context in the listening paper." },
+
+    { "kind": "chunk", "title": "Shadowing — done properly",
+      "body": "Most people do this wrong and get nothing from it.\n1. Take a 30-second clip you **already understand** (Coffee Break French S1).\n2. Play it again and speak **simultaneously** — chase the audio, don't repeat after it.\n3. Record yourself. 4. Play both back. **The gap you hear is the lesson.**\n15 minutes a day, all four months." },
+    { "kind": "produce", "mode": "speak", "title": "Shadow the minimal pairs",
+      "task": "Click ▶ Model, then read the whole line aloud with it. Record once. Play yours back straight after the model.",
+      "prompt": "tu / tout · rue / roue · vu / vous · banc / bon / bain · vent / vont / vingt · trois · très · Paris · merci · rouge",
+      "say": "tu, tout. rue, roue. vu, vous. banc, bon, bain. vent, vont, vingt. trois, très, Paris, merci, rouge.",
+      "noFeedback": true },
+    { "kind": "produce", "mode": "speak", "title": "Week-1 baseline (do it once)",
+      "task": "Two minutes, talking about yourself in whatever French you have. It will be bad — that's the point. **Save the recording.** Gate 1 asks for clear movement against it.",
+      "prompt": "Qui êtes-vous ? Où habitez-vous ? Quel est votre travail ?",
+      "seconds": 120, "baseline": true, "noFeedback": true },
+
+    { "kind": "chunk", "title": "Your tutor assessment (book it now)",
+      "body": "Not a lesson. Say explicitly:\n*\"I want an assessment, not teaching. Read a short text with me, correct every sound, and tell me which three sounds to work on.\"*\nWrite those three sounds down. Book it **Tuesday or Wednesday** — never on post-call Monday." },
+    { "kind": "recap", "points": [
+      "u = \"ee\" tongue + \"oo\" lips; ou = English \"oo\"",
+      "No diphthongs: one pure vowel, then stop",
+      "é closed, è open",
+      "Three nasals to produce: an/en · on · in",
+      "R from the back of the throat, easiest after a consonant",
+      "-ent on plural verbs is silent",
+      "Shadow simultaneously, record, compare"
+    ] },
+    { "kind": "spiral", "title": "Set-up check", "items": [
+      { "type": "mcq", "q": "Which audio variant should you pick in the Anki deck?", "options": ["Canadian French", "Parisian French", "No audio"], "answer": 0, "explain": "TCF Canada audio is Canadian-facing. Free now, expensive to retrofit in January." },
+      { "type": "mcq", "q": "How should you learn the noun *chose*?", "options": ["**la** chose", "chose", "chose (f)"], "answer": 0, "explain": "Every noun with its article, from day one. Retrofitting gender onto 4,000 nouns is the most expensive avoidable mistake.", "trap": "genre" },
+      { "type": "mcq", "q": "Bad day. What is the minimum that still counts as a successful day?", "options": ["20 Anki cards + 10 min listening", "Nothing — skip it", "The full 2.5 hours"], "answer": 0 }
+    ] }
+  ]
+}

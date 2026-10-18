@@ -1,0 +1,96 @@
+{
+  "note": "NCLC 7 ≈ low B2 (NCLC 5–6 ≈ B1, 7–8 ≈ B2). There is no official CEFR↔NCLC conversion — IRCC maps exam scores directly. Aim at the four numbers, not a CEFR label.",
+  "levels": [
+    { "id": "A1", "name": "Survival", "hours": "60–100", "weeks": [1, 2, 3],
+      "desc": "Present tense, immediate needs, memorised phrases. Understands slow, careful speech directed at you.",
+      "here": "You can introduce yourself, order, ask directions, and survive a transaction.",
+      "not": "You can do those things only if the other person says them the way your textbook did.",
+      "grammar": [
+        ["Phonetics: u/ou, pure vowels, é/è, three nasals, uvular R, silent endings, liaison/elision, group stress", "produce", 1],
+        ["Articles le/la/les, un/une/des, partitive du/de la; gender with every noun", "produce", 2],
+        ["être · avoir · aller · faire", "produce", 2],
+        ["on = we", "produce", 2],
+        ["pas de / beaucoup de (partitive collapse)", "produce", 2],
+        ["Present: -er, -ir (finir/partir), -re + pouvoir, vouloir, devoir, savoir, prendre, venir, voir, dire, mettre", "produce", 3],
+        ["Negation ne…pas/plus/jamais/rien/personne", "produce", 3],
+        ["Questions: intonation, est-ce que (default), inversion (writing); qu'est-ce que vs qu'est-ce qui", "produce", 3],
+        ["Adjective position and agreement", "produce", 3]
+      ],
+      "drill": [
+        { "type": "gap", "q": "J'___ 32 ans.", "answer": ["ai"], "trap": "avoiretre" },
+        { "type": "mcq", "q": "Je ne bois pas ___ café.", "options": ["de", "du", "le"], "answer": 0 },
+        { "type": "gap", "q": "Vous ___ (faire) quoi ce soir ?", "answer": ["faites"] },
+        { "type": "mcq", "q": "\"We are going\" — most natural spoken form:", "options": ["On va", "Nous va", "On allons"], "answer": 0 },
+        { "type": "listen", "say": "vous", "q": "Which word?", "options": ["vu", "vous"], "answer": 1, "keepOrder": true },
+        { "type": "mcq", "q": "Qu'est-ce ___ tu veux ?", "options": ["que", "qui"], "answer": 0 }
+      ] },
+    { "id": "A2", "name": "Basic function", "hours": "100–150", "weeks": [4, 5, 6],
+      "desc": "Past and near future. Routine exchanges. Simple descriptions of your background and immediate environment.",
+      "here": "You can recount what you did yesterday and be understood by someone not being kind to you.",
+      "grammar": [
+        ["Passé composé with avoir/être (movement, change of state, all reflexives); agreement with être", "produce", 4],
+        ["Irregular participles: eu, été, fait, dit, pris, mis, vu, venu, pu, voulu, su, lu, écrit", "produce", 4],
+        ["Agreement with a preceding direct object (les lettres que j'ai écrites)", "recognise → produce wk 15", 15],
+        ["Imparfait and PC vs imparfait (hardest, most tested)", "produce", 5],
+        ["Futur proche, futur simple; venir de; être en train de", "produce", 6],
+        ["Object pronouns le/la/les, lui/leur, y, en", "produce", 6],
+        ["Two pronouns together (je le lui donne)", "recognise", 6],
+        ["Reflexive verbs", "produce", 4],
+        ["depuis / il y a / pendant / pour / dans / en", "produce", 5],
+        ["Conditional for politeness (je voudrais, pourriez-vous)", "produce", 9],
+        ["Basic connectors: et, mais, parce que, donc, alors", "produce", 5]
+      ],
+      "drill": [
+        { "type": "mcq", "q": "Elle ___ partie hier.", "options": ["est", "a"], "answer": 0 },
+        { "type": "mcq", "q": "Quand j'étais petit, je ___ à la plage chaque été.", "options": ["allais", "suis allé"], "answer": 0, "trap": "pcimp" },
+        { "type": "mcq", "q": "Tu as vu Marie ? — Oui, je ___ ai vue.", "options": ["l'", "lui", "y"], "answer": 0 },
+        { "type": "gap", "q": "Demain, il ___ (faire) beau.", "answer": ["fera"] },
+        { "type": "mcq", "q": "Je suis médecin ___ six ans.", "options": ["depuis", "pendant", "il y a"], "answer": 0, "trap": "depuis" },
+        { "type": "mcq", "q": "Je vais ___ Canada.", "options": ["au", "en", "à"], "answer": 0, "trap": "pays" }
+      ] },
+    { "id": "B1", "name": "Independence", "hours": "150–250", "weeks": [7, 8, 9, 10, 11, 12, 13],
+      "desc": "Handles most situations while travelling. Produces connected text on familiar topics. Describes experiences, gives reasons and opinions, explains a plan.",
+      "here": "You can hold a conversation that the other person doesn't have to slow down for, on a topic you know.",
+      "tell": "You still translate before speaking, but it has become fast.",
+      "grammar": [
+        ["Subjonctif présent: 6 triggers (il faut que, vouloir que, emotion, ne pas penser que, bien que, pour que) + 7 irregulars", "produce", 7],
+        ["Relative pronouns qui/que/où/dont, ce qui/ce que", "produce", 8],
+        ["Opinion language: à mon avis, selon moi, je trouve que, j'estime que", "produce", 8],
+        ["Conditionnel; si + imparfait → conditionnel", "produce", 9],
+        ["Twelve connectors; comparison; meilleur/mieux", "produce", 10],
+        ["Plus-que-parfait; reported speech with tense and time shifts", "produce", 11],
+        ["Passive; on instead of passive; gérondif", "produce", 12],
+        ["Register: tu/vous, formal letter conventions, informal forum French", "produce", 12],
+        ["Indefinites (quelqu'un, quelque chose, chaque, aucun)", "produce", 12],
+        ["Passé simple and literary tenses", "recognise only", 13]
+      ],
+      "drill": [
+        { "type": "mcq", "q": "Il faut que tu ___ patient.", "options": ["sois", "es", "seras"], "answer": 0 },
+        { "type": "mcq", "q": "C'est la ville ___ je suis né.", "options": ["où", "que", "dont"], "answer": 0 },
+        { "type": "mcq", "q": "Si j'avais de l'argent, je ___ une maison.", "options": ["achèterais", "achèterai", "achetais"], "answer": 0, "trap": "si" },
+        { "type": "mcq", "q": "Il a dit qu'il ___ fatigué.", "options": ["était", "est", "sera"], "answer": 0 },
+        { "type": "mcq", "q": "___ me plaît, c'est l'ambiance.", "options": ["Ce qui", "Ce que"], "answer": 0 },
+        { "type": "mcq", "q": "Le télétravail est pratique ; ___ , il isole.", "options": ["cependant", "donc", "de plus"], "answer": 0 }
+      ] },
+    { "id": "B2", "name": "Operational — NCLC 7 sits at low B2", "hours": "200–300", "weeks": [14, 15, 16, 17, 18, 19, 20, 21],
+      "desc": "Interacts with enough fluency and spontaneity that conversation with natives is possible without strain. Produces clear, detailed text and argues a viewpoint.",
+      "here": "You stop translating. French becomes a thing you think in rather than a code you convert into.",
+      "grammar": [
+        ["Conditionnel passé (j'aurais dû, il aurait fallu)", "produce", 17],
+        ["si + plus-que-parfait → conditionnel passé (one or two patterns)", "produce", 17],
+        ["Mise en relief (ce qui me frappe, c'est…)", "produce", 17],
+        ["Concession: même si + indicative, bien que + subjunctive", "produce", 17],
+        ["Hedging: il me semble que, dans une certaine mesure, cela dépend de", "produce", 17],
+        ["Argument connectors for EE tâche 3 (au contraire, en revanche, pour ma part, en somme)", "produce", 15],
+        ["Subjonctif passé (producing)", "skip until after the exam", 21],
+        ["All C1 grammar", "skip until after the exam", 21]
+      ],
+      "drill": [
+        { "type": "mcq", "q": "Si j'avais su, je ___ .", "options": ["serais venu", "viendrais", "suis venu"], "answer": 0, "trap": "si" },
+        { "type": "mcq", "q": "Même si c'___ cher, c'est nécessaire.", "options": ["est", "soit"], "answer": 0 },
+        { "type": "mcq", "q": "Most B2 phrasing:", "options": ["Il me semble que, dans une certaine mesure, …", "C'est toujours comme ça.", "Tout le monde sait que …"], "answer": 0 },
+        { "type": "mcq", "q": "Il ___ réserver plus tôt. (should have)", "options": ["aurait fallu", "faudra", "fallait"], "answer": 0 },
+        { "type": "mcq", "q": "Le premier texte défend l'idée ; le second, ___ , la critique.", "options": ["en revanche", "donc", "ainsi"], "answer": 0 }
+      ] }
+  ]
+}

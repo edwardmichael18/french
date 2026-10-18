@@ -1,0 +1,485 @@
+{
+ "verified": "Links verified 23 Sep 2026 (French-Materials.md); video IDs verified via YouTube oEmbed 27 Sep 2026. Resource URLs drift — re-check at Gate 3 (14 Dec).",
+ "corrections": [
+  "**RFI Savoirs no longer exists separately** — savoirs.rfi.fr redirects to francaisfacile.rfi.fr. Use the RFI français facile exercises in its place.",
+  "**RFI is a full graded course**, not just a podcast: exercises tagged A1 · A2 · B1 · B2 · C1/C2 — week 1 to C2, free.",
+  "**News in Slow French is now subscription.** Skippable — RFI's *Journal en français facile* does the same job free and daily."
+ ],
+ "sections": [
+  {
+   "id": "now",
+   "title": "This week — the only four you need",
+   "items": [
+    {
+     "id": "frenchtoday",
+     "name": "French Today — Pronunciation & Audio Guide",
+     "url": "https://www.frenchtoday.com/blog/french-pronunciation/audio-guide/",
+     "from": 1,
+     "cost": "Free",
+     "note": "**Start here.** Native Parisian audio: all 19 vowel sounds, the u, the R, nasals, liaison in one page. Your weeks 1–2 reference."
+    },
+    {
+     "id": "dylane",
+     "name": "The Perfect French with Dylane — Master the French Nasal Vowels",
+     "url": "https://www.youtube.com/watch?v=81_IUit_LLA",
+     "video": "81_IUit_LLA",
+     "from": 1,
+     "cost": "Free",
+     "note": "Teaches **four** nasals; your syllabus says **three**. Produce three — *un* has merged into *in* for most speakers."
+    },
+    {
+     "id": "forvo",
+     "name": "Forvo — French",
+     "url": "https://forvo.com/languages/fr/",
+     "from": 1,
+     "cost": "Free",
+     "note": "Any single word, multiple native speakers. Use it the moment you're unsure, especially on new Anki cards."
+    },
+    {
+     "id": "anki",
+     "name": "Anki + 5000 most frequently used French words v6.0",
+     "url": "https://ankiweb.net/shared/info/893324022",
+     "extra": [
+      [
+       "Anki app",
+       "https://apps.ankiweb.net"
+      ],
+      [
+       "Part 2 (not needed in 20 weeks)",
+       "https://ankiweb.net/shared/info/1543609595"
+      ]
+     ],
+     "from": 1,
+     "cost": "Free (iOS app paid)",
+     "note": "Take the **Canadian French audio** variant. **Never hide the article field.** Ships a phonology sub-deck — a week-1 asset. ~30 new cards/day."
+    }
+   ]
+  },
+  {
+   "id": "tutor",
+   "title": "Tutors",
+   "items": [
+    {
+     "id": "italki",
+     "name": "italki French tutors",
+     "url": "https://www.italki.com/en/teachers/french",
+     "from": 1,
+     "cost": "~$4–10 / 30 min",
+     "note": "Filter to **community tutors**, not professional teachers. *Teachers from* → Benin, Togo, Côte d'Ivoire, Cameroon: below European rates, your time zone. Tutor hours are the one thing worth paying for first."
+    }
+   ]
+  },
+  {
+   "id": "grammar",
+   "title": "Grammar",
+   "items": [
+    {
+     "id": "lepointdufle",
+     "name": "Le Point du FLE",
+     "url": "https://www.lepointdufle.net/",
+     "from": 2,
+     "cost": "Free",
+     "note": "17,100+ indexed links. Your grammar spine from week 2 — navigate by topic, not level."
+    },
+    {
+     "id": "grammaireprog",
+     "name": "Grammaire Progressive du Français (CLE International) — A2, then B1",
+     "url": "",
+     "from": 2,
+     "cost": "₦20–30k (print)",
+     "note": "Explanation left page, exercises right, answer key included. Check Alliance Française Lagos stock before ordering."
+    },
+    {
+     "id": "kwiziq",
+     "name": "Kwiziq",
+     "url": "https://www.kwiziq.com/",
+     "from": 3,
+     "cost": "Free tier; paid plan",
+     "note": "Optional/skippable — Le Point du FLE + a marked-writing tutor finds your gaps for less."
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "Listening ladder — don't skip rungs",
+   "items": [
+    {
+     "id": "coffeebreak",
+     "name": "Rung 1 · Coffee Break French — Season 1",
+     "url": "https://www.coffeebreaklanguages.com/coffeebreakfrench/",
+     "video": "zC1sxwfPfsc",
+     "from": 1,
+     "to": 4,
+     "cost": "Free audio",
+     "note": "Weeks 1–4. Your shadowing source: shadowing needs audio you already understand."
+    },
+    {
+     "id": "rfi",
+     "name": "Rung 2 · Le français facile avec RFI",
+     "url": "https://francaisfacile.rfi.fr/fr/",
+     "from": 5,
+     "cost": "Free",
+     "note": "**Weeks 5 onward, and forever.** *Journal en français facile* daily + graded exercises A1→C1/C2 + *La puce à l'oreille*. The best free French resource that exists."
+    },
+    {
+     "id": "tv5monde",
+     "name": "Rung 3 · Apprendre le français — TV5MONDE",
+     "url": "https://apprendre.tv5monde.com/fr",
+     "from": 7,
+     "cost": "Free",
+     "note": "Video + exercises by theme, and **the themes map onto the TCF themes**: Santé, Travail, Éducation, Médias, Logement… 14-question level test on the homepage. Also free TCF practice."
+    },
+    {
+     "id": "innerfrench",
+     "name": "Rung 4 · InnerFrench (podcast)",
+     "url": "https://www.youtube.com/playlist?list=PLycTNLUo2y2EAKEhVfxB9gYo6r0OTMgM0",
+     "video": "yyYqoZ3H6rM",
+     "from": 9,
+     "cost": "Free",
+     "note": "B1–B2 pace with transcripts. The site sits behind a bot check — go via Spotify, Apple Podcasts or YouTube."
+    },
+    {
+     "id": "hugodecrypte",
+     "name": "Rung 5 · HugoDécrypte (YouTube) · TV5Monde 7 jours sur la planète",
+     "url": "https://www.youtube.com/results?search_query=HugoD%C3%A9crypte",
+     "from": 12,
+     "cost": "Free",
+     "note": "Native speed, no concessions. The rung that gets you to 458."
+    }
+   ]
+  },
+  {
+   "id": "reading",
+   "title": "Reading ladder",
+   "items": [
+    {
+     "id": "1jour1actu",
+     "name": "Rung 1 · 1jour1actu",
+     "url": "https://1jour1actu.com/",
+     "from": 5,
+     "cost": "Free",
+     "note": "Written for French schoolchildren — which is why it lands at A2–B1 for an adult learner."
+    },
+    {
+     "id": "rfi-ex",
+     "name": "Rung 2 · RFI français facile — exercices (replaces RFI Savoirs)",
+     "url": "https://francaisfacile.rfi.fr/fr/",
+     "from": 8,
+     "cost": "Free",
+     "note": "Filter to B1, then B2."
+    },
+    {
+     "id": "lemonde",
+     "name": "Rung 3 · Le Monde",
+     "url": "https://www.lemonde.fr/",
+     "from": 12,
+     "cost": "Partly paywalled",
+     "note": "The free articles are enough. Real native press — what the later reading items actually are."
+    }
+   ]
+  },
+  {
+   "id": "exam",
+   "title": "Exam preparation",
+   "items": [
+    {
+     "id": "fei",
+     "name": "Exemples d'épreuves du TCF (official samples)",
+     "url": "https://france-education-international.fr/test/exemples-epreuves-tcf",
+     "from": 5,
+     "cost": "Free",
+     "note": "**The official sample papers.** Nothing else is as representative."
+    },
+    {
+     "id": "manuel",
+     "name": "Manuel du candidat TCF (PDF, 3.4 MB)",
+     "url": "https://france-education-international.fr/document/manuelcandidattoutes20dc3a9clinaisonsi",
+     "from": 13,
+     "cost": "Free",
+     "note": "**Read it before your first mock** — confirms current word counts and timings."
+    },
+    {
+     "id": "tcfpage",
+     "name": "TCF Canada — official page",
+     "url": "https://france-education-international.fr/test/tcf-canada",
+     "from": 1,
+     "cost": "Free",
+     "note": "Structure, registration, results — and the re-marking notice."
+    },
+    {
+     "id": "didier",
+     "name": "Réussir le TCF Canada (Didier)",
+     "url": "",
+     "from": 13,
+     "cost": "₦20–30k (print)",
+     "note": "Full mocks with audio. The main paid prep book."
+    },
+    {
+     "id": "prepmyfrench",
+     "name": "PrepMyFrench",
+     "url": "",
+     "from": 14,
+     "cost": "Paid",
+     "note": "Optional — official samples + Didier cover you."
+    }
+   ]
+  },
+  {
+   "id": "practice",
+   "title": "TCF practice sites (checked 29 Sep 2026)",
+   "items": [
+    {
+     "id": "reussir",
+     "name": "Réussir TCF Canada",
+     "url": "https://reussir-tcfcanada.com/",
+     "from": 10,
+     "cost": "Free method + topics; tests paid",
+     "note": "Free **methodology pages** for all four skills, **writing and speaking topics every month** (archive from 2022) with **free corrections**, and 2 free listening training series. Tests and simulators are paid (US5–200).",
+     "extra": [
+      [
+       "Writing method",
+       "https://reussir-tcfcanada.com/tcf-methodologie-expression-ecrite/"
+      ],
+      [
+       "Speaking method",
+       "https://reussir-tcfcanada.com/expression-orale-la-methodologie/"
+      ],
+      [
+       "Writing corrections",
+       "https://reussir-tcfcanada.com/correction-des-sujets-dexpression-ecrite-v-pro/"
+      ],
+      [
+       "Speaking corrections",
+       "https://reussir-tcfcanada.com/correction-des-sujets-dexpression-orale-v-pro/"
+      ]
+     ]
+    },
+    {
+     "id": "formation",
+     "name": "Formation TCF Canada",
+     "url": "https://www.formation-tcfcanada.com/epreuve/comprehension-orale",
+     "from": 10,
+     "cost": "Free series 1–3; rest paid",
+     "note": "Listening **series 1–3 free** (39 questions each, account needed) plus tips. Series 4–6, the writing/speaking simulators and full mocks are paid (from US5)."
+    },
+    {
+     "id": "kdsingh",
+     "name": "KD Singh Academy — TCF drills",
+     "url": "https://www.kdsinghacademy.com/tcf",
+     "from": 5,
+     "cost": "Free, no sign-up",
+     "note": "**Listening A1–C2 (905 questions)** and **reading A1–C2 (898 questions)**, one at a time with the correction. The biggest free drill bank found.",
+     "warn": "Its questions are advertised as **recalled from real exams**. Unofficial: practise the skill, don’t memorise answers — the real test won’t repeat them, and memorised scores hide your true level.",
+     "extra": [
+      [
+       "Reading B1",
+       "https://www.kdsinghacademy.com/tcf-ceb1"
+      ],
+      [
+       "Reading B2",
+       "https://www.kdsinghacademy.com/tcf-ceb2"
+      ]
+     ]
+    },
+    {
+     "id": "tcfcan",
+     "name": "TCFcan",
+     "url": "https://tcfcan.com/en/practice/listening",
+     "from": 10,
+     "cost": "Free level test; bank needs sign-up",
+     "note": "A **free 10-question level test** (5 listening + 5 reading, explanations, no sign-up). The 1,600+ question bank needs a free account; paid tiers aren’t listed. Subtitles are French–Chinese.",
+     "warn": "Its questions are advertised as **recalled from real exams**. Unofficial: practise the skill, don’t memorise answers — the real test won’t repeat them, and memorised scores hide your true level."
+    },
+    {
+     "id": "tcftefprep",
+     "name": "TCF TEF Prep — free placement check",
+     "url": "https://www.tcftefprep.com/tcf-canada/free-practice-test",
+     "from": 5,
+     "cost": "Free check; mocks paid",
+     "note": "**15 questions, ~15 min, no sign-up**: an estimated CLB level for listening and reading. One free demo mock with an account. Full mocks, drills and explanations are paid."
+    },
+    {
+     "id": "lingua-read",
+     "name": "Lingua.com — French reading",
+     "url": "https://www.lingua.com/french/reading/",
+     "from": 3,
+     "cost": "Free (41 texts)",
+     "note": "**41 free graded texts A1–C1**, each with comprehension questions and instant correction. Good for daily reading before TCF-style items."
+    },
+    {
+     "id": "lingua-listen",
+     "name": "Lingua.com — French listening",
+     "url": "https://www.lingua.com/french/listening/",
+     "from": 3,
+     "cost": "Free sample (10 texts)",
+     "note": "Only **10 free audio texts** (A1–B2) with questions; the rest is premium. Use the free ones, don’t subscribe."
+    },
+    {
+     "id": "frenchico",
+     "name": "Frenchico (app)",
+     "url": "https://www.frenchicoai.com/",
+     "from": 15,
+     "cost": "Paid (3-day trial)",
+     "note": "AI speaking practice with scoring for TCF task 3. **Paid** after a 3-day trial — not needed: the Speaking page and a tutor cover this."
+    }
+   ]
+  },
+  {
+   "id": "booking",
+   "title": "Booking the exam (Nigeria)",
+   "items": [
+    {
+     "id": "aflagos",
+     "name": "Alliance Française Lagos — calendar portal",
+     "url": "https://aflagos.extranet-aec.com",
+     "from": 1,
+     "cost": "Free account",
+     "note": "Calendar is behind a login (create your own account). certification.lagos@afnigeria.org · +234 705 22 88 001. **No postponement or refund once registered.**"
+    },
+    {
+     "id": "afph",
+     "name": "Alliance Française Port Harcourt",
+     "url": "https://af-nigeria.org",
+     "from": 1,
+     "cost": "",
+     "note": "Public calendar (2026 only as of Sep). reception.phc@af-nigeria.org · +234 706 253 4631. Pattern: monthly sessions, registration closes 4–5 weeks before; 2027 calendar ~Nov–Dec."
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "id": "81_IUit_LLA",
+   "title": "Master the French nasal vowels",
+   "channel": "The Perfect French with Dylane",
+   "topic": "Phonetics",
+   "week": 1
+  },
+  {
+   "id": "MP6_gwzFTMA",
+   "title": "French pronunciation: OU vs U",
+   "channel": "French Truly TV",
+   "topic": "Phonetics",
+   "week": 1
+  },
+  {
+   "id": "82y6aNvhBnQ",
+   "title": "The ultimate guide to pronouncing R in French",
+   "channel": "Learn French with Lexie",
+   "topic": "Phonetics",
+   "week": 1
+  },
+  {
+   "id": "zC1sxwfPfsc",
+   "title": "Coffee Break French S1E01 — \"How are you?\"",
+   "channel": "Coffee Break French",
+   "topic": "Listening (A1)",
+   "week": 1
+  },
+  {
+   "id": "zsBJ2qtBzhw",
+   "title": "Passé composé ou imparfait ?",
+   "channel": "Français avec Pierre",
+   "topic": "Grammar",
+   "week": 5
+  },
+  {
+   "id": "uwJNzKcNcJU",
+   "title": "Subjonctif présent — utilisation, conjugaison, exercice",
+   "channel": "français avec Marine",
+   "topic": "Grammar",
+   "week": 7
+  },
+  {
+   "id": "yyYqoZ3H6rM",
+   "title": "Lottery winners' misfortune (intermediate)",
+   "channel": "innerFrench",
+   "topic": "Listening (B1)",
+   "week": 9
+  },
+  {
+   "id": "i69IzXQ9de8",
+   "title": "TCF Canada — méthodologie de l'expression écrite",
+   "channel": "Réussir le TCF Canada",
+   "topic": "Exam: writing",
+   "week": 15
+  },
+  {
+   "id": "cw03CIq2in8",
+   "title": "TCF Canada expression orale — tâches 1, 2 et 3 (dialogue + conseils)",
+   "channel": "French School TV",
+   "topic": "Exam: speaking",
+   "week": 16,
+   "rid": "vid-eo-all"
+  },
+  {
+   "id": "_sJPAaPZAK0",
+   "title": "Comment faire la tâche 1 d'expression orale",
+   "channel": "French School TV",
+   "topic": "Exam: speaking",
+   "week": 16
+  },
+  {
+   "id": "Yktb2hyDRjk",
+   "title": "Expression orale tâche 2 — exemple complet",
+   "channel": "AYOUB TCF",
+   "topic": "Exam: speaking",
+   "week": 16,
+   "rid": "vid-eo-t2"
+  },
+  {
+   "id": "zxzCzG-5e1o",
+   "title": "Expression orale tâche 3 — compilation (6 sujets)",
+   "channel": "TCF Lab",
+   "topic": "Exam: speaking",
+   "week": 16,
+   "rid": "vid-eo-t3"
+  },
+  {
+   "id": "t6M4YWSPys0",
+   "title": "Compréhension orale : stratégies et conseils pour réussir l’épreuve",
+   "channel": "Immigro Canada",
+   "topic": "Exam: listening",
+   "week": 14
+  },
+  {
+   "id": "aElkN9Hffmc",
+   "title": "Compréhension orale — la méthode, avec une série commentée",
+   "channel": "le schéma du C2",
+   "topic": "Exam: listening",
+   "week": 14
+  },
+  {
+   "id": "RqVWFLSlS5U",
+   "title": "Préparer au TCF — série 1 : compréhension écrite (commentée)",
+   "channel": "Walid PH",
+   "topic": "Exam: reading",
+   "week": 14
+  },
+  {
+   "id": "zS9xfh1Hdis",
+   "title": "Compréhension écrite — série 1, niveaux C1–C2 (TCF Canada)",
+   "channel": "Centre Le Cénacle",
+   "topic": "Exam: reading",
+   "week": 17
+  }
+ ],
+ "phase2": [
+  "Retire the learner content after the exam. RFI B2 + C1/C2 filters · Le Monde, Libération, Courrier International · Arte documentaries · France Inter / France Culture (radiofrance.fr).",
+  "Radio-Canada OHdio — Canadian French, free.",
+  "Two weeks of immersion in Cotonou or Lomé — a short flight from Lagos, more effective than six months of study for a stalled B2."
+ ],
+ "costs": {
+  "free": "RFI · TV5MONDE · Le Point du FLE · Forvo · Anki · Coffee Break French (audio) · 1jour1actu · official TCF samples + candidate handbook · InnerFrench (podcast apps) · Arte · Radio-Canada OHdio · France Inter / Culture.",
+  "paid": [
+   "**Tutor hours** — everything else is optional; this is not.",
+   "Grammaire Progressive du Français A2 then B1 — ₦20–30k",
+   "Réussir le TCF Canada (Didier) — ₦20–30k"
+  ],
+  "skip": [
+   "News in Slow French (subscription)",
+   "Kwiziq",
+   "PrepMyFrench"
+  ]
+ }
+}

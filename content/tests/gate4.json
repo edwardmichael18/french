@@ -1,0 +1,28 @@
+{
+ "id": "gate4",
+ "kind": "gate",
+ "gate": 4,
+ "title": "Gate 4 — end of week 17 (11 Jan) · the last calm decision point",
+ "timed": true,
+ "intro": "Pass: **CO ≥ 458, CE ≥ 453 on a timed mock · EE tâche 2 at 10/20 · EO tâche 3 sustained.** **One ability short: continue. Two or more: defer to April.**",
+ "sections": [
+  {
+   "id": "link",
+   "type": "link",
+   "title": "Take Mock B (timed)",
+   "href": "/test/mockB"
+  },
+  {
+   "id": "criteria",
+   "type": "criteria",
+   "title": "Gate 4 criteria",
+   "items": [
+    "CO ≥ 458 on a timed mock",
+    "CE ≥ 453 on a timed mock",
+    "EE tâche 2 at 10/20",
+    "EO tâche 3 sustained for the full time"
+   ],
+   "rule": "One short → continue. Two or more short → defer to April. Re-marking is suspended: there's no appeal behind this."
+  }
+ ]
+}

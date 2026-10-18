@@ -1,0 +1,4385 @@
+{
+ "intro": "The building blocks, before and alongside week 1. Every item: read it, **🔊 hear it**, **🔤 hear it spelled** letter by letter, then test yourself. Nouns always come **with their article**.",
+ "sections": [
+  {
+   "id": "alphabet",
+   "title": "Alphabet",
+   "icon": "🔤",
+   "quiz": "letters",
+   "tip": "26 letters. The French **names** of the letters matter: you'll spell your name, your street and your email out loud at every *démarche administrative* — and it's a classic listening item. Watch the traps: **e / i**, **g / j**, **h** (*hache*), **w** (*double vé*), **y** (*i grec*).",
+   "items": [
+    {
+     "fr": "A",
+     "say": "a",
+     "note": "a",
+     "ex": "un avion",
+     "en": "a plane"
+    },
+    {
+     "fr": "B",
+     "say": "bé",
+     "note": "bé",
+     "ex": "un bateau",
+     "en": "a boat"
+    },
+    {
+     "fr": "C",
+     "say": "cé",
+     "note": "cé",
+     "ex": "un café",
+     "en": "a coffee"
+    },
+    {
+     "fr": "D",
+     "say": "dé",
+     "note": "dé",
+     "ex": "un docteur",
+     "en": "a doctor"
+    },
+    {
+     "fr": "E",
+     "say": "e",
+     "note": "e (as in « le ») — not « i »",
+     "ex": "une école",
+     "en": "a school"
+    },
+    {
+     "fr": "F",
+     "say": "effe",
+     "note": "effe",
+     "ex": "une fleur",
+     "en": "a flower"
+    },
+    {
+     "fr": "G",
+     "say": "gé",
+     "note": "gé — English speakers confuse it with J",
+     "ex": "une gare",
+     "en": "a train station"
+    },
+    {
+     "fr": "H",
+     "say": "hache",
+     "note": "hache — the letter is silent in words",
+     "ex": "un hôpital",
+     "en": "a hospital"
+    },
+    {
+     "fr": "I",
+     "say": "i",
+     "note": "i (as in « ici ») — English « e »",
+     "ex": "une île",
+     "en": "an island"
+    },
+    {
+     "fr": "J",
+     "say": "ji",
+     "note": "ji — English speakers confuse it with G",
+     "ex": "un jardin",
+     "en": "a garden"
+    },
+    {
+     "fr": "K",
+     "say": "ka",
+     "note": "ka",
+     "ex": "un kilo",
+     "en": "a kilo"
+    },
+    {
+     "fr": "L",
+     "say": "elle",
+     "note": "elle",
+     "ex": "un livre",
+     "en": "a book"
+    },
+    {
+     "fr": "M",
+     "say": "emme",
+     "note": "emme",
+     "ex": "une maison",
+     "en": "a house"
+    },
+    {
+     "fr": "N",
+     "say": "enne",
+     "note": "enne",
+     "ex": "un nom",
+     "en": "a name"
+    },
+    {
+     "fr": "O",
+     "say": "o",
+     "note": "o",
+     "ex": "une orange",
+     "en": "an orange"
+    },
+    {
+     "fr": "P",
+     "say": "pé",
+     "note": "pé",
+     "ex": "un passeport",
+     "en": "a passport"
+    },
+    {
+     "fr": "Q",
+     "say": "ku",
+     "note": "ku (French u)",
+     "ex": "un quartier",
+     "en": "a neighbourhood"
+    },
+    {
+     "fr": "R",
+     "say": "erre",
+     "note": "erre (back-of-the-throat R)",
+     "ex": "une rue",
+     "en": "a street"
+    },
+    {
+     "fr": "S",
+     "say": "esse",
+     "note": "esse",
+     "ex": "un stylo",
+     "en": "a pen"
+    },
+    {
+     "fr": "T",
+     "say": "té",
+     "note": "té",
+     "ex": "un train",
+     "en": "a train"
+    },
+    {
+     "fr": "U",
+     "say": "u",
+     "note": "u — the French u (lips round, tongue forward)",
+     "ex": "une université",
+     "en": "a university"
+    },
+    {
+     "fr": "V",
+     "say": "vé",
+     "note": "vé",
+     "ex": "une ville",
+     "en": "a city"
+    },
+    {
+     "fr": "W",
+     "say": "double vé",
+     "note": "double vé",
+     "ex": "un wagon",
+     "en": "a railway carriage"
+    },
+    {
+     "fr": "X",
+     "say": "ixe",
+     "note": "ixe",
+     "ex": "un taxi",
+     "en": "a taxi"
+    },
+    {
+     "fr": "Y",
+     "say": "i grec",
+     "note": "i grec",
+     "ex": "un yaourt",
+     "en": "a yoghurt"
+    },
+    {
+     "fr": "Z",
+     "say": "zède",
+     "note": "zède",
+     "ex": "un zoo",
+     "en": "a zoo"
+    }
+   ]
+  },
+  {
+   "id": "accents",
+   "title": "Accents & signs",
+   "icon": "✒️",
+   "quiz": "letters",
+   "tip": "Accents are part of the spelling — **a missing accent is a spelling mistake** in the writing paper. When you spell aloud, name the accent: *« e accent aigu »*.",
+   "items": [
+    {
+     "fr": "é",
+     "say": "e accent aigu",
+     "note": "accent aigu — closed « é » sound",
+     "ex": "le café",
+     "en": "coffee"
+    },
+    {
+     "fr": "è",
+     "say": "e accent grave",
+     "note": "accent grave — open « è » sound",
+     "ex": "la mère",
+     "en": "the mother"
+    },
+    {
+     "fr": "ê",
+     "say": "e accent circonflexe",
+     "note": "accent circonflexe — open « è » sound",
+     "ex": "la fête",
+     "en": "the party"
+    },
+    {
+     "fr": "ë",
+     "say": "e tréma",
+     "note": "tréma — say the vowel separately",
+     "ex": "Noël",
+     "en": "Christmas"
+    },
+    {
+     "fr": "à",
+     "say": "a accent grave",
+     "note": "only changes meaning: a (has) / à (to, at)",
+     "ex": "à Montréal",
+     "en": "in Montréal"
+    },
+    {
+     "fr": "â",
+     "say": "a accent circonflexe",
+     "note": "accent circonflexe",
+     "ex": "le gâteau",
+     "en": "the cake"
+    },
+    {
+     "fr": "î",
+     "say": "i accent circonflexe",
+     "note": "accent circonflexe",
+     "ex": "une île",
+     "en": "an island"
+    },
+    {
+     "fr": "ï",
+     "say": "i tréma",
+     "note": "tréma",
+     "ex": "naïf",
+     "en": "naive"
+    },
+    {
+     "fr": "ô",
+     "say": "o accent circonflexe",
+     "note": "closed « o »",
+     "ex": "l'hôpital",
+     "en": "the hospital"
+    },
+    {
+     "fr": "ù",
+     "say": "u accent grave",
+     "note": "only in « où » (where) vs « ou » (or)",
+     "ex": "Où habitez-vous ?",
+     "en": "Where do you live?"
+    },
+    {
+     "fr": "û",
+     "say": "u accent circonflexe",
+     "note": "accent circonflexe",
+     "ex": "sûr",
+     "en": "sure"
+    },
+    {
+     "fr": "ç",
+     "say": "c cédille",
+     "note": "cédille — makes c sound « s » before a, o, u",
+     "ex": "le français",
+     "en": "French"
+    },
+    {
+     "fr": "œ",
+     "say": "e dans l'o",
+     "note": "e dans l'o",
+     "ex": "le cœur",
+     "en": "the heart"
+    },
+    {
+     "fr": "'",
+     "say": "apostrophe",
+     "note": "apostrophe (elision: le + homme → l'homme)",
+     "ex": "l'hôpital",
+     "en": "the hospital"
+    },
+    {
+     "fr": "-",
+     "say": "trait d'union",
+     "note": "trait d'union (hyphen)",
+     "ex": "vingt-deux",
+     "en": "twenty-two"
+    }
+   ]
+  },
+  {
+   "id": "vowels",
+   "title": "Vowels & vowel sounds",
+   "icon": "🅰️",
+   "quiz": "words",
+   "tip": "6 vowel **letters** (a e i o u y) but about 15 vowel **sounds**. French vowels are **pure**: one sound, no glide. Each card shows one sound and the ways it's spelled.",
+   "items": [
+    {
+     "fr": "a",
+     "note": "spelled a, à, â",
+     "ex": "la table, là, les pâtes",
+     "en": "open « a »"
+    },
+    {
+     "fr": "i",
+     "note": "spelled i, î, y",
+     "ex": "ici, une île, un stylo",
+     "en": "like English « ee », short"
+    },
+    {
+     "fr": "u",
+     "note": "spelled u, û — the vowel English doesn't have",
+     "ex": "tu, la rue, sûr",
+     "en": "say « ee », round your lips"
+    },
+    {
+     "fr": "ou",
+     "note": "spelled ou, où, oû",
+     "ex": "vous, où, le goût",
+     "en": "like English « oo »"
+    },
+    {
+     "fr": "é",
+     "note": "spelled é, er, ez, et (closed)",
+     "ex": "le café, parler, chez, et",
+     "en": "closed, smiling « é »"
+    },
+    {
+     "fr": "è",
+     "note": "spelled è, ê, ai, ei, e + 2 consonants",
+     "ex": "la mère, la fête, le lait, la neige, merci",
+     "en": "open « è »"
+    },
+    {
+     "fr": "o",
+     "note": "spelled o, ô, au, eau",
+     "ex": "le vélo, l'hôtel, aussi, l'eau",
+     "en": "pure « o », no glide"
+    },
+    {
+     "fr": "eu",
+     "note": "spelled eu, œu",
+     "ex": "deux, bleu, le cœur, la sœur",
+     "en": "« u » lips with an « é » tongue"
+    },
+    {
+     "fr": "e",
+     "note": "the short « e » in one-syllable words — often dropped in speech",
+     "ex": "le, de, je, petit",
+     "en": "e muet"
+    },
+    {
+     "fr": "an / en",
+     "note": "nasal: an, am, en, em",
+     "ex": "maman, la chambre, le vent, le temps",
+     "en": "nasal « ah »"
+    },
+    {
+     "fr": "on",
+     "note": "nasal: on, om",
+     "ex": "bonjour, le nom, le monde",
+     "en": "nasal « oh »"
+    },
+    {
+     "fr": "in",
+     "note": "nasal: in, im, ain, ein, un",
+     "ex": "le vin, simple, le pain, plein, lundi",
+     "en": "nasal « a » (as in « bag »)"
+    },
+    {
+     "fr": "oi",
+     "note": "always « wa »",
+     "ex": "moi, trois, le soir",
+     "en": "« wa »"
+    },
+    {
+     "fr": "oin",
+     "note": "« wɛ̃ » (w + nasal in)",
+     "ex": "loin, le coin, le besoin",
+     "en": "« w » + nasal"
+    },
+    {
+     "fr": "ille",
+     "note": "usually « ee-y »; after a vowel just « y »",
+     "ex": "la famille, le travail, la fille",
+     "en": "« y » glide"
+    }
+   ]
+  },
+  {
+   "id": "consonants",
+   "title": "Consonants",
+   "icon": "🅱️",
+   "quiz": "words",
+   "tip": "Most final consonants are **silent** (*petit, grand, vous*). Remember **CaReFuL**: final **c, r, f, l** are usually pronounced (*avec, pour, neuf, avril*) — except -er verbs (*parler*). And **-ent on plural verbs is silent**.",
+   "items": [
+    {
+     "fr": "c",
+     "note": "« k » before a, o, u — « s » before e, i, y",
+     "ex": "le café, la ville, cinq, le cinéma",
+     "en": "hard / soft c"
+    },
+    {
+     "fr": "ç",
+     "note": "always « s »",
+     "ex": "le garçon, français, ça",
+     "en": "soft c everywhere"
+    },
+    {
+     "fr": "ch",
+     "note": "« sh »",
+     "ex": "le chat, chez, la chambre",
+     "en": "« sh » (never « tch »)"
+    },
+    {
+     "fr": "g",
+     "note": "hard before a, o, u — « j » before e, i, y",
+     "ex": "la gare, le goût, manger, la région",
+     "en": "hard / soft g"
+    },
+    {
+     "fr": "gn",
+     "note": "« ny » as in « canyon »",
+     "ex": "la montagne, l'Espagne, signer",
+     "en": "« ny »"
+    },
+    {
+     "fr": "h",
+     "note": "always silent — but « h aspiré » blocks liaison",
+     "ex": "l'hôpital, les‿hommes, les / héros",
+     "en": "silent h"
+    },
+    {
+     "fr": "j",
+     "note": "soft « zh » as in « measure »",
+     "ex": "je, le jour, le jardin",
+     "en": "« zh »"
+    },
+    {
+     "fr": "qu",
+     "note": "« k » (the u is silent)",
+     "ex": "qui, quand, quatre",
+     "en": "« k »"
+    },
+    {
+     "fr": "r",
+     "note": "back of the throat, like a light gargle",
+     "ex": "rouge, Paris, merci, trois",
+     "en": "uvular r"
+    },
+    {
+     "fr": "s",
+     "note": "« s » — but « z » between two vowels; « ss » is always « s »",
+     "ex": "le poisson / le poison, la maison, la classe",
+     "en": "s / z"
+    },
+    {
+     "fr": "th",
+     "note": "just « t »",
+     "ex": "le thé, le théâtre",
+     "en": "« t » (no English th)"
+    },
+    {
+     "fr": "x",
+     "note": "« ks », « gz », « s » or « z » — silent at the end",
+     "ex": "le taxi, l'examen, six, deuxième, les prix",
+     "en": "several sounds"
+    },
+    {
+     "fr": "final consonant",
+     "note": "usually silent",
+     "ex": "petit, grand, vous, le riz, trop",
+     "en": "don't pronounce it"
+    },
+    {
+     "fr": "CaReFuL",
+     "note": "final c, r, f, l usually pronounced",
+     "ex": "avec, le soir, neuf, avril",
+     "en": "the exceptions"
+    },
+    {
+     "fr": "-ent (verbs)",
+     "note": "silent on 3rd-person plural verbs",
+     "ex": "ils parlent = il parle",
+     "en": "silent -ent"
+    }
+   ]
+  },
+  {
+   "id": "numbers",
+   "title": "Numbers",
+   "icon": "🔢",
+   "quiz": "numbers",
+   "tip": "Learn **0–20** cold, then the tens. The hard part is **70–99**: *soixante-dix* (60+10), *quatre-vingts* (4×20), *quatre-vingt-dix* (4×20+10). Listening papers love prices, times, phone numbers and dates — practise hearing numbers **fast**.",
+   "rules": [
+    "**et** in 21, 31, 41, 51, 61 and 71: *vingt et un, soixante et onze* — but **not** in 81 and 91: *quatre-vingt-un, quatre-vingt-onze*.",
+    "**quatre-vingts** and **deux cents** take an **s** only when nothing follows: *quatre-vingts* but *quatre-vingt-trois*; *deux cents* but *deux cent dix*.",
+    "**mille** never takes an s: *deux mille vingt-sept*.",
+    "Hyphens join words under 100 (*dix-sept, quatre-vingt-dix*). Since 1990 you may hyphenate every part (*deux-cent-dix*) — both are accepted.",
+    "Belgium & Switzerland say *septante* (70) and *nonante* (90) — recognise them; Canada and France use *soixante-dix / quatre-vingt-dix*.",
+    "Dates use **le premier** for the 1st, then plain numbers: *le premier mars, le deux mars, le 12 février*.",
+    "French phone numbers are read in **pairs**: 06 12 34 56 78 → *zéro six, douze, trente-quatre, cinquante-six, soixante-dix-huit*."
+   ],
+   "groups": [
+    {
+     "title": "0 – 20",
+     "items": [
+      {
+       "fr": "zéro",
+       "n": 0
+      },
+      {
+       "fr": "un",
+       "n": 1
+      },
+      {
+       "fr": "deux",
+       "n": 2
+      },
+      {
+       "fr": "trois",
+       "n": 3
+      },
+      {
+       "fr": "quatre",
+       "n": 4
+      },
+      {
+       "fr": "cinq",
+       "n": 5
+      },
+      {
+       "fr": "six",
+       "n": 6
+      },
+      {
+       "fr": "sept",
+       "n": 7
+      },
+      {
+       "fr": "huit",
+       "n": 8
+      },
+      {
+       "fr": "neuf",
+       "n": 9
+      },
+      {
+       "fr": "dix",
+       "n": 10
+      },
+      {
+       "fr": "onze",
+       "n": 11
+      },
+      {
+       "fr": "douze",
+       "n": 12
+      },
+      {
+       "fr": "treize",
+       "n": 13
+      },
+      {
+       "fr": "quatorze",
+       "n": 14
+      },
+      {
+       "fr": "quinze",
+       "n": 15
+      },
+      {
+       "fr": "seize",
+       "n": 16
+      },
+      {
+       "fr": "dix-sept",
+       "n": 17
+      },
+      {
+       "fr": "dix-huit",
+       "n": 18
+      },
+      {
+       "fr": "dix-neuf",
+       "n": 19
+      },
+      {
+       "fr": "vingt",
+       "n": 20
+      }
+     ]
+    },
+    {
+     "title": "Tens",
+     "items": [
+      {
+       "fr": "vingt",
+       "n": 20
+      },
+      {
+       "fr": "trente",
+       "n": 30
+      },
+      {
+       "fr": "quarante",
+       "n": 40
+      },
+      {
+       "fr": "cinquante",
+       "n": 50
+      },
+      {
+       "fr": "soixante",
+       "n": 60
+      },
+      {
+       "fr": "soixante-dix",
+       "n": 70
+      },
+      {
+       "fr": "quatre-vingts",
+       "n": 80
+      },
+      {
+       "fr": "quatre-vingt-dix",
+       "n": 90
+      },
+      {
+       "fr": "cent",
+       "n": 100
+      }
+     ]
+    },
+    {
+     "title": "The tricky ones",
+     "items": [
+      {
+       "fr": "vingt et un",
+       "n": 21
+      },
+      {
+       "fr": "vingt-deux",
+       "n": 22
+      },
+      {
+       "fr": "trente et un",
+       "n": 31
+      },
+      {
+       "fr": "soixante et onze",
+       "n": 71
+      },
+      {
+       "fr": "soixante-douze",
+       "n": 72
+      },
+      {
+       "fr": "soixante-dix-sept",
+       "n": 77
+      },
+      {
+       "fr": "quatre-vingt-un",
+       "n": 81
+      },
+      {
+       "fr": "quatre-vingt-cinq",
+       "n": 85
+      },
+      {
+       "fr": "quatre-vingt-onze",
+       "n": 91
+      },
+      {
+       "fr": "quatre-vingt-dix-neuf",
+       "n": 99
+      }
+     ]
+    },
+    {
+     "title": "Big numbers & years",
+     "items": [
+      {
+       "fr": "cent un",
+       "n": 101
+      },
+      {
+       "fr": "deux cents",
+       "n": 200
+      },
+      {
+       "fr": "deux cent cinquante",
+       "n": 250
+      },
+      {
+       "fr": "mille",
+       "n": 1000
+      },
+      {
+       "fr": "deux mille",
+       "n": 2000
+      },
+      {
+       "fr": "deux mille vingt-sept",
+       "n": 2027
+      },
+      {
+       "fr": "dix mille",
+       "n": 10000
+      },
+      {
+       "fr": "cent mille",
+       "n": 100000
+      },
+      {
+       "fr": "un million",
+       "n": 1000000
+      }
+     ]
+    },
+    {
+     "title": "Ordinals",
+     "items": [
+      {
+       "fr": "premier / première",
+       "en": "1st",
+       "say": "premier, première"
+      },
+      {
+       "fr": "deuxième",
+       "en": "2nd"
+      },
+      {
+       "fr": "troisième",
+       "en": "3rd"
+      },
+      {
+       "fr": "quatrième",
+       "en": "4th"
+      },
+      {
+       "fr": "cinquième",
+       "en": "5th"
+      },
+      {
+       "fr": "neuvième",
+       "en": "9th"
+      },
+      {
+       "fr": "dixième",
+       "en": "10th"
+      },
+      {
+       "fr": "vingt et unième",
+       "en": "21st"
+      },
+      {
+       "fr": "centième",
+       "en": "100th"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "days",
+   "title": "Days of the week",
+   "icon": "📅",
+   "quiz": "words",
+   "tip": "Days are **masculine** and written **without a capital**. *Lundi* = on Monday (this one); **le lundi** = on Mondays (every). The week starts on **lundi**.",
+   "items": [
+    {
+     "fr": "lundi",
+     "en": "Monday",
+     "ex": "Je commence lundi."
+    },
+    {
+     "fr": "mardi",
+     "en": "Tuesday",
+     "ex": "Le cours est mardi soir."
+    },
+    {
+     "fr": "mercredi",
+     "en": "Wednesday",
+     "ex": "Mercredi, je suis libre."
+    },
+    {
+     "fr": "jeudi",
+     "en": "Thursday",
+     "ex": "On se voit jeudi ?"
+    },
+    {
+     "fr": "vendredi",
+     "en": "Friday",
+     "ex": "Vendredi, c'est l'examen."
+    },
+    {
+     "fr": "samedi",
+     "en": "Saturday",
+     "ex": "Le samedi, je travaille."
+    },
+    {
+     "fr": "dimanche",
+     "en": "Sunday",
+     "ex": "Le dimanche, je suis de garde."
+    }
+   ],
+   "groups": [
+    {
+     "title": "Around the week",
+     "items": [
+      {
+       "fr": "aujourd'hui",
+       "en": "today"
+      },
+      {
+       "fr": "hier",
+       "en": "yesterday"
+      },
+      {
+       "fr": "demain",
+       "en": "tomorrow"
+      },
+      {
+       "fr": "avant-hier",
+       "en": "the day before yesterday"
+      },
+      {
+       "fr": "après-demain",
+       "en": "the day after tomorrow"
+      },
+      {
+       "fr": "la semaine",
+       "en": "the week"
+      },
+      {
+       "fr": "le week-end",
+       "en": "the weekend"
+      },
+      {
+       "fr": "la semaine prochaine",
+       "en": "next week"
+      },
+      {
+       "fr": "la semaine dernière",
+       "en": "last week"
+      },
+      {
+       "fr": "le matin",
+       "en": "the morning"
+      },
+      {
+       "fr": "l'après-midi",
+       "en": "the afternoon",
+       "g": "m"
+      },
+      {
+       "fr": "le soir",
+       "en": "the evening"
+      },
+      {
+       "fr": "la nuit",
+       "en": "the night"
+      },
+      {
+       "fr": "un jour",
+       "en": "a day"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "months",
+   "title": "Months & seasons",
+   "icon": "🗓️",
+   "quiz": "words",
+   "tip": "Months are **masculine**, **no capital**, and take **en**: *en février*. Seasons: *au printemps*, but *en été, en automne, en hiver*. Dates: **le 12 février 2027** (article + number + month).",
+   "items": [
+    {
+     "fr": "janvier",
+     "en": "January"
+    },
+    {
+     "fr": "février",
+     "en": "February",
+     "ex": "L'examen est le 12 février."
+    },
+    {
+     "fr": "mars",
+     "en": "March"
+    },
+    {
+     "fr": "avril",
+     "en": "April"
+    },
+    {
+     "fr": "mai",
+     "en": "May"
+    },
+    {
+     "fr": "juin",
+     "en": "June"
+    },
+    {
+     "fr": "juillet",
+     "en": "July"
+    },
+    {
+     "fr": "août",
+     "en": "August",
+     "note": "pronounced « oute »"
+    },
+    {
+     "fr": "septembre",
+     "en": "September"
+    },
+    {
+     "fr": "octobre",
+     "en": "October"
+    },
+    {
+     "fr": "novembre",
+     "en": "November"
+    },
+    {
+     "fr": "décembre",
+     "en": "December"
+    }
+   ],
+   "groups": [
+    {
+     "title": "Seasons & dates",
+     "items": [
+      {
+       "fr": "le printemps",
+       "en": "spring",
+       "ex": "au printemps"
+      },
+      {
+       "fr": "l'été",
+       "en": "summer",
+       "ex": "en été",
+       "g": "m"
+      },
+      {
+       "fr": "l'automne",
+       "en": "autumn / fall",
+       "ex": "en automne",
+       "g": "m"
+      },
+      {
+       "fr": "l'hiver",
+       "en": "winter",
+       "ex": "en hiver",
+       "g": "m"
+      },
+      {
+       "fr": "le mois",
+       "en": "the month"
+      },
+      {
+       "fr": "l'année",
+       "en": "the year",
+       "g": "f"
+      },
+      {
+       "fr": "la date",
+       "en": "the date"
+      },
+      {
+       "fr": "Quelle est la date aujourd'hui ?",
+       "en": "What's the date today?"
+      },
+      {
+       "fr": "le premier janvier",
+       "en": "the 1st of January"
+      },
+      {
+       "fr": "le douze février",
+       "en": "the 12th of February"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "words",
+   "title": "Common words",
+   "icon": "💬",
+   "quiz": "words",
+   "tip": "The words you'll use every single day. Learn them **with their article**, hear them, spell them, then pass the dictation.",
+   "groups": [
+    {
+     "title": "Greetings & politeness",
+     "items": [
+      {
+       "fr": "bonjour",
+       "en": "hello / good morning"
+      },
+      {
+       "fr": "bonsoir",
+       "en": "good evening"
+      },
+      {
+       "fr": "salut",
+       "en": "hi / bye (informal)"
+      },
+      {
+       "fr": "au revoir",
+       "en": "goodbye"
+      },
+      {
+       "fr": "à bientôt",
+       "en": "see you soon"
+      },
+      {
+       "fr": "merci",
+       "en": "thank you"
+      },
+      {
+       "fr": "merci beaucoup",
+       "en": "thank you very much"
+      },
+      {
+       "fr": "de rien",
+       "en": "you're welcome"
+      },
+      {
+       "fr": "s'il vous plaît",
+       "en": "please (formal)"
+      },
+      {
+       "fr": "s'il te plaît",
+       "en": "please (informal)"
+      },
+      {
+       "fr": "excusez-moi",
+       "en": "excuse me"
+      },
+      {
+       "fr": "pardon",
+       "en": "sorry / pardon"
+      },
+      {
+       "fr": "oui",
+       "en": "yes"
+      },
+      {
+       "fr": "non",
+       "en": "no"
+      },
+      {
+       "fr": "d'accord",
+       "en": "OK / agreed"
+      },
+      {
+       "fr": "enchanté",
+       "en": "nice to meet you"
+      }
+     ]
+    },
+    {
+     "title": "Question words",
+     "items": [
+      {
+       "fr": "qui",
+       "en": "who"
+      },
+      {
+       "fr": "que / quoi",
+       "en": "what"
+      },
+      {
+       "fr": "où",
+       "en": "where"
+      },
+      {
+       "fr": "quand",
+       "en": "when"
+      },
+      {
+       "fr": "comment",
+       "en": "how"
+      },
+      {
+       "fr": "pourquoi",
+       "en": "why"
+      },
+      {
+       "fr": "combien",
+       "en": "how much / how many"
+      },
+      {
+       "fr": "quel / quelle",
+       "en": "which / what"
+      },
+      {
+       "fr": "est-ce que",
+       "en": "(turns a sentence into a question)"
+      }
+     ]
+    },
+    {
+     "title": "People",
+     "items": [
+      {
+       "fr": "je / moi",
+       "en": "I / me"
+      },
+      {
+       "fr": "tu / toi",
+       "en": "you (informal)"
+      },
+      {
+       "fr": "il / elle",
+       "en": "he / she"
+      },
+      {
+       "fr": "on",
+       "en": "we (spoken) / one"
+      },
+      {
+       "fr": "nous",
+       "en": "we"
+      },
+      {
+       "fr": "vous",
+       "en": "you (formal / plural)"
+      },
+      {
+       "fr": "ils / elles",
+       "en": "they"
+      },
+      {
+       "fr": "un homme",
+       "en": "a man"
+      },
+      {
+       "fr": "une femme",
+       "en": "a woman / a wife"
+      },
+      {
+       "fr": "un enfant",
+       "en": "a child"
+      },
+      {
+       "fr": "la famille",
+       "en": "the family"
+      },
+      {
+       "fr": "un ami / une amie",
+       "en": "a friend"
+      },
+      {
+       "fr": "un médecin",
+       "en": "a doctor"
+      },
+      {
+       "fr": "un patient",
+       "en": "a patient"
+      }
+     ]
+    },
+    {
+     "title": "Core verbs",
+     "items": [
+      {
+       "fr": "être",
+       "en": "to be"
+      },
+      {
+       "fr": "avoir",
+       "en": "to have"
+      },
+      {
+       "fr": "aller",
+       "en": "to go"
+      },
+      {
+       "fr": "faire",
+       "en": "to do / make"
+      },
+      {
+       "fr": "pouvoir",
+       "en": "can / to be able"
+      },
+      {
+       "fr": "vouloir",
+       "en": "to want"
+      },
+      {
+       "fr": "devoir",
+       "en": "must / to have to"
+      },
+      {
+       "fr": "savoir",
+       "en": "to know (a fact)"
+      },
+      {
+       "fr": "connaître",
+       "en": "to know (a person / place)"
+      },
+      {
+       "fr": "dire",
+       "en": "to say"
+      },
+      {
+       "fr": "venir",
+       "en": "to come"
+      },
+      {
+       "fr": "voir",
+       "en": "to see"
+      },
+      {
+       "fr": "prendre",
+       "en": "to take"
+      },
+      {
+       "fr": "parler",
+       "en": "to speak"
+      },
+      {
+       "fr": "travailler",
+       "en": "to work"
+      },
+      {
+       "fr": "habiter",
+       "en": "to live (somewhere)"
+      },
+      {
+       "fr": "manger",
+       "en": "to eat"
+      },
+      {
+       "fr": "comprendre",
+       "en": "to understand"
+      }
+     ]
+    },
+    {
+     "title": "Little words that hold sentences together",
+     "items": [
+      {
+       "fr": "et",
+       "en": "and"
+      },
+      {
+       "fr": "mais",
+       "en": "but"
+      },
+      {
+       "fr": "ou",
+       "en": "or"
+      },
+      {
+       "fr": "donc",
+       "en": "so"
+      },
+      {
+       "fr": "parce que",
+       "en": "because"
+      },
+      {
+       "fr": "alors",
+       "en": "then / so"
+      },
+      {
+       "fr": "avec",
+       "en": "with"
+      },
+      {
+       "fr": "sans",
+       "en": "without"
+      },
+      {
+       "fr": "pour",
+       "en": "for / in order to"
+      },
+      {
+       "fr": "dans",
+       "en": "in"
+      },
+      {
+       "fr": "sur",
+       "en": "on"
+      },
+      {
+       "fr": "sous",
+       "en": "under"
+      },
+      {
+       "fr": "chez",
+       "en": "at (someone's place)"
+      },
+      {
+       "fr": "très",
+       "en": "very"
+      },
+      {
+       "fr": "beaucoup",
+       "en": "a lot"
+      },
+      {
+       "fr": "peu",
+       "en": "little / few"
+      },
+      {
+       "fr": "aussi",
+       "en": "also / too"
+      },
+      {
+       "fr": "toujours",
+       "en": "always / still"
+      },
+      {
+       "fr": "jamais",
+       "en": "never"
+      },
+      {
+       "fr": "maintenant",
+       "en": "now"
+      }
+     ]
+    },
+    {
+     "title": "Everyday things & places",
+     "items": [
+      {
+       "fr": "la maison",
+       "en": "the house / home"
+      },
+      {
+       "fr": "l'appartement",
+       "en": "the flat",
+       "g": "m"
+      },
+      {
+       "fr": "la ville",
+       "en": "the city"
+      },
+      {
+       "fr": "la rue",
+       "en": "the street"
+      },
+      {
+       "fr": "l'hôpital",
+       "en": "the hospital",
+       "g": "m"
+      },
+      {
+       "fr": "l'école",
+       "en": "the school",
+       "g": "f"
+      },
+      {
+       "fr": "le travail",
+       "en": "work / the job"
+      },
+      {
+       "fr": "le bureau",
+       "en": "the office / desk"
+      },
+      {
+       "fr": "la gare",
+       "en": "the train station"
+      },
+      {
+       "fr": "le magasin",
+       "en": "the shop"
+      },
+      {
+       "fr": "l'argent",
+       "en": "money",
+       "g": "m"
+      },
+      {
+       "fr": "le temps",
+       "en": "time / weather"
+      },
+      {
+       "fr": "l'heure",
+       "en": "the hour / time (o'clock)",
+       "g": "f"
+      },
+      {
+       "fr": "l'eau",
+       "en": "water",
+       "g": "f"
+      },
+      {
+       "fr": "le pain",
+       "en": "bread"
+      },
+      {
+       "fr": "le téléphone",
+       "en": "the phone"
+      },
+      {
+       "fr": "le rendez-vous",
+       "en": "the appointment"
+      },
+      {
+       "fr": "le passeport",
+       "en": "the passport"
+      }
+     ]
+    },
+    {
+     "title": "Describing",
+     "items": [
+      {
+       "fr": "bon / bonne",
+       "en": "good"
+      },
+      {
+       "fr": "mauvais",
+       "en": "bad"
+      },
+      {
+       "fr": "grand",
+       "en": "big / tall"
+      },
+      {
+       "fr": "petit",
+       "en": "small"
+      },
+      {
+       "fr": "nouveau / nouvelle",
+       "en": "new"
+      },
+      {
+       "fr": "vieux / vieille",
+       "en": "old"
+      },
+      {
+       "fr": "facile",
+       "en": "easy"
+      },
+      {
+       "fr": "difficile",
+       "en": "difficult"
+      },
+      {
+       "fr": "important",
+       "en": "important"
+      },
+      {
+       "fr": "fatigué",
+       "en": "tired"
+      },
+      {
+       "fr": "content",
+       "en": "happy / pleased"
+      },
+      {
+       "fr": "cher",
+       "en": "expensive / dear"
+      }
+     ]
+    },
+    {
+     "title": "🍎 Fruit & vegetables",
+     "items": [
+      {
+       "fr": "la pomme",
+       "en": "the apple",
+       "ex": "Une pomme par jour !",
+       "g": "f"
+      },
+      {
+       "fr": "la banane",
+       "en": "the banana",
+       "g": "f"
+      },
+      {
+       "fr": "l'orange",
+       "en": "the orange",
+       "ex": "un jus d'orange",
+       "note": "une orange",
+       "g": "f"
+      },
+      {
+       "fr": "le citron",
+       "en": "the lemon / lime",
+       "g": "m"
+      },
+      {
+       "fr": "la fraise",
+       "en": "the strawberry",
+       "g": "f"
+      },
+      {
+       "fr": "le raisin",
+       "en": "grapes",
+       "note": "singular in French: du raisin",
+       "g": "m"
+      },
+      {
+       "fr": "l'ananas",
+       "en": "the pineapple",
+       "note": "un ananas — the final s is silent",
+       "g": "m"
+      },
+      {
+       "fr": "la mangue",
+       "en": "the mango",
+       "g": "f"
+      },
+      {
+       "fr": "la tomate",
+       "en": "the tomato",
+       "g": "f"
+      },
+      {
+       "fr": "la carotte",
+       "en": "the carrot",
+       "g": "f"
+      },
+      {
+       "fr": "l'oignon",
+       "en": "the onion",
+       "note": "un oignon — pronounced \"onion\"",
+       "g": "m"
+      },
+      {
+       "fr": "la pomme de terre",
+       "en": "the potato",
+       "note": "literally \"apple of the earth\"",
+       "g": "f"
+      },
+      {
+       "fr": "la salade",
+       "en": "the lettuce / salad",
+       "g": "f"
+      },
+      {
+       "fr": "le haricot",
+       "en": "the bean",
+       "ex": "des haricots verts",
+       "note": "aspirated h: le haricot, not l'haricot",
+       "g": "m"
+      },
+      {
+       "fr": "le piment",
+       "en": "the chilli pepper",
+       "ex": "Ce plat est très pimenté.",
+       "g": "m"
+      },
+      {
+       "fr": "l'ail",
+       "en": "garlic",
+       "note": "masculine",
+       "g": "m"
+      }
+     ]
+    },
+    {
+     "title": "🍞 Food",
+     "items": [
+      {
+       "fr": "le riz",
+       "en": "rice",
+       "ex": "du riz jollof",
+       "g": "m"
+      },
+      {
+       "fr": "la soupe",
+       "en": "soup",
+       "g": "f"
+      },
+      {
+       "fr": "les pâtes",
+       "en": "pasta",
+       "note": "feminine plural",
+       "g": "f"
+      },
+      {
+       "fr": "le sandwich",
+       "en": "the sandwich",
+       "g": "m"
+      },
+      {
+       "fr": "la pizza",
+       "en": "pizza",
+       "g": "f"
+      },
+      {
+       "fr": "le gâteau",
+       "en": "the cake",
+       "ex": "un gâteau d'anniversaire",
+       "g": "m"
+      },
+      {
+       "fr": "le chocolat",
+       "en": "chocolate",
+       "g": "m"
+      },
+      {
+       "fr": "le beurre",
+       "en": "butter",
+       "g": "m"
+      },
+      {
+       "fr": "la confiture",
+       "en": "jam",
+       "ex": "du pain avec de la confiture",
+       "g": "f"
+      },
+      {
+       "fr": "les frites",
+       "en": "chips / fries",
+       "ex": "un steak-frites",
+       "note": "feminine plural",
+       "g": "f"
+      },
+      {
+       "fr": "le poivre",
+       "en": "pepper (spice)",
+       "g": "m"
+      },
+      {
+       "fr": "l'huile",
+       "en": "oil",
+       "ex": "l'huile d'olive",
+       "note": "feminine",
+       "g": "f"
+      },
+      {
+       "fr": "la farine",
+       "en": "flour",
+       "g": "f"
+      },
+      {
+       "fr": "le yaourt",
+       "en": "yoghurt",
+       "g": "m"
+      },
+      {
+       "fr": "la glace",
+       "en": "ice cream / ice",
+       "ex": "une glace à la vanille",
+       "g": "f"
+      },
+      {
+       "fr": "le bœuf",
+       "en": "beef",
+       "g": "m"
+      },
+      {
+       "fr": "le porc",
+       "en": "pork",
+       "g": "m"
+      },
+      {
+       "fr": "l'agneau",
+       "en": "lamb",
+       "note": "masculine",
+       "g": "m"
+      }
+     ]
+    },
+    {
+     "title": "🍽️ Drinks & at the table",
+     "items": [
+      {
+       "fr": "la boisson",
+       "en": "the drink",
+       "g": "f"
+      },
+      {
+       "fr": "le vin",
+       "en": "wine",
+       "ex": "un verre de vin rouge",
+       "g": "m"
+      },
+      {
+       "fr": "la bière",
+       "en": "beer",
+       "g": "f"
+      },
+      {
+       "fr": "le soda",
+       "en": "soft drink / soda",
+       "note": "Québec: la liqueur",
+       "g": "m"
+      },
+      {
+       "fr": "la bouteille",
+       "en": "the bottle",
+       "ex": "une bouteille d'eau",
+       "g": "f"
+      },
+      {
+       "fr": "le verre",
+       "en": "the glass",
+       "g": "m"
+      },
+      {
+       "fr": "la tasse",
+       "en": "the cup",
+       "ex": "une tasse de thé",
+       "g": "f"
+      },
+      {
+       "fr": "l'assiette",
+       "en": "the plate",
+       "note": "feminine",
+       "g": "f"
+      },
+      {
+       "fr": "la fourchette",
+       "en": "the fork",
+       "g": "f"
+      },
+      {
+       "fr": "le couteau",
+       "en": "the knife",
+       "g": "m"
+      },
+      {
+       "fr": "la cuillère",
+       "en": "the spoon",
+       "g": "f"
+      },
+      {
+       "fr": "le menu",
+       "en": "the menu",
+       "g": "m"
+      },
+      {
+       "fr": "l'addition",
+       "en": "the bill",
+       "ex": "L'addition, s'il vous plaît !",
+       "note": "feminine · Québec: la facture",
+       "g": "f"
+      },
+      {
+       "fr": "j'ai faim",
+       "en": "I'm hungry",
+       "note": "avoir faim — not être!"
+      },
+      {
+       "fr": "j'ai soif",
+       "en": "I'm thirsty",
+       "note": "avoir soif"
+      },
+      {
+       "fr": "bon appétit !",
+       "en": "enjoy your meal!"
+      }
+     ]
+    },
+    {
+     "title": "🎨 Colours",
+     "items": [
+      {
+       "fr": "la couleur",
+       "en": "the colour",
+       "ex": "De quelle couleur est ta voiture ?",
+       "g": "f"
+      },
+      {
+       "fr": "blanc / blanche",
+       "en": "white",
+       "note": "irregular feminine",
+       "fem": "blanche",
+       "say": "blanc, blanche"
+      },
+      {
+       "fr": "noir / noire",
+       "en": "black",
+       "fem": "noire",
+       "say": "noir, noire"
+      },
+      {
+       "fr": "rouge",
+       "en": "red",
+       "ex": "une pomme rouge",
+       "note": "already -e: same for m and f"
+      },
+      {
+       "fr": "bleu / bleue",
+       "en": "blue",
+       "fem": "bleue",
+       "say": "bleu, bleue"
+      },
+      {
+       "fr": "vert / verte",
+       "en": "green",
+       "note": "add -e → the t is heard",
+       "fem": "verte",
+       "say": "vert, verte"
+      },
+      {
+       "fr": "jaune",
+       "en": "yellow",
+       "ex": "un taxi jaune",
+       "note": "same for m and f"
+      },
+      {
+       "fr": "gris / grise",
+       "en": "grey",
+       "note": "add -e → the s is heard as z",
+       "fem": "grise",
+       "say": "gris, grise"
+      },
+      {
+       "fr": "marron",
+       "en": "brown",
+       "ex": "des yeux marron",
+       "note": "never changes"
+      },
+      {
+       "fr": "orange",
+       "en": "orange",
+       "ex": "des chaussures orange",
+       "note": "never changes"
+      },
+      {
+       "fr": "rose",
+       "en": "pink",
+       "note": "same for m and f"
+      },
+      {
+       "fr": "violet / violette",
+       "en": "purple",
+       "fem": "violette",
+       "say": "violet, violette"
+      },
+      {
+       "fr": "beige",
+       "en": "beige",
+       "note": "same for m and f"
+      },
+      {
+       "fr": "doré / dorée",
+       "en": "golden",
+       "fem": "dorée",
+       "say": "doré, dorée"
+      },
+      {
+       "fr": "argenté / argentée",
+       "en": "silver",
+       "fem": "argentée",
+       "say": "argenté, argentée"
+      },
+      {
+       "fr": "clair",
+       "en": "light (colour)",
+       "ex": "une chemise bleu clair",
+       "note": "bleu clair never changes: une robe bleu clair"
+      },
+      {
+       "fr": "foncé",
+       "en": "dark (colour)",
+       "ex": "un pantalon vert foncé",
+       "note": "two-word colours never change"
+      }
+     ]
+    },
+    {
+     "title": "🛒 Shopping & money",
+     "items": [
+      {
+       "fr": "acheter",
+       "en": "to buy",
+       "ex": "J'achète du pain."
+      },
+      {
+       "fr": "payer",
+       "en": "to pay",
+       "ex": "Je peux payer par carte ?"
+      },
+      {
+       "fr": "vendre",
+       "en": "to sell"
+      },
+      {
+       "fr": "le prix",
+       "en": "the price",
+       "g": "m"
+      },
+      {
+       "fr": "C'est combien ?",
+       "en": "How much is it?"
+      },
+      {
+       "fr": "pas cher",
+       "en": "cheap",
+       "note": "\"bon marché\" also means cheap"
+      },
+      {
+       "fr": "la monnaie",
+       "en": "change / currency",
+       "ex": "Vous avez de la monnaie ?",
+       "g": "f"
+      },
+      {
+       "fr": "la carte bancaire",
+       "en": "the bank card",
+       "g": "f"
+      },
+      {
+       "fr": "en espèces",
+       "en": "in cash",
+       "note": "also: en liquide · Québec: comptant"
+      },
+      {
+       "fr": "le reçu",
+       "en": "the receipt",
+       "g": "m"
+      },
+      {
+       "fr": "la caisse",
+       "en": "the checkout / till",
+       "g": "f"
+      },
+      {
+       "fr": "les soldes",
+       "en": "the sales",
+       "note": "masculine plural in France (les soldes d'été)",
+       "g": "m"
+      },
+      {
+       "fr": "le sac",
+       "en": "the bag",
+       "g": "m"
+      },
+      {
+       "fr": "la taille",
+       "en": "the size (clothes)",
+       "ex": "Vous avez une taille plus grande ?",
+       "g": "f"
+      }
+     ]
+    },
+    {
+     "title": "😊 Feelings",
+     "items": [
+      {
+       "fr": "heureux / heureuse",
+       "en": "happy",
+       "fem": "heureuse",
+       "say": "heureux, heureuse"
+      },
+      {
+       "fr": "triste",
+       "en": "sad",
+       "note": "same for m and f"
+      },
+      {
+       "fr": "stressé / stressée",
+       "en": "stressed",
+       "fem": "stressée",
+       "say": "stressé, stressée"
+      },
+      {
+       "fr": "inquiet / inquiète",
+       "en": "worried",
+       "fem": "inquiète",
+       "say": "inquiet, inquiète"
+      },
+      {
+       "fr": "surpris / surprise",
+       "en": "surprised",
+       "fem": "surprise",
+       "say": "surpris, surprise"
+      },
+      {
+       "fr": "malade",
+       "en": "ill / sick",
+       "note": "same for m and f"
+      },
+      {
+       "fr": "en colère",
+       "en": "angry",
+       "ex": "Il est en colère."
+      },
+      {
+       "fr": "avoir peur",
+       "en": "to be afraid",
+       "ex": "J'ai peur des chiens.",
+       "note": "avoir, not être!"
+      },
+      {
+       "fr": "avoir chaud",
+       "en": "to be hot",
+       "ex": "J'ai chaud.",
+       "note": "not \"je suis chaud\""
+      },
+      {
+       "fr": "avoir froid",
+       "en": "to be cold",
+       "ex": "J'ai froid.",
+       "note": "avoir"
+      },
+      {
+       "fr": "avoir sommeil",
+       "en": "to be sleepy",
+       "note": "avoir"
+      },
+      {
+       "fr": "s'ennuyer",
+       "en": "to be bored",
+       "ex": "Je m'ennuie."
+      }
+     ]
+    },
+    {
+     "title": "🧍 Body parts",
+     "items": [
+      {
+       "fr": "le corps",
+       "en": "the body",
+       "g": "m"
+      },
+      {
+       "fr": "la tête",
+       "en": "the head",
+       "ex": "J'ai mal à la tête.",
+       "g": "f"
+      },
+      {
+       "fr": "les cheveux",
+       "en": "hair (on the head)",
+       "ex": "Elle a les cheveux longs.",
+       "note": "masculine plural · one hair = un cheveu",
+       "g": "m"
+      },
+      {
+       "fr": "le visage",
+       "en": "the face",
+       "note": "-age → masculine",
+       "g": "m"
+      },
+      {
+       "fr": "l'œil",
+       "en": "the eye",
+       "note": "un œil · plural: les yeux!",
+       "g": "m"
+      },
+      {
+       "fr": "l'oreille",
+       "en": "the ear",
+       "note": "une oreille",
+       "g": "f"
+      },
+      {
+       "fr": "le nez",
+       "en": "the nose",
+       "note": "the z is silent",
+       "g": "m"
+      },
+      {
+       "fr": "la bouche",
+       "en": "the mouth",
+       "g": "f"
+      },
+      {
+       "fr": "la dent",
+       "en": "the tooth",
+       "ex": "Je me brosse les dents.",
+       "g": "f"
+      },
+      {
+       "fr": "la langue",
+       "en": "the tongue / the language",
+       "g": "f"
+      },
+      {
+       "fr": "le cou",
+       "en": "the neck",
+       "g": "m"
+      },
+      {
+       "fr": "l'épaule",
+       "en": "the shoulder",
+       "note": "une épaule",
+       "g": "f"
+      },
+      {
+       "fr": "le bras",
+       "en": "the arm",
+       "note": "the s is silent",
+       "g": "m"
+      },
+      {
+       "fr": "le coude",
+       "en": "the elbow",
+       "g": "m"
+      },
+      {
+       "fr": "la main",
+       "en": "the hand",
+       "ex": "Lavez-vous les mains.",
+       "g": "f"
+      },
+      {
+       "fr": "le doigt",
+       "en": "the finger",
+       "note": "the g and t are silent: \"dwa\"",
+       "g": "m"
+      },
+      {
+       "fr": "le dos",
+       "en": "the back",
+       "ex": "J'ai mal au dos.",
+       "g": "m"
+      },
+      {
+       "fr": "la poitrine",
+       "en": "the chest",
+       "g": "f"
+      },
+      {
+       "fr": "le ventre",
+       "en": "the stomach / belly",
+       "g": "m"
+      },
+      {
+       "fr": "la jambe",
+       "en": "the leg",
+       "g": "f"
+      },
+      {
+       "fr": "le genou",
+       "en": "the knee",
+       "note": "plural: les genoux",
+       "g": "m"
+      },
+      {
+       "fr": "le pied",
+       "en": "the foot",
+       "ex": "Je vais au travail à pied.",
+       "g": "m"
+      },
+      {
+       "fr": "l'orteil",
+       "en": "the toe",
+       "note": "un orteil",
+       "g": "m"
+      },
+      {
+       "fr": "la peau",
+       "en": "the skin",
+       "note": "feminine despite -eau",
+       "g": "f"
+      },
+      {
+       "fr": "le cœur",
+       "en": "the heart",
+       "g": "m"
+      },
+      {
+       "fr": "avoir mal à",
+       "en": "to hurt (somewhere)",
+       "ex": "J'ai mal aux dents.",
+       "note": "with the article, not \"my\": mal à la tête, not à ma tête"
+      }
+     ]
+    },
+    {
+     "title": "👕 Clothes & accessories",
+     "items": [
+      {
+       "fr": "les vêtements",
+       "en": "clothes",
+       "note": "masculine: un vêtement",
+       "g": "m"
+      },
+      {
+       "fr": "le pantalon",
+       "en": "trousers / pants",
+       "note": "singular in French: un pantalon",
+       "g": "m"
+      },
+      {
+       "fr": "le jean",
+       "en": "jeans",
+       "note": "singular: un jean",
+       "g": "m"
+      },
+      {
+       "fr": "la chemise",
+       "en": "the shirt",
+       "g": "f"
+      },
+      {
+       "fr": "le t-shirt",
+       "en": "the T-shirt",
+       "g": "m"
+      },
+      {
+       "fr": "le pull",
+       "en": "the jumper / sweater",
+       "g": "m"
+      },
+      {
+       "fr": "la robe",
+       "en": "the dress",
+       "g": "f"
+      },
+      {
+       "fr": "la jupe",
+       "en": "the skirt",
+       "g": "f"
+      },
+      {
+       "fr": "le short",
+       "en": "shorts",
+       "note": "singular: un short",
+       "g": "m"
+      },
+      {
+       "fr": "la veste",
+       "en": "the jacket",
+       "note": "faux ami: not a vest",
+       "g": "f"
+      },
+      {
+       "fr": "le manteau",
+       "en": "the coat",
+       "note": "-eau → masculine",
+       "g": "m"
+      },
+      {
+       "fr": "le costume",
+       "en": "the suit",
+       "ex": "un costume pour un entretien",
+       "note": "faux ami: not a costume",
+       "g": "m"
+      },
+      {
+       "fr": "la cravate",
+       "en": "the tie",
+       "g": "f"
+      },
+      {
+       "fr": "les chaussures",
+       "en": "shoes",
+       "ex": "Enlevez vos chaussures.",
+       "note": "une chaussure",
+       "g": "f"
+      },
+      {
+       "fr": "les chaussettes",
+       "en": "socks",
+       "note": "une chaussette",
+       "g": "f"
+      },
+      {
+       "fr": "les bottes",
+       "en": "boots",
+       "note": "une botte",
+       "g": "f"
+      },
+      {
+       "fr": "le chapeau",
+       "en": "the hat",
+       "g": "m"
+      },
+      {
+       "fr": "la casquette",
+       "en": "the cap",
+       "g": "f"
+      },
+      {
+       "fr": "l'écharpe",
+       "en": "the scarf",
+       "note": "une écharpe",
+       "g": "f"
+      },
+      {
+       "fr": "les gants",
+       "en": "gloves",
+       "note": "un gant",
+       "g": "m"
+      },
+      {
+       "fr": "la ceinture",
+       "en": "the belt",
+       "g": "f"
+      },
+      {
+       "fr": "le sac à main",
+       "en": "the handbag",
+       "g": "m"
+      },
+      {
+       "fr": "la montre",
+       "en": "the watch",
+       "g": "f"
+      },
+      {
+       "fr": "les lunettes",
+       "en": "glasses",
+       "note": "always plural · feminine",
+       "g": "f"
+      },
+      {
+       "fr": "porter",
+       "en": "to wear / to carry",
+       "ex": "Il porte une chemise blanche."
+      },
+      {
+       "fr": "s'habiller",
+       "en": "to get dressed",
+       "ex": "Je m'habille vite le matin."
+      }
+     ]
+    },
+    {
+     "title": "🐾 Animals",
+     "items": [
+      {
+       "fr": "l'animal",
+       "en": "the animal",
+       "note": "plural: les animaux",
+       "g": "m"
+      },
+      {
+       "fr": "le chien",
+       "en": "the dog",
+       "g": "m"
+      },
+      {
+       "fr": "le chat",
+       "en": "the cat",
+       "g": "m"
+      },
+      {
+       "fr": "l'oiseau",
+       "en": "the bird",
+       "note": "masculine · plural: les oiseaux",
+       "g": "m"
+      },
+      {
+       "fr": "le cheval",
+       "en": "the horse",
+       "note": "plural: les chevaux",
+       "g": "m"
+      },
+      {
+       "fr": "la vache",
+       "en": "the cow",
+       "g": "f"
+      },
+      {
+       "fr": "la poule",
+       "en": "the hen",
+       "g": "f"
+      },
+      {
+       "fr": "le mouton",
+       "en": "the sheep",
+       "g": "m"
+      },
+      {
+       "fr": "la souris",
+       "en": "the mouse",
+       "g": "f"
+      },
+      {
+       "fr": "le poisson",
+       "en": "the fish",
+       "g": "m"
+      }
+     ]
+    },
+    {
+     "title": "🔁 More everyday verbs",
+     "items": [
+      {
+       "fr": "aimer",
+       "en": "to like / love",
+       "ex": "J'aime le football."
+      },
+      {
+       "fr": "préférer",
+       "en": "to prefer",
+       "ex": "Je préfère le thé."
+      },
+      {
+       "fr": "commencer",
+       "en": "to start",
+       "ex": "Le cours commence à 9 h."
+      },
+      {
+       "fr": "finir",
+       "en": "to finish",
+       "ex": "Je finis à 17 h."
+      },
+      {
+       "fr": "ouvrir",
+       "en": "to open",
+       "ex": "Le magasin ouvre à 8 h."
+      },
+      {
+       "fr": "fermer",
+       "en": "to close",
+       "ex": "Fermez la porte, s'il vous plaît."
+      },
+      {
+       "fr": "attendre",
+       "en": "to wait (for)",
+       "ex": "J'attends le bus.",
+       "note": "no \"for\": attendre le bus"
+      },
+      {
+       "fr": "chercher",
+       "en": "to look for",
+       "ex": "Je cherche un emploi.",
+       "note": "no \"for\" either"
+      },
+      {
+       "fr": "trouver",
+       "en": "to find"
+      },
+      {
+       "fr": "donner",
+       "en": "to give"
+      },
+      {
+       "fr": "écrire",
+       "en": "to write"
+      },
+      {
+       "fr": "lire",
+       "en": "to read",
+       "ex": "Je lis le journal."
+      },
+      {
+       "fr": "écouter",
+       "en": "to listen (to)",
+       "ex": "J'écoute la radio."
+      },
+      {
+       "fr": "regarder",
+       "en": "to watch / look at",
+       "ex": "Je regarde la télé."
+      },
+      {
+       "fr": "dormir",
+       "en": "to sleep"
+      },
+      {
+       "fr": "partir",
+       "en": "to leave"
+      },
+      {
+       "fr": "arriver",
+       "en": "to arrive"
+      },
+      {
+       "fr": "rester",
+       "en": "to stay",
+       "ex": "Je reste à la maison.",
+       "note": "faux ami: not \"to rest\" (se reposer)"
+      },
+      {
+       "fr": "sortir",
+       "en": "to go out"
+      },
+      {
+       "fr": "apprendre",
+       "en": "to learn",
+       "ex": "J'apprends le français."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gender",
+   "title": "Le / la — masculine & feminine",
+   "icon": "🚻",
+   "quiz": "words",
+   "tip": "Every French noun is **masculine** or **feminine** — even objects: *le livre* (m), *la table* (f). The gender decides the article (**le/la**, **un/une**), the adjectives (*petit/petite*) and the pronoun (*il/elle*). There's no logic to it you can rely on, so **always learn a noun with its article**: not *livre* but *le livre*. The good news: the **ending** of a noun often gives the gender away (see the lists below).",
+   "rules": [
+    "**le** = the (masculine) · **la** = the (feminine) · **l'** before a vowel or silent h — *both* genders: *l'avion* (m), *l'école* (f) · **les** = the (plural, both genders).",
+    "**un** = a (masculine) · **une** = a (feminine) · **des** = some (plural). Tip: with *l'* and *les* you can't hear the gender — check it with *un/une*: *un avion*, *une école*.",
+    "**Some** (partitive): **du** (m) · **de la** (f) · **de l'** (vowel) · **des** (plural): *du pain, de la viande, de l'eau, des fruits*. After a negative → **de**: *je n'ai pas **de** pain*.",
+    "**à / de + le** fuse: *à + le = **au***, *à + les = **aux***, *de + le = **du***, *de + les = **des***. So: *au cinéma*, *à la plage*, *à l'hôpital*, *le prix du billet*.",
+    "**My / your / his** follow the **noun**, not the owner: *mon frère, **ma** sœur, mes parents*. Before a feminine noun starting with a vowel use **mon**: *mon amie, mon école* (easier to say).",
+    "**Adjectives agree** with the noun: add **-e** for feminine, **-s** for plural: *un petit appartement → une petite maison → des petites maisons*. The -e often makes the last consonant **heard**: *petit* [pə-ti] → *petite* [pə-tit].",
+    "Gender is grammar, not biology: *la personne* (even a man), *le bébé* (even a girl), *la victime*, *le mannequin*.",
+    "**For the TCF:** one wrong gender won't stop anyone understanding you, but dozens of them lower your grammar mark in writing. In **speaking, never stop to fix a gender** — keep going. Fix genders in writing, in the proofread."
+   ],
+   "groups": [
+    {
+     "title": "The articles",
+     "items": [
+      {
+       "fr": "le",
+       "en": "the (masculine)",
+       "ex": "le livre, le travail"
+      },
+      {
+       "fr": "la",
+       "en": "the (feminine)",
+       "ex": "la table, la maison"
+      },
+      {
+       "fr": "l'",
+       "en": "the (before a vowel or h, m or f)",
+       "ex": "l'avion (m), l'école (f), l'hôpital (m)"
+      },
+      {
+       "fr": "les",
+       "en": "the (plural, m and f)",
+       "ex": "les livres, les maisons"
+      },
+      {
+       "fr": "un",
+       "en": "a / one (masculine)",
+       "ex": "un ami, un billet"
+      },
+      {
+       "fr": "une",
+       "en": "a / one (feminine)",
+       "ex": "une amie, une valise"
+      },
+      {
+       "fr": "des",
+       "en": "some (plural)",
+       "ex": "des amis, des valises"
+      },
+      {
+       "fr": "du",
+       "en": "some (masculine)",
+       "ex": "Je mange du pain."
+      },
+      {
+       "fr": "de la",
+       "en": "some (feminine)",
+       "ex": "Je bois de la limonade."
+      },
+      {
+       "fr": "de l'",
+       "en": "some (before a vowel)",
+       "ex": "Je bois de l'eau."
+      },
+      {
+       "fr": "au",
+       "en": "to/at the (à + le)",
+       "ex": "Je vais au travail."
+      },
+      {
+       "fr": "aux",
+       "en": "to/at the (à + les)",
+       "ex": "Je parle aux enfants."
+      }
+     ]
+    },
+    {
+     "title": "Endings that are usually masculine",
+     "items": [
+      {
+       "fr": "le voyage",
+       "en": "the trip",
+       "note": "-age → masculine (but la plage, la page, l'image, la cage)",
+       "g": "m"
+      },
+      {
+       "fr": "le fromage",
+       "en": "the cheese",
+       "note": "-age",
+       "g": "m"
+      },
+      {
+       "fr": "le gouvernement",
+       "en": "the government",
+       "note": "-ment → masculine",
+       "g": "m"
+      },
+      {
+       "fr": "l'appartement",
+       "en": "the flat / apartment",
+       "note": "-ment · un appartement",
+       "g": "m"
+      },
+      {
+       "fr": "le bateau",
+       "en": "the boat",
+       "note": "-eau → masculine (but l'eau and la peau are feminine)",
+       "g": "m"
+      },
+      {
+       "fr": "le bureau",
+       "en": "the office / desk",
+       "note": "-eau",
+       "g": "m"
+      },
+      {
+       "fr": "le tourisme",
+       "en": "tourism",
+       "note": "-isme → masculine",
+       "g": "m"
+      },
+      {
+       "fr": "le quartier",
+       "en": "the neighbourhood",
+       "note": "-ier → masculine",
+       "g": "m"
+      },
+      {
+       "fr": "le trottoir",
+       "en": "the pavement / sidewalk",
+       "note": "-oir → masculine",
+       "g": "m"
+      },
+      {
+       "fr": "le problème",
+       "en": "the problem",
+       "note": "-ème → masculine (Greek words): le système, le thème, le programme",
+       "g": "m"
+      },
+      {
+       "fr": "le journal",
+       "en": "the newspaper",
+       "note": "-al → masculine",
+       "g": "m"
+      },
+      {
+       "fr": "le billet",
+       "en": "the ticket",
+       "note": "-et → masculine",
+       "g": "m"
+      }
+     ]
+    },
+    {
+     "title": "Endings that are usually feminine",
+     "items": [
+      {
+       "fr": "la question",
+       "en": "the question",
+       "note": "-tion → feminine",
+       "g": "f"
+      },
+      {
+       "fr": "la décision",
+       "en": "the decision",
+       "note": "-sion → feminine",
+       "g": "f"
+      },
+      {
+       "fr": "la santé",
+       "en": "health",
+       "note": "-té → feminine (but l'été, le côté are masculine)",
+       "g": "f"
+      },
+      {
+       "fr": "la liberté",
+       "en": "freedom",
+       "note": "-té",
+       "g": "f"
+      },
+      {
+       "fr": "la voiture",
+       "en": "the car",
+       "note": "-ure → feminine",
+       "g": "f"
+      },
+      {
+       "fr": "la culture",
+       "en": "culture",
+       "note": "-ure",
+       "g": "f"
+      },
+      {
+       "fr": "la baguette",
+       "en": "the baguette",
+       "note": "-ette → feminine",
+       "g": "f"
+      },
+      {
+       "fr": "la différence",
+       "en": "the difference",
+       "note": "-ence → feminine (but le silence)",
+       "g": "f"
+      },
+      {
+       "fr": "la chance",
+       "en": "luck",
+       "note": "-ance → feminine",
+       "g": "f"
+      },
+      {
+       "fr": "la pharmacie",
+       "en": "the pharmacy",
+       "note": "-ie → feminine (but le parapluie, l'incendie)",
+       "g": "f"
+      },
+      {
+       "fr": "l'habitude",
+       "en": "the habit",
+       "note": "-ude → feminine · une habitude",
+       "g": "f"
+      },
+      {
+       "fr": "la journée",
+       "en": "the (whole) day",
+       "note": "-ée → feminine (but le musée, le lycée)",
+       "g": "f"
+      },
+      {
+       "fr": "l'idée",
+       "en": "the idea",
+       "note": "-ée · une idée",
+       "g": "f"
+      },
+      {
+       "fr": "la couleur",
+       "en": "the colour",
+       "note": "-eur: feelings/qualities are feminine (la peur, la chaleur); machines/people masculine (l'ordinateur, le chanteur)",
+       "g": "f"
+      }
+     ]
+    },
+    {
+     "title": "Exceptions worth memorising",
+     "items": [
+      {
+       "fr": "la plage",
+       "en": "the beach",
+       "note": "-age but feminine",
+       "g": "f"
+      },
+      {
+       "fr": "la page",
+       "en": "the page",
+       "note": "-age but feminine",
+       "g": "f"
+      },
+      {
+       "fr": "l'image",
+       "en": "the picture / image",
+       "note": "feminine · une image",
+       "g": "f"
+      },
+      {
+       "fr": "l'eau",
+       "en": "water",
+       "note": "feminine · de l'eau fraîche",
+       "g": "f"
+      },
+      {
+       "fr": "le musée",
+       "en": "the museum",
+       "note": "-ée but masculine",
+       "g": "m"
+      },
+      {
+       "fr": "le lycée",
+       "en": "the high school",
+       "note": "-ée but masculine",
+       "g": "m"
+      },
+      {
+       "fr": "le silence",
+       "en": "silence",
+       "note": "-ence but masculine",
+       "g": "m"
+      },
+      {
+       "fr": "l'été",
+       "en": "summer",
+       "note": "masculine · un été chaud",
+       "g": "m"
+      },
+      {
+       "fr": "la main",
+       "en": "the hand",
+       "note": "feminine",
+       "g": "f"
+      },
+      {
+       "fr": "la fin",
+       "en": "the end",
+       "note": "feminine",
+       "g": "f"
+      },
+      {
+       "fr": "la photo",
+       "en": "the photo",
+       "note": "feminine (short for la photographie)",
+       "g": "f"
+      },
+      {
+       "fr": "la radio",
+       "en": "the radio",
+       "note": "feminine",
+       "g": "f"
+      },
+      {
+       "fr": "la personne",
+       "en": "the person",
+       "note": "always feminine, even for a man",
+       "g": "f"
+      },
+      {
+       "fr": "le système",
+       "en": "the system",
+       "note": "masculine despite the -e",
+       "g": "m"
+      }
+     ]
+    },
+    {
+     "title": "People: masculine → feminine",
+     "items": [
+      {
+       "fr": "un ami / une amie",
+       "en": "a friend",
+       "note": "add -e (spelling only — same sound)",
+       "fem": "une amie",
+       "say": "un ami, une amie"
+      },
+      {
+       "fr": "un étudiant / une étudiante",
+       "en": "a student",
+       "note": "add -e → the t is now pronounced",
+       "fem": "une étudiante",
+       "say": "un étudiant, une étudiante"
+      },
+      {
+       "fr": "un voisin / une voisine",
+       "en": "a neighbour",
+       "note": "-in → -ine (sound changes: nasal → \"een\")",
+       "fem": "une voisine",
+       "say": "un voisin, une voisine"
+      },
+      {
+       "fr": "un infirmier / une infirmière",
+       "en": "a nurse",
+       "note": "-ier → -ière",
+       "fem": "une infirmière",
+       "say": "un infirmier, une infirmière"
+      },
+      {
+       "fr": "un boulanger / une boulangère",
+       "en": "a baker",
+       "note": "-er → -ère",
+       "fem": "une boulangère",
+       "say": "un boulanger, une boulangère"
+      },
+      {
+       "fr": "un vendeur / une vendeuse",
+       "en": "a salesperson",
+       "note": "-eur → -euse",
+       "fem": "une vendeuse",
+       "say": "un vendeur, une vendeuse"
+      },
+      {
+       "fr": "un acteur / une actrice",
+       "en": "an actor / actress",
+       "note": "-teur → -trice",
+       "fem": "une actrice",
+       "say": "un acteur, une actrice"
+      },
+      {
+       "fr": "un musicien / une musicienne",
+       "en": "a musician",
+       "note": "-ien → -ienne",
+       "fem": "une musicienne",
+       "say": "un musicien, une musicienne"
+      },
+      {
+       "fr": "un Canadien / une Canadienne",
+       "en": "a Canadian (person)",
+       "note": "-ien → -ienne · capital letter for the person",
+       "fem": "une Canadienne",
+       "say": "un Canadien, une Canadienne"
+      },
+      {
+       "fr": "un sportif / une sportive",
+       "en": "a sporty person",
+       "note": "-if → -ive",
+       "fem": "une sportive",
+       "say": "un sportif, une sportive"
+      },
+      {
+       "fr": "un homme / une femme",
+       "en": "a man / a woman",
+       "note": "different word",
+       "fem": "une femme",
+       "say": "un homme, une femme"
+      },
+      {
+       "fr": "un garçon / une fille",
+       "en": "a boy / a girl",
+       "note": "different word",
+       "fem": "une fille",
+       "say": "un garçon, une fille"
+      },
+      {
+       "fr": "le père / la mère",
+       "en": "the father / the mother",
+       "note": "different word",
+       "fem": "la mère",
+       "say": "le père, la mère"
+      },
+      {
+       "fr": "le mari / la femme",
+       "en": "the husband / the wife",
+       "note": "la femme = the woman AND the wife",
+       "fem": "la femme",
+       "say": "le mari, la femme"
+      }
+     ]
+    },
+    {
+     "title": "Same word for both (only the article changes)",
+     "items": [
+      {
+       "fr": "un / une élève",
+       "en": "a pupil",
+       "ex": "C'est une bonne élève."
+      },
+      {
+       "fr": "un / une collègue",
+       "en": "a colleague",
+       "ex": "Ma collègue est sympa."
+      },
+      {
+       "fr": "un / une journaliste",
+       "en": "a journalist"
+      },
+      {
+       "fr": "un / une secrétaire",
+       "en": "a secretary"
+      },
+      {
+       "fr": "un / une enfant",
+       "en": "a child",
+       "ex": "Elle a un enfant de trois ans."
+      },
+      {
+       "fr": "un / une touriste",
+       "en": "a tourist"
+      },
+      {
+       "fr": "un / une artiste",
+       "en": "an artist"
+      },
+      {
+       "fr": "un / une médecin",
+       "en": "a doctor",
+       "ex": "Ma médecin est très gentille.",
+       "note": "\"une femme médecin\" is also common"
+      }
+     ]
+    },
+    {
+     "title": "Same word, different gender, different meaning",
+     "items": [
+      {
+       "fr": "le livre / la livre",
+       "en": "the book / the pound (money or weight)"
+      },
+      {
+       "fr": "le tour / la tour",
+       "en": "the turn, trip / the tower",
+       "ex": "la tour Eiffel"
+      },
+      {
+       "fr": "le poste / la poste",
+       "en": "the job, position / the post office",
+       "ex": "un poste d'infirmière · aller à la poste"
+      },
+      {
+       "fr": "le mode / la mode",
+       "en": "the method, mode / fashion",
+       "ex": "le mode d'emploi · la mode"
+      },
+      {
+       "fr": "le mémoire / la mémoire",
+       "en": "the dissertation / memory"
+      },
+      {
+       "fr": "le manche / la manche",
+       "en": "the handle / the sleeve",
+       "ex": "la Manche = the English Channel"
+      }
+     ]
+    },
+    {
+     "title": "Adjectives agree too",
+     "items": [
+      {
+       "fr": "petit / petite",
+       "en": "small",
+       "note": "add -e → the t is heard",
+       "fem": "petite",
+       "say": "petit, petite"
+      },
+      {
+       "fr": "grand / grande",
+       "en": "big / tall",
+       "note": "add -e → the d is heard",
+       "fem": "grande",
+       "say": "grand, grande"
+      },
+      {
+       "fr": "content / contente",
+       "en": "happy / pleased",
+       "fem": "contente",
+       "say": "content, contente"
+      },
+      {
+       "fr": "heureux / heureuse",
+       "en": "happy",
+       "note": "-eux → -euse",
+       "fem": "heureuse",
+       "say": "heureux, heureuse"
+      },
+      {
+       "fr": "sportif / sportive",
+       "en": "sporty",
+       "note": "-if → -ive",
+       "fem": "sportive",
+       "say": "sportif, sportive"
+      },
+      {
+       "fr": "cher / chère",
+       "en": "expensive / dear",
+       "note": "-er → -ère",
+       "fem": "chère",
+       "say": "cher, chère"
+      },
+      {
+       "fr": "canadien / canadienne",
+       "en": "Canadian",
+       "note": "nationality adjectives: no capital",
+       "fem": "canadienne",
+       "say": "canadien, canadienne"
+      },
+      {
+       "fr": "blanc / blanche",
+       "en": "white",
+       "note": "irregular",
+       "fem": "blanche",
+       "say": "blanc, blanche"
+      },
+      {
+       "fr": "long / longue",
+       "en": "long",
+       "note": "irregular",
+       "fem": "longue",
+       "say": "long, longue"
+      },
+      {
+       "fr": "gentil / gentille",
+       "en": "kind",
+       "note": "-il → -ille",
+       "fem": "gentille",
+       "say": "gentil, gentille"
+      },
+      {
+       "fr": "beau / belle",
+       "en": "beautiful",
+       "note": "bel before a vowel: un bel appartement",
+       "fem": "belle",
+       "say": "beau, belle"
+      },
+      {
+       "fr": "nouveau / nouvelle",
+       "en": "new",
+       "note": "nouvel before a vowel: un nouvel ami",
+       "fem": "nouvelle",
+       "say": "nouveau, nouvelle"
+      },
+      {
+       "fr": "vieux / vieille",
+       "en": "old",
+       "note": "vieil before a vowel: un vieil homme",
+       "fem": "vieille",
+       "say": "vieux, vieille"
+      },
+      {
+       "fr": "facile",
+       "en": "easy",
+       "ex": "un exercice facile, une question facile",
+       "note": "already ends in -e: no change"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vocab",
+   "title": "Word bank",
+   "icon": "📚",
+   "quiz": "words",
+   "tip": "Themed everyday words, each **with its article** and a gender badge (**m.** / **f.**). The themes match what the TCF talks about: travel, town, work, home, health, family, paperwork. Hear each word, spell it, then drill: **Listen & choose**, **Dictation**, **Meaning** and **Le or la?**",
+   "rules": [
+    "Learn nouns **with the article**: *l'avion* is useless on its own — learn *un avion* (m).",
+    "**Canada:** breakfast is *le déjeuner*, lunch *le dîner*, dinner *le souper*. In France: *le petit-déjeuner, le déjeuner, le dîner*. Know both.",
+    "**Jobs:** no article after *être*: *Je suis infirmière* (not *une infirmière*). But *C'est une infirmière*.",
+    "**Countries:** *au* + masculine country (*au Canada, au Nigeria*), *en* + feminine (*en France, en Angleterre*), *aux* + plural (*aux États-Unis*)."
+   ],
+   "groups": [
+    {
+     "title": "✈️ Travel & transport",
+     "items": [
+      {
+       "fr": "le voyage",
+       "en": "the trip / journey",
+       "ex": "Bon voyage !",
+       "g": "m"
+      },
+      {
+       "fr": "voyager",
+       "en": "to travel",
+       "ex": "J'aime voyager en été."
+      },
+      {
+       "fr": "l'avion",
+       "en": "the plane",
+       "ex": "Je prends l'avion pour Montréal.",
+       "note": "un avion",
+       "g": "m"
+      },
+      {
+       "fr": "l'aéroport",
+       "en": "the airport",
+       "ex": "On se retrouve à l'aéroport.",
+       "note": "un aéroport",
+       "g": "m"
+      },
+      {
+       "fr": "le vol",
+       "en": "the flight",
+       "ex": "Le vol est en retard.",
+       "g": "m"
+      },
+      {
+       "fr": "le billet",
+       "en": "the ticket",
+       "ex": "J'ai acheté un billet aller-retour.",
+       "g": "m"
+      },
+      {
+       "fr": "la valise",
+       "en": "the suitcase",
+       "ex": "Ma valise est trop lourde.",
+       "g": "f"
+      },
+      {
+       "fr": "le train",
+       "en": "the train",
+       "ex": "Le train part à 8 h.",
+       "g": "m"
+      },
+      {
+       "fr": "le bus",
+       "en": "the bus",
+       "ex": "Je prends le bus tous les matins.",
+       "note": "Québec: l'autobus (m)",
+       "g": "m"
+      },
+      {
+       "fr": "le métro",
+       "en": "the subway / underground",
+       "g": "m"
+      },
+      {
+       "fr": "la voiture",
+       "en": "the car",
+       "ex": "Je vais au travail en voiture.",
+       "g": "f"
+      },
+      {
+       "fr": "le vélo",
+       "en": "the bike",
+       "ex": "Je vais au parc à vélo.",
+       "g": "m"
+      },
+      {
+       "fr": "l'hôtel",
+       "en": "the hotel",
+       "ex": "L'hôtel est près de la gare.",
+       "note": "un hôtel — silent h",
+       "g": "m"
+      },
+      {
+       "fr": "la réservation",
+       "en": "the booking / reservation",
+       "g": "f"
+      },
+      {
+       "fr": "le départ",
+       "en": "the departure",
+       "g": "m"
+      },
+      {
+       "fr": "l'arrivée",
+       "en": "the arrival",
+       "note": "une arrivée",
+       "g": "f"
+      },
+      {
+       "fr": "les vacances",
+       "en": "the holidays / vacation",
+       "ex": "Bonnes vacances !",
+       "note": "always plural, feminine",
+       "g": "f"
+      },
+      {
+       "fr": "la carte",
+       "en": "the map / the card",
+       "ex": "la carte de crédit",
+       "g": "f"
+      },
+      {
+       "fr": "à pied",
+       "en": "on foot",
+       "ex": "J'y vais à pied."
+      }
+     ]
+    },
+    {
+     "title": "🏙️ Places in town",
+     "items": [
+      {
+       "fr": "la ville",
+       "en": "the town / city",
+       "g": "f"
+      },
+      {
+       "fr": "le quartier",
+       "en": "the neighbourhood",
+       "ex": "J'habite dans un quartier calme.",
+       "g": "m"
+      },
+      {
+       "fr": "le centre-ville",
+       "en": "downtown / town centre",
+       "g": "m"
+      },
+      {
+       "fr": "la banque",
+       "en": "the bank",
+       "g": "f"
+      },
+      {
+       "fr": "la pharmacie",
+       "en": "the pharmacy",
+       "g": "f"
+      },
+      {
+       "fr": "la poste",
+       "en": "the post office",
+       "g": "f"
+      },
+      {
+       "fr": "le supermarché",
+       "en": "the supermarket",
+       "g": "m"
+      },
+      {
+       "fr": "le marché",
+       "en": "the market",
+       "ex": "Le marché est ouvert le samedi.",
+       "g": "m"
+      },
+      {
+       "fr": "la boulangerie",
+       "en": "the bakery",
+       "g": "f"
+      },
+      {
+       "fr": "le restaurant",
+       "en": "the restaurant",
+       "g": "m"
+      },
+      {
+       "fr": "le parc",
+       "en": "the park",
+       "g": "m"
+      },
+      {
+       "fr": "la bibliothèque",
+       "en": "the library",
+       "ex": "Je lis à la bibliothèque.",
+       "note": "faux ami: a bookshop is la librairie",
+       "g": "f"
+      },
+      {
+       "fr": "le musée",
+       "en": "the museum",
+       "note": "masculine despite -ée",
+       "g": "m"
+      },
+      {
+       "fr": "le cinéma",
+       "en": "the cinema / movie theatre",
+       "g": "m"
+      },
+      {
+       "fr": "l'église",
+       "en": "the church",
+       "note": "une église",
+       "g": "f"
+      },
+      {
+       "fr": "la mairie",
+       "en": "the town hall",
+       "g": "f"
+      },
+      {
+       "fr": "la place",
+       "en": "the square / the seat, space",
+       "ex": "Il reste une place ?",
+       "g": "f"
+      },
+      {
+       "fr": "la plage",
+       "en": "the beach",
+       "note": "feminine despite -age",
+       "g": "f"
+      },
+      {
+       "fr": "l'université",
+       "en": "the university",
+       "note": "une université",
+       "g": "f"
+      },
+      {
+       "fr": "le centre commercial",
+       "en": "the shopping centre / mall",
+       "g": "m"
+      }
+     ]
+    },
+    {
+     "title": "🌍 Countries",
+     "items": [
+      {
+       "fr": "le Canada",
+       "en": "Canada",
+       "ex": "J'habite au Canada.",
+       "note": "au Canada",
+       "g": "m"
+      },
+      {
+       "fr": "le Nigeria",
+       "en": "Nigeria",
+       "ex": "Je viens du Nigeria.",
+       "note": "au Nigeria · du Nigeria",
+       "g": "m"
+      },
+      {
+       "fr": "le Québec",
+       "en": "Quebec (province)",
+       "ex": "Il travaille au Québec.",
+       "note": "au Québec",
+       "g": "m"
+      },
+      {
+       "fr": "la France",
+       "en": "France",
+       "ex": "Elle vit en France.",
+       "note": "en France",
+       "g": "f"
+      },
+      {
+       "fr": "la Belgique",
+       "en": "Belgium",
+       "note": "en Belgique",
+       "g": "f"
+      },
+      {
+       "fr": "la Suisse",
+       "en": "Switzerland",
+       "note": "en Suisse",
+       "g": "f"
+      },
+      {
+       "fr": "l'Angleterre",
+       "en": "England",
+       "ex": "Il est parti en Angleterre.",
+       "note": "en Angleterre · feminine",
+       "g": "f"
+      },
+      {
+       "fr": "les États-Unis",
+       "en": "the United States",
+       "ex": "Mon frère vit aux États-Unis.",
+       "note": "aux États-Unis · masculine plural",
+       "g": "m"
+      },
+      {
+       "fr": "le Sénégal",
+       "en": "Senegal",
+       "note": "au Sénégal",
+       "g": "m"
+      },
+      {
+       "fr": "le Maroc",
+       "en": "Morocco",
+       "note": "au Maroc",
+       "g": "m"
+      },
+      {
+       "fr": "le Ghana",
+       "en": "Ghana",
+       "note": "au Ghana",
+       "g": "m"
+      },
+      {
+       "fr": "l'Afrique",
+       "en": "Africa",
+       "note": "en Afrique · feminine",
+       "g": "f"
+      }
+     ]
+    },
+    {
+     "title": "🗣️ Languages & nationalities",
+     "items": [
+      {
+       "fr": "le français",
+       "en": "French (language)",
+       "ex": "Je parle français.",
+       "note": "languages are masculine, no capital",
+       "g": "m"
+      },
+      {
+       "fr": "l'anglais",
+       "en": "English (language)",
+       "ex": "Elle parle anglais et français.",
+       "note": "un anglais parfait",
+       "g": "m"
+      },
+      {
+       "fr": "l'espagnol",
+       "en": "Spanish",
+       "note": "masculine",
+       "g": "m"
+      },
+      {
+       "fr": "l'arabe",
+       "en": "Arabic",
+       "note": "masculine",
+       "g": "m"
+      },
+      {
+       "fr": "le yoruba",
+       "en": "Yoruba",
+       "g": "m"
+      },
+      {
+       "fr": "l'igbo",
+       "en": "Igbo",
+       "note": "masculine",
+       "g": "m"
+      },
+      {
+       "fr": "le haoussa",
+       "en": "Hausa",
+       "g": "m"
+      },
+      {
+       "fr": "la langue",
+       "en": "the language",
+       "ex": "Le français est ma troisième langue.",
+       "g": "f"
+      },
+      {
+       "fr": "canadien / canadienne",
+       "en": "Canadian",
+       "note": "adjective: no capital · the person: un Canadien",
+       "fem": "canadienne",
+       "say": "canadien, canadienne"
+      },
+      {
+       "fr": "nigérian / nigériane",
+       "en": "Nigerian",
+       "note": "nigérien = from Niger — different country!",
+       "fem": "nigériane",
+       "say": "nigérian, nigériane"
+      },
+      {
+       "fr": "français / française",
+       "en": "French",
+       "fem": "française",
+       "say": "français, française"
+      },
+      {
+       "fr": "anglais / anglaise",
+       "en": "English",
+       "fem": "anglaise",
+       "say": "anglais, anglaise"
+      },
+      {
+       "fr": "américain / américaine",
+       "en": "American",
+       "fem": "américaine",
+       "say": "américain, américaine"
+      },
+      {
+       "fr": "sénégalais / sénégalaise",
+       "en": "Senegalese",
+       "fem": "sénégalaise",
+       "say": "sénégalais, sénégalaise"
+      },
+      {
+       "fr": "bilingue",
+       "en": "bilingual",
+       "ex": "Le poste demande une personne bilingue.",
+       "note": "same for m and f"
+      }
+     ]
+    },
+    {
+     "title": "💼 Work & jobs",
+     "items": [
+      {
+       "fr": "le travail",
+       "en": "work / job",
+       "ex": "Je vais au travail à 8 h.",
+       "g": "m"
+      },
+      {
+       "fr": "le métier",
+       "en": "the trade / occupation",
+       "ex": "Quel est votre métier ?",
+       "g": "m"
+      },
+      {
+       "fr": "l'emploi",
+       "en": "the job / employment",
+       "ex": "Je cherche un emploi.",
+       "note": "un emploi",
+       "g": "m"
+      },
+      {
+       "fr": "le poste",
+       "en": "the position / post",
+       "ex": "un poste d'infirmière",
+       "g": "m"
+      },
+      {
+       "fr": "le salaire",
+       "en": "the salary",
+       "g": "m"
+      },
+      {
+       "fr": "l'entreprise",
+       "en": "the company / business",
+       "note": "une entreprise",
+       "g": "f"
+      },
+      {
+       "fr": "le patron / la patronne",
+       "en": "the boss"
+      },
+      {
+       "fr": "le médecin / la médecin",
+       "en": "the doctor",
+       "note": "la médecin is now common; also \"une femme médecin\"",
+       "fem": "la médecin",
+       "say": "le médecin, la médecin"
+      },
+      {
+       "fr": "l'infirmier / l'infirmière",
+       "en": "the nurse",
+       "note": "un infirmier / une infirmière",
+       "fem": "l'infirmière",
+       "say": "l'infirmier, l'infirmière"
+      },
+      {
+       "fr": "l'ingénieur / l'ingénieure",
+       "en": "the engineer",
+       "note": "Canada writes l'ingénieure",
+       "fem": "l'ingénieure",
+       "say": "l'ingénieur, l'ingénieure"
+      },
+      {
+       "fr": "le professeur / la professeure",
+       "en": "the teacher",
+       "note": "informal: le/la prof",
+       "fem": "la professeure",
+       "say": "le professeur, la professeure"
+      },
+      {
+       "fr": "l'avocat / l'avocate",
+       "en": "the lawyer",
+       "note": "also: l'avocat = avocado!",
+       "fem": "l'avocate",
+       "say": "l'avocat, l'avocate"
+      },
+      {
+       "fr": "le comptable / la comptable",
+       "en": "the accountant",
+       "note": "same spelling",
+       "fem": "la comptable",
+       "say": "le comptable, la comptable"
+      },
+      {
+       "fr": "le vendeur / la vendeuse",
+       "en": "the salesperson",
+       "fem": "la vendeuse",
+       "say": "le vendeur, la vendeuse"
+      },
+      {
+       "fr": "le cuisinier / la cuisinière",
+       "en": "the cook",
+       "note": "la cuisinière is also the cooker/stove",
+       "fem": "la cuisinière",
+       "say": "le cuisinier, la cuisinière"
+      },
+      {
+       "fr": "le serveur / la serveuse",
+       "en": "the waiter / waitress",
+       "fem": "la serveuse",
+       "say": "le serveur, la serveuse"
+      },
+      {
+       "fr": "le conducteur / la conductrice",
+       "en": "the driver",
+       "fem": "la conductrice",
+       "say": "le conducteur, la conductrice"
+      },
+      {
+       "fr": "le pharmacien / la pharmacienne",
+       "en": "the pharmacist",
+       "fem": "la pharmacienne",
+       "say": "le pharmacien, la pharmacienne"
+      },
+      {
+       "fr": "le policier / la policière",
+       "en": "the police officer",
+       "fem": "la policière",
+       "say": "le policier, la policière"
+      },
+      {
+       "fr": "l'informaticien / l'informaticienne",
+       "en": "the IT specialist",
+       "fem": "l'informaticienne",
+       "say": "l'informaticien, l'informaticienne"
+      }
+     ]
+    },
+    {
+     "title": "🏠 Home",
+     "items": [
+      {
+       "fr": "la maison",
+       "en": "the house / home",
+       "g": "f"
+      },
+      {
+       "fr": "l'appartement",
+       "en": "the flat / apartment",
+       "note": "un appartement",
+       "g": "m"
+      },
+      {
+       "fr": "la chambre",
+       "en": "the bedroom",
+       "ex": "Ma chambre donne sur le parc.",
+       "g": "f"
+      },
+      {
+       "fr": "la cuisine",
+       "en": "the kitchen / cooking",
+       "g": "f"
+      },
+      {
+       "fr": "la salle de bain",
+       "en": "the bathroom",
+       "g": "f"
+      },
+      {
+       "fr": "le salon",
+       "en": "the living room",
+       "g": "m"
+      },
+      {
+       "fr": "la porte",
+       "en": "the door",
+       "g": "f"
+      },
+      {
+       "fr": "la fenêtre",
+       "en": "the window",
+       "g": "f"
+      },
+      {
+       "fr": "la table",
+       "en": "the table",
+       "g": "f"
+      },
+      {
+       "fr": "la chaise",
+       "en": "the chair",
+       "g": "f"
+      },
+      {
+       "fr": "le lit",
+       "en": "the bed",
+       "g": "m"
+      },
+      {
+       "fr": "le frigo",
+       "en": "the fridge",
+       "note": "short for le réfrigérateur",
+       "g": "m"
+      },
+      {
+       "fr": "la clé",
+       "en": "the key",
+       "g": "f"
+      },
+      {
+       "fr": "le loyer",
+       "en": "the rent",
+       "ex": "Le loyer est de 1 200 $ par mois.",
+       "g": "m"
+      },
+      {
+       "fr": "l'escalier",
+       "en": "the stairs",
+       "note": "un escalier",
+       "g": "m"
+      },
+      {
+       "fr": "l'ascenseur",
+       "en": "the lift / elevator",
+       "note": "un ascenseur",
+       "g": "m"
+      }
+     ]
+    },
+    {
+     "title": "🍽️ Food & drink",
+     "items": [
+      {
+       "fr": "le petit-déjeuner",
+       "en": "breakfast (France)",
+       "note": "Québec: le déjeuner",
+       "g": "m"
+      },
+      {
+       "fr": "le déjeuner",
+       "en": "lunch (France) / breakfast (Québec)",
+       "g": "m"
+      },
+      {
+       "fr": "le dîner",
+       "en": "dinner (France) / lunch (Québec)",
+       "g": "m"
+      },
+      {
+       "fr": "le repas",
+       "en": "the meal",
+       "g": "m"
+      },
+      {
+       "fr": "le riz",
+       "en": "rice",
+       "g": "m"
+      },
+      {
+       "fr": "la viande",
+       "en": "meat",
+       "g": "f"
+      },
+      {
+       "fr": "le poulet",
+       "en": "chicken",
+       "g": "m"
+      },
+      {
+       "fr": "le poisson",
+       "en": "fish",
+       "g": "m"
+      },
+      {
+       "fr": "les légumes",
+       "en": "vegetables",
+       "note": "masculine: un légume",
+       "g": "m"
+      },
+      {
+       "fr": "les fruits",
+       "en": "fruit",
+       "note": "masculine: un fruit",
+       "g": "m"
+      },
+      {
+       "fr": "la pomme",
+       "en": "the apple",
+       "note": "la pomme de terre = the potato",
+       "g": "f"
+      },
+      {
+       "fr": "l'œuf",
+       "en": "the egg",
+       "note": "un œuf · les œufs (the f goes silent)",
+       "g": "m"
+      },
+      {
+       "fr": "le fromage",
+       "en": "cheese",
+       "g": "m"
+      },
+      {
+       "fr": "le lait",
+       "en": "milk",
+       "g": "m"
+      },
+      {
+       "fr": "le café",
+       "en": "coffee / café",
+       "g": "m"
+      },
+      {
+       "fr": "le thé",
+       "en": "tea",
+       "g": "m"
+      },
+      {
+       "fr": "le jus",
+       "en": "juice",
+       "ex": "un jus d'orange",
+       "g": "m"
+      },
+      {
+       "fr": "le sucre",
+       "en": "sugar",
+       "g": "m"
+      },
+      {
+       "fr": "le sel",
+       "en": "salt",
+       "g": "m"
+      },
+      {
+       "fr": "l'eau",
+       "en": "water",
+       "ex": "Une bouteille d'eau, s'il vous plaît.",
+       "note": "feminine: une eau minérale",
+       "g": "f"
+      }
+     ]
+    },
+    {
+     "title": "🩺 Body & health",
+     "items": [
+      {
+       "fr": "la tête",
+       "en": "the head",
+       "ex": "J'ai mal à la tête.",
+       "g": "f"
+      },
+      {
+       "fr": "le bras",
+       "en": "the arm",
+       "g": "m"
+      },
+      {
+       "fr": "la main",
+       "en": "the hand",
+       "g": "f"
+      },
+      {
+       "fr": "la jambe",
+       "en": "the leg",
+       "g": "f"
+      },
+      {
+       "fr": "le pied",
+       "en": "the foot",
+       "g": "m"
+      },
+      {
+       "fr": "le dos",
+       "en": "the back",
+       "ex": "J'ai mal au dos.",
+       "g": "m"
+      },
+      {
+       "fr": "le ventre",
+       "en": "the stomach / belly",
+       "ex": "J'ai mal au ventre.",
+       "g": "m"
+      },
+      {
+       "fr": "l'œil",
+       "en": "the eye",
+       "note": "un œil · plural: les yeux!",
+       "g": "m"
+      },
+      {
+       "fr": "la dent",
+       "en": "the tooth",
+       "g": "f"
+      },
+      {
+       "fr": "le cœur",
+       "en": "the heart",
+       "g": "m"
+      },
+      {
+       "fr": "la gorge",
+       "en": "the throat",
+       "ex": "J'ai mal à la gorge.",
+       "g": "f"
+      },
+      {
+       "fr": "le médicament",
+       "en": "the medicine / drug",
+       "g": "m"
+      },
+      {
+       "fr": "l'ordonnance",
+       "en": "the prescription",
+       "note": "une ordonnance · faux ami",
+       "g": "f"
+      },
+      {
+       "fr": "la douleur",
+       "en": "the pain",
+       "g": "f"
+      },
+      {
+       "fr": "la fièvre",
+       "en": "the fever",
+       "g": "f"
+      },
+      {
+       "fr": "le rhume",
+       "en": "the cold (illness)",
+       "g": "m"
+      },
+      {
+       "fr": "avoir mal à",
+       "en": "to have a pain in / to hurt",
+       "ex": "J'ai mal aux pieds.",
+       "note": "à + le = au, à + les = aux"
+      }
+     ]
+    },
+    {
+     "title": "👪 Family",
+     "items": [
+      {
+       "fr": "la famille",
+       "en": "the family",
+       "g": "f"
+      },
+      {
+       "fr": "les parents",
+       "en": "the parents / relatives",
+       "note": "masculine plural",
+       "g": "m"
+      },
+      {
+       "fr": "le frère",
+       "en": "the brother",
+       "g": "m"
+      },
+      {
+       "fr": "la sœur",
+       "en": "the sister",
+       "g": "f"
+      },
+      {
+       "fr": "le fils",
+       "en": "the son",
+       "note": "pronounced \"fiss\"",
+       "g": "m"
+      },
+      {
+       "fr": "la fille",
+       "en": "the daughter / girl",
+       "g": "f"
+      },
+      {
+       "fr": "le mari",
+       "en": "the husband",
+       "g": "m"
+      },
+      {
+       "fr": "la femme",
+       "en": "the wife / woman",
+       "g": "f"
+      },
+      {
+       "fr": "le grand-père",
+       "en": "the grandfather",
+       "g": "m"
+      },
+      {
+       "fr": "la grand-mère",
+       "en": "the grandmother",
+       "g": "f"
+      },
+      {
+       "fr": "l'oncle",
+       "en": "the uncle",
+       "note": "un oncle",
+       "g": "m"
+      },
+      {
+       "fr": "la tante",
+       "en": "the aunt",
+       "g": "f"
+      },
+      {
+       "fr": "le cousin / la cousine",
+       "en": "the cousin",
+       "fem": "la cousine",
+       "say": "le cousin, la cousine"
+      },
+      {
+       "fr": "le bébé",
+       "en": "the baby",
+       "note": "always masculine, even a girl",
+       "g": "m"
+      }
+     ]
+    },
+    {
+     "title": "🎨 Colours",
+     "items": [
+      {
+       "fr": "blanc / blanche",
+       "en": "white",
+       "fem": "blanche",
+       "say": "blanc, blanche"
+      },
+      {
+       "fr": "noir / noire",
+       "en": "black",
+       "fem": "noire",
+       "say": "noir, noire"
+      },
+      {
+       "fr": "rouge",
+       "en": "red",
+       "ex": "une robe rouge",
+       "note": "already -e: same for m and f"
+      },
+      {
+       "fr": "bleu / bleue",
+       "en": "blue",
+       "fem": "bleue",
+       "say": "bleu, bleue"
+      },
+      {
+       "fr": "vert / verte",
+       "en": "green",
+       "note": "add -e → the t is heard",
+       "fem": "verte",
+       "say": "vert, verte"
+      },
+      {
+       "fr": "jaune",
+       "en": "yellow",
+       "note": "same for m and f"
+      },
+      {
+       "fr": "gris / grise",
+       "en": "grey",
+       "fem": "grise",
+       "say": "gris, grise"
+      },
+      {
+       "fr": "marron",
+       "en": "brown",
+       "ex": "des chaussures marron",
+       "note": "never changes (invariable)"
+      },
+      {
+       "fr": "orange",
+       "en": "orange",
+       "ex": "des t-shirts orange",
+       "note": "never changes (invariable)"
+      },
+      {
+       "fr": "rose",
+       "en": "pink",
+       "note": "same for m and f"
+      },
+      {
+       "fr": "violet / violette",
+       "en": "purple",
+       "fem": "violette",
+       "say": "violet, violette"
+      }
+     ]
+    },
+    {
+     "title": "👕 Clothes",
+     "items": [
+      {
+       "fr": "le pantalon",
+       "en": "trousers / pants",
+       "note": "singular in French",
+       "g": "m"
+      },
+      {
+       "fr": "la chemise",
+       "en": "the shirt",
+       "g": "f"
+      },
+      {
+       "fr": "la robe",
+       "en": "the dress",
+       "g": "f"
+      },
+      {
+       "fr": "la jupe",
+       "en": "the skirt",
+       "g": "f"
+      },
+      {
+       "fr": "le manteau",
+       "en": "the coat",
+       "note": "-eau → masculine",
+       "g": "m"
+      },
+      {
+       "fr": "la veste",
+       "en": "the jacket",
+       "g": "f"
+      },
+      {
+       "fr": "le pull",
+       "en": "the jumper / sweater",
+       "g": "m"
+      },
+      {
+       "fr": "le t-shirt",
+       "en": "the T-shirt",
+       "g": "m"
+      },
+      {
+       "fr": "les chaussures",
+       "en": "shoes",
+       "note": "feminine: une chaussure",
+       "g": "f"
+      },
+      {
+       "fr": "les chaussettes",
+       "en": "socks",
+       "note": "feminine: une chaussette",
+       "g": "f"
+      },
+      {
+       "fr": "le chapeau",
+       "en": "the hat",
+       "g": "m"
+      },
+      {
+       "fr": "les bottes",
+       "en": "boots",
+       "ex": "Des bottes pour l'hiver canadien !",
+       "note": "feminine: une botte",
+       "g": "f"
+      },
+      {
+       "fr": "les lunettes",
+       "en": "glasses",
+       "note": "feminine, always plural",
+       "g": "f"
+      }
+     ]
+    },
+    {
+     "title": "☀️ Weather & time",
+     "items": [
+      {
+       "fr": "le temps",
+       "en": "the weather / time",
+       "ex": "Quel temps fait-il ?",
+       "g": "m"
+      },
+      {
+       "fr": "il fait beau",
+       "en": "it's nice weather"
+      },
+      {
+       "fr": "il fait chaud",
+       "en": "it's hot"
+      },
+      {
+       "fr": "il fait froid",
+       "en": "it's cold"
+      },
+      {
+       "fr": "il pleut",
+       "en": "it's raining"
+      },
+      {
+       "fr": "il neige",
+       "en": "it's snowing"
+      },
+      {
+       "fr": "le soleil",
+       "en": "the sun",
+       "g": "m"
+      },
+      {
+       "fr": "la pluie",
+       "en": "the rain",
+       "g": "f"
+      },
+      {
+       "fr": "la neige",
+       "en": "the snow",
+       "g": "f"
+      },
+      {
+       "fr": "le vent",
+       "en": "the wind",
+       "g": "m"
+      },
+      {
+       "fr": "aujourd'hui",
+       "en": "today"
+      },
+      {
+       "fr": "demain",
+       "en": "tomorrow"
+      },
+      {
+       "fr": "hier",
+       "en": "yesterday"
+      },
+      {
+       "fr": "le matin",
+       "en": "the morning",
+       "g": "m"
+      },
+      {
+       "fr": "l'après-midi",
+       "en": "the afternoon",
+       "note": "usually masculine",
+       "g": "m"
+      },
+      {
+       "fr": "le soir",
+       "en": "the evening",
+       "g": "m"
+      },
+      {
+       "fr": "la nuit",
+       "en": "the night",
+       "g": "f"
+      },
+      {
+       "fr": "la semaine",
+       "en": "the week",
+       "g": "f"
+      },
+      {
+       "fr": "l'année",
+       "en": "the year",
+       "ex": "Bonne année !",
+       "note": "feminine · l'an (m) with numbers: trente ans",
+       "g": "f"
+      },
+      {
+       "fr": "souvent",
+       "en": "often"
+      },
+      {
+       "fr": "parfois",
+       "en": "sometimes"
+      }
+     ]
+    },
+    {
+     "title": "📋 Paperwork & immigration",
+     "items": [
+      {
+       "fr": "le formulaire",
+       "en": "the form",
+       "ex": "Remplissez ce formulaire.",
+       "g": "m"
+      },
+      {
+       "fr": "la demande",
+       "en": "the application / request",
+       "ex": "une demande de résidence permanente",
+       "g": "f"
+      },
+      {
+       "fr": "le dossier",
+       "en": "the file / application file",
+       "g": "m"
+      },
+      {
+       "fr": "le permis de travail",
+       "en": "the work permit",
+       "g": "m"
+      },
+      {
+       "fr": "le visa",
+       "en": "the visa",
+       "g": "m"
+      },
+      {
+       "fr": "la pièce d'identité",
+       "en": "ID (document)",
+       "g": "f"
+      },
+      {
+       "fr": "le justificatif de domicile",
+       "en": "proof of address",
+       "g": "m"
+      },
+      {
+       "fr": "le compte bancaire",
+       "en": "the bank account",
+       "g": "m"
+      },
+      {
+       "fr": "l'assurance",
+       "en": "the insurance",
+       "ex": "l'assurance maladie",
+       "note": "une assurance",
+       "g": "f"
+      },
+      {
+       "fr": "l'impôt",
+       "en": "the tax",
+       "ex": "les impôts",
+       "note": "un impôt",
+       "g": "m"
+      },
+      {
+       "fr": "le diplôme",
+       "en": "the diploma / degree",
+       "g": "m"
+      },
+      {
+       "fr": "le CV",
+       "en": "the CV / résumé",
+       "g": "m"
+      },
+      {
+       "fr": "l'entretien",
+       "en": "the (job) interview",
+       "ex": "un entretien d'embauche",
+       "note": "un entretien",
+       "g": "m"
+      },
+      {
+       "fr": "le rendez-vous",
+       "en": "the appointment",
+       "g": "m"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

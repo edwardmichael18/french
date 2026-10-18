@@ -1,0 +1,43 @@
+{
+  "w": 13,
+  "title": "Abstract topics · first full mock · GATE 3",
+  "level": "B1+",
+  "gate": 3,
+  "objective": "Pre-form your opinions: the theme protocol. Then the first full (untimed) mock — Gate 3.",
+  "tasks": [
+    "Theme protocol for: health systems, education, environment, work, technology, media",
+    "Full untimed mock (Mock A)",
+    "Gate 3 wellbeing check"
+  ],
+  "resources": ["tv5monde", "rfi", "fei", "lemonde"],
+  "steps": [
+    { "kind": "chunk", "title": "The theme protocol — the highest-yield exam prep you'll do",
+      "body": "Per theme: **10 nouns · 5 verbs · 3 set expressions · 2 arguments on each side**.\nAnd the part that makes it work: **write the four arguments as complete sentences and learn them.**" },
+    { "kind": "chunk", "title": "Why pre-formed opinions",
+      "body": "At B1 under pressure you cannot *generate* argument structure live — only **retrieve** it.\nCandidates run out of things to say not from lacking vocabulary but from **having no pre-formed opinion**." },
+    { "kind": "explain", "prompt": "Why does learning four full-sentence arguments per theme beat learning 40 extra words?",
+      "model": "Under exam pressure you can retrieve but not construct. Ready sentences give you content AND structure; loose words give neither." },
+    { "kind": "chunk", "title": "Example — la santé",
+      "body": "**Pour** un système public : *Un système public garantit que tout le monde puisse se soigner, quels que soient ses revenus.* · *La prévention coûte moins cher que les soins d'urgence.*\n**Contre** / limites : *Les délais d'attente sont souvent très longs.* · *Le financement public pèse lourdement sur les impôts.*\nSee the 16 themes page for all of them." },
+    { "kind": "produce", "mode": "write", "title": "Your turn — l'environnement",
+      "task": "Write the four arguments (2 for, 2 against) as complete sentences on: *Faut-il interdire les voitures dans le centre des villes ?*",
+      "prompt": "Faut-il interdire les voitures dans le centre des villes ? 2 arguments pour, 2 contre.",
+      "model": "Pour : 1) Moins de voitures signifie moins de pollution et une meilleure santé pour les habitants. 2) Les rues deviennent plus sûres et plus agréables pour les piétons et les cyclistes.\nContre : 1) Les personnes âgées ou handicapées ont besoin de leur voiture pour se déplacer. 2) Les commerçants du centre risquent de perdre des clients.",
+      "min": 50, "max": 120 },
+    { "kind": "produce", "mode": "speak", "title": "3 minutes, UNPREPARED",
+      "task": "No preparation. Start speaking immediately after reading the question. Use the monologue shape and your pre-formed arguments.",
+      "prompt": "Le télétravail : une bonne chose pour tout le monde ?", "seconds": 180 },
+    { "kind": "chunk", "title": "Gate 3 — this week",
+      "body": "Pass: **CO ≥ 400 and CE ≥ 400** on a TCF sample · a 180-word piece at **~9/20** · **3 minutes unprepared**.\n**If only production misses: normal — Block C fixes it. If comprehension misses: move to April** (the slower of the two to repair).\nThe mock is **untimed** on purpose — you're measuring language, not speed." },
+    { "kind": "recap", "points": [
+      "10 nouns · 5 verbs · 3 expressions · 2 arguments each side — as full sentences",
+      "You retrieve under pressure; you don't generate",
+      "Gate 3: CO/CE ≥ 400, 180 words ≈ 9/20, 3 min unprepared"
+    ] },
+    { "kind": "spiral", "title": "Weeks 10–12", "items": [
+      { "type": "mcq", "q": "On m'a dit ___ attendre ici.", "options": ["d'", "que", "à"], "answer": 0 },
+      { "type": "mcq", "q": "Le rapport ___ publié demain.", "options": ["sera", "aura"], "answer": 0 },
+      { "type": "mcq", "q": "J'ai appris l'anglais ___ regardant des films.", "options": ["en", "par", "pour"], "answer": 0 }
+    ] }
+  ]
+}

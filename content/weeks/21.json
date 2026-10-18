@@ -1,0 +1,23 @@
+{
+  "w": 21,
+  "title": "Taper — then sit the exam",
+  "level": "B2",
+  "objective": "2 hours/day. Light listening and speaking, error-log read-through. Rest Thursday. Sit TCF Canada Friday 12 February 2027.",
+  "tasks": [
+    "Light listening + one short speaking session daily",
+    "Read the error log top ten once a day",
+    "Rest Thursday — nothing",
+    "Pack: passport (name must match registration), convocation, water"
+  ],
+  "resources": ["rfi"],
+  "steps": [
+    { "kind": "chunk", "title": "Taper",
+      "body": "You can't add a level this week — you can only lose one by arriving tired. Light input, short speaking, read the error log. **Rest Thursday.**" },
+    { "kind": "chunk", "title": "Exam-day checklist",
+      "body": "Passport (name exactly as registered) · convocation · arrive early · water.\nOrder: CO 35 min → CE 60 min → EE 60 min → EO 12 min.\nNever leave a blank in CO/CE. In EO: keep talking, fillers, never stop for a gender." },
+    { "kind": "produce", "mode": "speak", "title": "Warm-up (the morning of)",
+      "task": "Two minutes: your ten question frames, then one 1-minute opinion. Just to wake the mouth up.",
+      "prompt": "Warm-up: 10 questions + « Qu'est-ce qui vous motive dans votre travail ? »", "seconds": 180, "noFeedback": true },
+    { "kind": "recap", "points": ["Taper", "Rest Thursday", "Friday: sit TCF Canada", "Then stop. Put the hours back into the income engine for a while."] }
+  ]
+}

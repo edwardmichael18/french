@@ -1,0 +1,364 @@
+{
+  "start": "2026-09-21",
+  "exam": "2027-02-12",
+  "thresholds": {
+    "co": 458,
+    "ce": 453,
+    "ee": 10,
+    "eo": 10
+  },
+  "blocks": [
+    {
+      "id": "A",
+      "name": "Foundation",
+      "weeks": "1–4",
+      "load": "2.5 hrs/day",
+      "purpose": "Compressed, not skipped. Phonetics and core grammar."
+    },
+    {
+      "id": "B",
+      "name": "Main lift",
+      "weeks": "5–13",
+      "load": "5–6 hrs/day",
+      "purpose": "A2 → B1+. Tutor 5×/week, writing marked 3×/week."
+    },
+    {
+      "id": "C",
+      "name": "Exam conversion",
+      "weeks": "14–18",
+      "load": "5–6 hrs/day",
+      "purpose": "Timed sections, TCF task formats, error repair."
+    },
+    {
+      "id": "D",
+      "name": "Mocks and taper",
+      "weeks": "19–21",
+      "load": "4 hrs/day",
+      "purpose": "Full mocks, then taper into 12 Feb."
+    }
+  ],
+  "weeks": [
+    {
+      "w": 1,
+      "from": "21 Sep",
+      "hrs": "2.5",
+      "vocab": 250,
+      "focus": "**Phonetics only.** Nasal vowels, *tu* vs *tout*, the R. Shadow daily. No grammar. **Book one 30-min tutor session as an assessment.**"
+    },
+    {
+      "w": 2,
+      "from": "28 Sep",
+      "hrs": "2.5",
+      "vocab": 500,
+      "focus": "Phonetics + liaison/elision. Present tense, être/avoir, articles, gender. Anki properly."
+    },
+    {
+      "w": 3,
+      "from": "5 Oct",
+      "hrs": "2.5",
+      "vocab": 700,
+      "focus": "Regular -er/-ir/-re, negation, questions. Tutor 2×/week. Question-formation drills."
+    },
+    {
+      "w": 4,
+      "from": "12 Oct",
+      "hrs": "2.5",
+      "vocab": 900,
+      "focus": "Passé composé. Everyday vocabulary.",
+      "gate": 1
+    },
+    {
+      "w": 5,
+      "from": "19 Oct",
+      "hrs": "5",
+      "vocab": 1100,
+      "focus": "**Start registration watch** (2027 calendars publish Nov–Dec). Tutor to 5×/week. Imparfait + PC/imparfait contrast."
+    },
+    {
+      "w": 6,
+      "from": "26 Oct",
+      "hrs": "5",
+      "vocab": 1300,
+      "focus": "Futur proche/simple. Object pronouns. Writing 3×/week, marked."
+    },
+    {
+      "w": 7,
+      "from": "2 Nov",
+      "hrs": "5–6",
+      "vocab": 1500,
+      "focus": "Subjonctif présent. *Journal en français facile*."
+    },
+    {
+      "w": 8,
+      "from": "9 Nov",
+      "hrs": "5–6",
+      "vocab": 1750,
+      "focus": "Relative pronouns. Opinion and argument language."
+    },
+    {
+      "w": 9,
+      "from": "16 Nov",
+      "hrs": "5–6",
+      "vocab": 2000,
+      "focus": "Conditionnel. *InnerFrench* with transcript.",
+      "gate": 2
+    },
+    {
+      "w": 10,
+      "from": "23 Nov",
+      "hrs": "5–6",
+      "vocab": 2250,
+      "focus": "Comparison, cause/consequence connectors. 3-min prepared monologues."
+    },
+    {
+      "w": 11,
+      "from": "30 Nov",
+      "hrs": "5–6",
+      "vocab": 2500,
+      "focus": "Plus-que-parfait, reported speech. Writing to 180 words. **Register the day the 2027 calendar opens.**"
+    },
+    {
+      "w": 12,
+      "from": "7 Dec",
+      "hrs": "5–6",
+      "vocab": 2750,
+      "focus": "Passive, impersonal, formal register. *1jour1actu* → RFI (français facile exercises)."
+    },
+    {
+      "w": 13,
+      "from": "14 Dec",
+      "hrs": "5–6",
+      "vocab": 3000,
+      "focus": "Abstract topics (TCF essay themes). Full untimed mock.",
+      "gate": 3
+    },
+    {
+      "w": 14,
+      "from": "21 Dec",
+      "hrs": "3–4",
+      "vocab": 3150,
+      "focus": "**Deliberate catch-up week.** Begin format shift: timed CO/CE."
+    },
+    {
+      "w": 15,
+      "from": "28 Dec",
+      "hrs": "5–6",
+      "vocab": 3350,
+      "focus": "*Expression écrite* tâches 1–3 to template. Four marked pieces."
+    },
+    {
+      "w": 16,
+      "from": "4 Jan",
+      "hrs": "5–6",
+      "vocab": 3550,
+      "focus": "*Expression orale* tâches 1–3 with tutor daily. Timed mock CO/CE."
+    },
+    {
+      "w": 17,
+      "from": "11 Jan",
+      "hrs": "5–6",
+      "vocab": 3750,
+      "focus": "Error-log week.",
+      "gate": 4
+    },
+    {
+      "w": 18,
+      "from": "18 Jan",
+      "hrs": "5–6",
+      "vocab": 4000,
+      "focus": "Speed work: comprehension at 1.25×, writing to time, unprepared speaking."
+    },
+    {
+      "w": 19,
+      "from": "25 Jan",
+      "hrs": "4",
+      "vocab": 4000,
+      "focus": "**Full timed mock under exam conditions.** No new Anki cards. **GO / DEFER**"
+    },
+    {
+      "w": 20,
+      "from": "1 Feb",
+      "hrs": "4",
+      "vocab": 4000,
+      "focus": "Second mock. Repair only the weakest ability."
+    },
+    {
+      "w": 21,
+      "from": "8 Feb",
+      "hrs": "2",
+      "vocab": null,
+      "focus": "Taper. Light listening/speaking, error-log read-through. Rest Thursday."
+    }
+  ],
+  "hours": "~645 planned, ~570 realistic once weekend shifts are accounted for. Target for low B2 from a standing start is 500–600. Adequate, not generous.",
+  "daily": {
+    "columns": [
+      "Block A",
+      "Block B",
+      "Block C"
+    ],
+    "rows": [
+      [
+        "Phonetics/shadowing",
+        0.6,
+        0.25,
+        0
+      ],
+      [
+        "Grammar",
+        0.6,
+        0.5,
+        0.5
+      ],
+      [
+        "Anki",
+        0.6,
+        0.75,
+        0.5
+      ],
+      [
+        "Listening",
+        0.6,
+        1.5,
+        1.5
+      ],
+      [
+        "Reading",
+        0,
+        0.5,
+        1
+      ],
+      [
+        "**Speaking with tutor**",
+        0.15,
+        1.5,
+        1.5
+      ],
+      [
+        "**Writing, marked**",
+        0.1,
+        1,
+        1
+      ]
+    ],
+    "note": "From Block B on, **production takes over 40%** — because the lowest ability decides the result."
+  },
+  "engine": [
+    {
+      "day": "Mon",
+      "tag": "post-call",
+      "load": "light",
+      "job": "**Recovery. No new grammar.** Anki, listening, shadowing. Any tutor slot today is pure repetition, never new production."
+    },
+    {
+      "day": "Tue",
+      "tag": "",
+      "load": "full",
+      "job": "**New structure #1.** Introduce, drill, use. Tutor: forced production of exactly this."
+    },
+    {
+      "day": "Wed",
+      "tag": "",
+      "load": "full",
+      "job": "**Consolidate.** Same structure, new contexts. Marked writing."
+    },
+    {
+      "day": "Thu",
+      "tag": "",
+      "load": "full",
+      "job": "**New structure #2** or extension. Tutor."
+    },
+    {
+      "day": "Fri",
+      "tag": "",
+      "load": "full",
+      "job": "**Review + spiral** — this week, *plus* a deliberate return to two weeks ago. Marked writing. Tutor."
+    },
+    {
+      "day": "Sat",
+      "tag": "12h shift",
+      "load": "phone only",
+      "job": "Anki + listening. Nothing needing a desk."
+    },
+    {
+      "day": "Sun",
+      "tag": "24h, has downtime",
+      "load": "phone only",
+      "job": "Anki + listening + read the error log. **No production.**"
+    }
+  ],
+  "rules": [
+    "**New material enters Tuesday to Thursday only.** A structure introduced on a post-call Monday will not survive.",
+    "**Weekends are input by design, not by failure.** Saturday and Sunday are Anki and listening — roughly a third of the weekly load, doing real work.",
+    "**Friday spirals.** Return to two weeks ago every Friday, or January leaves you with twelve half-known structures instead of six solid ones.",
+    "**Never do paid contract work during a clinical shift.** Production (tutor, marked writing, timed mocks) goes on weekday evenings.",
+    "**Do not change the timetable structure.** Placement can change; the grid stays."
+  ],
+  "floor": "20 Anki cards + 10 minutes listening",
+  "gates": [
+    {
+      "n": 1,
+      "week": 4,
+      "date": "12 Oct",
+      "pass": "3–5 min conversation without switching to English · ~900 words · passé composé accurate in speech · pronunciation not fossilising · movement vs week 1 assessment",
+      "miss": "Add two weeks to Block A, book the April sitting"
+    },
+    {
+      "n": 2,
+      "week": 9,
+      "date": "16 Nov",
+      "pass": "InnerFrench at 1.0× with transcript · ~2,000 words · 120 words in 20 min · 3 min prepared speech",
+      "miss": "Usually too little listening — add an hour daily for two weeks"
+    },
+    {
+      "n": 3,
+      "week": 13,
+      "date": "14 Dec",
+      "pass": "CO ≥400 and CE ≥400 on a TCF sample · 180-word piece at ~9/20 · 3 min unprepared",
+      "miss": "Production only: normal, Block C fixes it. Comprehension: move to April"
+    },
+    {
+      "n": 4,
+      "week": 17,
+      "date": "11 Jan",
+      "pass": "**CO ≥458, CE ≥453** on a timed mock · EE tâche 2 at 10/20 · EO tâche 3 sustained",
+      "miss": "One ability short: continue. Two or more: defer to April"
+    }
+  ],
+  "overriding": "Do not sit the exam until a full mock clears **all four** thresholds with margin. One attempt at ₦750k.",
+  "wellbeing": "At each gate: is sleep holding · has the Anki streak broken 3+ days · have I skipped paid tutor sessions? **Pre-committed rule:** if two of three appear, cut micro1 to the 10-hour minimum and move the TCF to April. No renegotiating in the moment.",
+  "money": [
+    "Income ₦600k/month, fixed obligations ₦400k → **₦200k/month (~₦46k/week) disposable**.",
+    "Fee needs **₦44k/week banked** from now to mid-January — essentially all disposable income.",
+    "Tutoring (~₦19k/week lean) must come from contract income (micro1, ~$40/hr, 10 hrs/week minimum, capped at 10 hrs until 13 Feb).",
+    "**Decision point Monday 16 November (week 9):** if the fee fund is under ₦400k or no contract income has landed, move to the **March or April sitting**. A March result still clears the 23 May birthday."
+  ],
+  "tcf": {
+    "structure": [
+      [
+        "Compréhension orale",
+        "35 min",
+        "39 questions, MCQ, audio played once"
+      ],
+      [
+        "Compréhension écrite",
+        "60 min",
+        "39 questions, MCQ"
+      ],
+      [
+        "Expression écrite",
+        "60 min",
+        "3 tâches: T1 informal message (60–120 words) · T2 semi-formal recount + opinion (120–150) · T3 compare two opposing documents and argue (120–180)"
+      ],
+      [
+        "Expression orale",
+        "12 min",
+        "3 tâches: T1 entretien dirigé — the examiner asks about you (~2 min, no prep) · T2 exercice en interaction — YOU ask 10–12 questions about a document, examiner plays the seller (~5½ min incl. 2 min prep) · T3 expression d'un point de vue — defend an opinion, no notes (~4½ min)"
+      ]
+    ],
+    "fee": "₦700,000–750,000 (₦700k for AF/IFN students with 180 hrs in 12 months). One realistic attempt.",
+    "results": "15 working days from receipt; ~10 if computer-delivered (Lagos runs E-TCF). Realistically 2–4 weeks.",
+    "remark": "From TCF sessions of 1 September 2026, requests to re-mark the speaking and writing papers are no longer accepted, for roughly one year. That window covers 12 February 2027. Verify with the centre.",
+    "correction": "Correction to the handoff: the handoff lists speaking task 1 as \"you interview the examiner\". On the real TCF Canada, task 1 is the examiner interviewing you and task 2 is you asking the questions. The ten question frames still matter — they now score in tâche 2."
+  }
+}

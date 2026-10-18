@@ -1,0 +1,1216 @@
+{
+ "id": "mockC",
+ "kind": "mock",
+ "title": "Mock C — Weeks 19–20 GO / DEFER (exam conditions)",
+ "gate": null,
+ "timed": true,
+ "intro": "**Full exam conditions:** CO 35 min → CE 60 min → EE 60 min → EO 12 min, one sitting, phone off, audio once, no dictionary. **Sit the exam only if all four clear with margin.** Re-marking is suspended — there's no appeal behind this rule.",
+ "sections": [
+  {
+   "id": "co",
+   "type": "mcq",
+   "title": "Compréhension orale",
+   "minutes": 35,
+   "playLimit": 1,
+   "items": [
+    {
+     "level": "A1",
+     "weight": 1,
+     "q": "Combien de personnes vont manger ?",
+     "options": [
+      "Deux",
+      "Trois",
+      "Quatre",
+      "Une"
+     ],
+     "answer": 1,
+     "say": "Bonsoir, une table pour trois personnes, s'il vous plaît.",
+     "rate": 0.85,
+     "explain": "*Une table pour trois personnes.*"
+    },
+    {
+     "level": "A1",
+     "weight": 1,
+     "q": "Quel âge a le frère ?",
+     "options": [
+      "40 ans",
+      "44 ans",
+      "14 ans",
+      "24 ans"
+     ],
+     "answer": 0,
+     "say": "Mon frère a quarante ans. Il est plus âgé que moi.",
+     "rate": 0.85,
+     "explain": "*Mon frère a quarante ans* = 40. Don't confuse *quarante* (40) and *quatorze* (14)."
+    },
+    {
+     "level": "A1",
+     "weight": 1,
+     "q": "Quel temps fait-il ?",
+     "options": [
+      "Pluvieux",
+      "Très froid",
+      "Doux",
+      "Chaud"
+     ],
+     "answer": 1,
+     "say": "Il fait très froid aujourd'hui : moins quinze degrés. Mettez un manteau !",
+     "rate": 0.85,
+     "explain": "*Il fait très froid : moins quinze degrés.*"
+    },
+    {
+     "level": "A1",
+     "weight": 1,
+     "q": "Où est le bureau de poste ?",
+     "options": [
+      "Derrière l'école",
+      "À côté de la banque",
+      "Loin du centre",
+      "Dans le parc"
+     ],
+     "answer": 1,
+     "say": "Le bureau de poste est à côté de la banque, en face du parc.",
+     "rate": 0.85,
+     "explain": "*À côté de la banque, en face du parc* — the question's options only match *à côté de la banque*."
+    },
+    {
+     "level": "A2",
+     "weight": 2,
+     "q": "Que veut faire la cliente ?",
+     "options": [
+      "Réparer un pantalon",
+      "Échanger un pantalon trop petit",
+      "Se faire rembourser",
+      "Acheter une robe"
+     ],
+     "answer": 1,
+     "say": "Bonjour, je voudrais échanger ce pantalon, il est trop petit. Vous l'avez en taille plus grande ?",
+     "rate": 0.9,
+     "explain": "*Je voudrais échanger ce pantalon, il est trop petit.*"
+    },
+    {
+     "level": "A2",
+     "weight": 2,
+     "q": "Que doivent faire les passagers du vol ?",
+     "options": [
+      "Récupérer leurs bagages",
+      "Attendre une annonce",
+      "Aller à la porte 52 pour embarquer",
+      "Aller à l'enregistrement"
+     ],
+     "answer": 2,
+     "say": "Le vol AC 870 à destination de Paris est prêt pour l'embarquement, porte 52.",
+     "rate": 0.9,
+     "explain": "*Prêt pour l'embarquement, porte 52* — board at gate 52."
+    },
+    {
+     "level": "A2",
+     "weight": 2,
+     "q": "Où la personne va-t-elle ce week-end ?",
+     "options": [
+      "À l'étranger",
+      "Chez ses parents, à la campagne",
+      "En ville",
+      "Au travail"
+     ],
+     "answer": 1,
+     "say": "Ce week-end, je vais chez mes parents à la campagne. On va faire une grande promenade et cuisiner ensemble.",
+     "rate": 0.9,
+     "explain": "*Je vais chez mes parents à la campagne.*"
+    },
+    {
+     "level": "A2",
+     "weight": 2,
+     "q": "Pourquoi le cours est-il annulé ?",
+     "options": [
+      "Le professeur est malade",
+      "C'est un jour férié",
+      "La salle est fermée",
+      "Il n'y a pas assez d'élèves"
+     ],
+     "answer": 0,
+     "say": "Le cours de guitare est annulé aujourd'hui car le professeur est malade. Il sera remplacé la semaine prochaine.",
+     "rate": 0.9,
+     "explain": "*Annulé… car le professeur est malade.*"
+    },
+    {
+     "level": "A2",
+     "weight": 2,
+     "q": "Que faut-il montrer ?",
+     "options": [
+      "Une photo",
+      "Un diplôme",
+      "Une preuve d'adresse",
+      "Un passeport uniquement"
+     ],
+     "answer": 2,
+     "say": "Pour obtenir votre carte de bibliothèque, remplissez ce formulaire et montrez une preuve d'adresse.",
+     "rate": 0.9,
+     "explain": "*Montrez une preuve d'adresse.* The form is filled in, not shown."
+    },
+    {
+     "level": "A2",
+     "weight": 2,
+     "q": "Pourquoi a-t-il acheté un vélo ?",
+     "options": [
+      "Son médecin l'a exigé",
+      "Il n'a pas de permis",
+      "C'est plus rapide et c'est du sport",
+      "Le bus est trop cher"
+     ],
+     "answer": 2,
+     "say": "J'ai acheté un vélo pour aller au travail. C'est plus rapide que le bus et ça me fait faire du sport.",
+     "rate": 0.9,
+     "explain": "*Plus rapide que le bus et ça me fait faire du sport* — both reasons."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Qu'est-ce qui l'a aidé ?",
+     "options": [
+      "Écouter la radio régulièrement",
+      "Prendre des cours privés",
+      "Lire des livres",
+      "Regarder des films anglais"
+     ],
+     "answer": 0,
+     "say": "Au début, je ne comprenais rien à l'accent québécois. Après quelques mois à écouter la radio tous les jours, c'est devenu beaucoup plus facile.",
+     "rate": 0.95,
+     "explain": "*Après quelques mois à écouter la radio tous les jours* — regular listening."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Comment les patients sont-ils reçus ?",
+     "options": [
+      "Sur rendez-vous",
+      "Selon la gravité de leur état",
+      "Dans l'ordre d'arrivée",
+      "Par ordre alphabétique"
+     ],
+     "answer": 1,
+     "say": "La clinique sans rendez-vous est ouverte de 8 h à 20 h. Les patients sont vus par ordre de gravité, et non d'arrivée.",
+     "rate": 0.95,
+     "explain": "*Par ordre de gravité, et non d'arrivée* — by how serious the case is."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Qu'a décidé cette famille ?",
+     "options": [
+      "Offrir seulement aux adultes",
+      "Ne plus fêter Noël",
+      "Offrir plus de cadeaux",
+      "Remplacer les cadeaux par du temps ensemble"
+     ],
+     "answer": 3,
+     "say": "Nous avons décidé de ne plus offrir de cadeaux à Noël entre adultes. On préfère passer du temps ensemble et faire un voyage.",
+     "rate": 0.95,
+     "explain": "*Ne plus offrir de cadeaux… On préfère passer du temps ensemble.*"
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Comment la personne sera-t-elle informée ?",
+     "options": [
+      "Par téléphone",
+      "Par la poste",
+      "Par courriel",
+      "En personne"
+     ],
+     "answer": 2,
+     "say": "Votre demande de résidence a bien été reçue. Le délai de traitement actuel est d'environ six mois. Vous serez contacté par courriel.",
+     "rate": 0.95,
+     "explain": "*Vous serez contacté par courriel.* Six months is the processing time."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Quel est l'inconvénient du travail de nuit pour lui ?",
+     "options": [
+      "Il est souvent malade",
+      "Le salaire est bas",
+      "Il n'aime pas ses collègues",
+      "Il voit peu ses amis"
+     ],
+     "answer": 3,
+     "say": "Je travaille de nuit depuis trois ans. Le salaire est meilleur, mais j'ai du mal à voir mes amis.",
+     "rate": 0.95,
+     "explain": "*Le salaire est meilleur, mais j'ai du mal à voir mes amis* — the drawback follows *mais*."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Que faut-il faire désormais ?",
+     "options": [
+      "Apporter ses propres sacs",
+      "Rien",
+      "Faire ses courses en ligne",
+      "Payer les sacs plastique"
+     ],
+     "answer": 0,
+     "say": "Le supermarché ne donnera plus de sacs en plastique à partir du mois prochain. Pensez à apporter vos sacs réutilisables.",
+     "rate": 0.95,
+     "explain": "*Pensez à apporter vos sacs réutilisables.*"
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Qu'apprécie la locataire ?",
+     "options": [
+      "Le prix bas",
+      "La grandeur de l'appartement",
+      "La lumière et le propriétaire",
+      "Le quartier animé"
+     ],
+     "answer": 2,
+     "say": "Mon appartement est petit, mais très lumineux, et le propriétaire est vraiment arrangeant quand il y a un problème.",
+     "rate": 0.95,
+     "explain": "*Très lumineux* + *le propriétaire est vraiment arrangeant* (accommodating)."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Pourquoi la fête est-elle reportée ?",
+     "options": [
+      "À cause du mauvais temps prévu",
+      "À cause de travaux",
+      "Faute de budget",
+      "Faute d'organisateurs"
+     ],
+     "answer": 0,
+     "say": "La fête du quartier est reportée au samedi suivant à cause des orages prévus.",
+     "rate": 0.95,
+     "explain": "*Reportée… à cause des orages prévus* — forecast bad weather."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Que risque-t-il ?",
+     "options": [
+      "Une amende",
+      "Rien",
+      "Perdre son travail",
+      "Refaire l'examen"
+     ],
+     "answer": 0,
+     "say": "Il faut que je renouvelle mon permis de conduire avant la fin du mois, sinon je paierai une amende.",
+     "rate": 0.95,
+     "explain": "*Sinon je paierai une amende* = otherwise a fine."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Qui peut obtenir la réduction ?",
+     "options": [
+      "Les 16–25 ans avec la carte",
+      "Tous les étudiants",
+      "Les familles nombreuses",
+      "Les personnes âgées"
+     ],
+     "answer": 0,
+     "say": "Les jeunes de 16 à 25 ans peuvent obtenir une réduction de 30 % sur les billets de train avec la carte Jeunesse.",
+     "rate": 0.95,
+     "explain": "*Les jeunes de 16 à 25 ans… avec la carte Jeunesse* — age and the card are both needed."
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Pourquoi les jeunes médecins évitent-ils les régions ?",
+     "options": [
+      "Le climat",
+      "Les salaires plus bas",
+      "Le manque d'intérêt",
+      "L'isolement professionnel"
+     ],
+     "answer": 3,
+     "say": "Les jeunes médecins sont de moins en moins nombreux à vouloir s'installer en région, non par manque d'intérêt pour la médecine rurale, mais à cause de l'isolement professionnel.",
+     "rate": 1,
+     "explain": "*Non par manque d'intérêt…, mais à cause de l'isolement professionnel.*"
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Qu'affirme le locuteur ?",
+     "options": [
+      "L'âge n'a aucune importance",
+      "Les enfants apprennent toujours plus vite",
+      "Les adultes progressent parfois plus vite au début",
+      "Les adultes ne peuvent pas apprendre"
+     ],
+     "answer": 2,
+     "say": "On pourrait penser que l'apprentissage d'une langue est plus facile pour les enfants ; en réalité, les adultes progressent souvent plus vite au début grâce à leurs stratégies.",
+     "rate": 1,
+     "explain": "*On pourrait penser… ; en réalité, les adultes progressent souvent plus vite au début.*"
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Quel a été le résultat de la mesure ?",
+     "options": [
+      "Moins d'accidents graves",
+      "Aucun effet",
+      "Une hausse des accidents",
+      "Plus d'embouteillages"
+     ],
+     "answer": 0,
+     "say": "La réduction de la vitesse à 30 km/h en ville a d'abord été critiquée ; un an plus tard, les accidents graves ont diminué de moitié.",
+     "rate": 1,
+     "explain": "*D'abord critiquée ; un an plus tard, les accidents graves ont diminué de moitié.*"
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Quelle contradiction est soulignée ?",
+     "options": [
+      "Il y a trop de candidats",
+      "Les salariés refusent de travailler",
+      "Les entreprises veulent des employés sans améliorer les conditions",
+      "Les salaires sont trop élevés"
+     ],
+     "answer": 2,
+     "say": "Beaucoup d'entreprises affirment manquer de main-d'œuvre, tout en refusant d'adapter leurs horaires ou leurs salaires.",
+     "rate": 1,
+     "explain": "*Affirment manquer de main-d'œuvre, tout en refusant d'adapter leurs horaires ou salaires.*"
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Quel effet indirect est mentionné ?",
+     "options": [
+      "Une baisse des prix",
+      "Moins de bus",
+      "Une meilleure santé des aînés",
+      "Plus de voitures"
+     ],
+     "answer": 2,
+     "say": "L'accès gratuit aux transports pour les aînés favorise leur autonomie et limite leur isolement, ce qui a aussi des effets positifs sur leur santé.",
+     "rate": 1,
+     "explain": "*Ce qui a aussi des effets positifs sur leur santé* — the indirect effect."
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Qu'est-ce qui inquiète les chercheurs ?",
+     "options": [
+      "Le prix des écrans",
+      "La qualité des images",
+      "Le nombre d'heures devant l'écran",
+      "Les activités que l'écran remplace"
+     ],
+     "answer": 3,
+     "say": "Ce n'est pas le nombre d'heures passées devant l'écran qui inquiète les chercheurs, mais ce qui est remplacé : le sommeil, le sport, les relations.",
+     "rate": 1,
+     "explain": "*Ce n'est pas le nombre d'heures… mais ce qui est remplacé* — sleep, sport, relationships."
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Quel est le principe de cette colocation ?",
+     "options": [
+      "Un logement gratuit sans contrepartie",
+      "Un logement moins cher contre des services",
+      "Des personnes âgées chez des étudiants",
+      "Une colocation entre étudiants"
+     ],
+     "answer": 1,
+     "say": "La colocation intergénérationnelle permet à des étudiants de se loger à moindre coût chez des personnes âgées, en échange de petits services.",
+     "rate": 1,
+     "explain": "*Se loger à moindre coût… en échange de petits services.*"
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Quelle est la position du locuteur ?",
+     "options": [
+      "Il est pour toutes les mesures de sécurité",
+      "Il refuse de sacrifier les libertés à la sécurité",
+      "Il est indifférent à la sécurité",
+      "Il veut plus de caméras"
+     ],
+     "answer": 1,
+     "say": "Je comprends ceux qui réclament plus de sécurité, mais pas au prix de nos libertés : installer des caméras partout n'est pas une solution.",
+     "rate": 1,
+     "explain": "*Je comprends… mais pas au prix de nos libertés* — he won't trade liberty for security."
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Pourquoi les achats d'occasion progressent-ils ?",
+     "options": [
+      "Pour des raisons économiques et écologiques",
+      "Uniquement par mode",
+      "Parce que le neuf est interdit",
+      "Parce que la qualité est meilleure"
+     ],
+     "answer": 0,
+     "say": "Les achats d'occasion progressent fortement, portés à la fois par des raisons économiques et par une prise de conscience écologique.",
+     "rate": 1,
+     "explain": "*Portés à la fois par des raisons économiques et par une prise de conscience écologique.*"
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Quelle décision a été prise ?",
+     "options": [
+      "Annuler l'étude",
+      "Approuver le projet",
+      "Reporter la décision en attendant une étude",
+      "Rejeter le projet"
+     ],
+     "answer": 2,
+     "say": "Le conseil municipal n'a pas rejeté le projet ; il a demandé une étude complémentaire avant de se prononcer.",
+     "rate": 1,
+     "explain": "*N'a pas rejeté… a demandé une étude complémentaire avant de se prononcer* — decision postponed."
+    },
+    {
+     "level": "C1",
+     "weight": 5,
+     "q": "Que propose le locuteur ?",
+     "options": [
+      "Réfléchir à la place du temps long dans nos sociétés",
+      "Interdire les écrans",
+      "S'alarmer du déclin de la lecture",
+      "Lire plus vite"
+     ],
+     "answer": 0,
+     "say": "Plutôt que de s'alarmer du déclin de la lecture, on ferait mieux de s'interroger sur la place que nos sociétés accordent encore au temps long.",
+     "rate": 1.02,
+     "explain": "*Plutôt que de s'alarmer… on ferait mieux de s'interroger sur… le temps long.*"
+    },
+    {
+     "level": "C1",
+     "weight": 5,
+     "q": "Pourquoi l'expérience n'a-t-elle pas été généralisée ?",
+     "options": [
+      "Parce que le public l'a rejetée",
+      "Parce qu'elle a échoué sur le papier",
+      "Par manque de personnel",
+      "Parce qu'elle coûtait trop cher"
+     ],
+     "answer": 2,
+     "say": "L'expérience, concluante sur le papier, s'est heurtée à la réalité du terrain : faute de personnel, elle n'a jamais pu être généralisée.",
+     "rate": 1.02,
+     "explain": "*Faute de personnel, elle n'a jamais pu être généralisée.*"
+    },
+    {
+     "level": "C1",
+     "weight": 5,
+     "q": "Quelle idée est soutenue ?",
+     "options": [
+      "Seuls les immigrants doivent faire des efforts",
+      "La société d'accueil ne doit rien changer",
+      "L'intégration est impossible",
+      "L'intégration est un effort réciproque"
+     ],
+     "answer": 3,
+     "say": "Parler d'« intégration » suppose un effort des seuls nouveaux arrivants ; or c'est un processus qui engage tout autant la société d'accueil.",
+     "rate": 1.02,
+     "explain": "*Or c'est un processus qui engage tout autant la société d'accueil* — a two-way effort."
+    },
+    {
+     "level": "C1",
+     "weight": 5,
+     "q": "Quel paradoxe est évoqué ?",
+     "options": [
+      "Trop d'information peut semer la confusion",
+      "Les citoyens sont très bien informés",
+      "L'information est trop chère",
+      "L'information est rare"
+     ],
+     "answer": 0,
+     "say": "Le paradoxe de l'abondance d'informations, c'est qu'elle ne rend pas les citoyens mieux informés, mais souvent plus confus.",
+     "rate": 1.02,
+     "explain": "*Ne rend pas les citoyens mieux informés, mais souvent plus confus.*"
+    },
+    {
+     "level": "C1",
+     "weight": 5,
+     "q": "Que constate le locuteur ?",
+     "options": [
+      "Les élèves préfèrent le numérique",
+      "Le numérique ne remplace pas la relation enseignant-élève",
+      "Le numérique est inutile",
+      "Les enseignants sont remplaçables"
+     ],
+     "answer": 1,
+     "say": "Sans nier l'intérêt pédagogique des outils numériques, force est de constater qu'ils ne remplacent pas la relation entre l'enseignant et l'élève.",
+     "rate": 1.02,
+     "explain": "*Sans nier l'intérêt…, force est de constater qu'ils ne remplacent pas la relation.*"
+    },
+    {
+     "level": "C1",
+     "weight": 5,
+     "q": "Pourquoi ces mesures échouent-elles ?",
+     "options": [
+      "Elles sont trop chères",
+      "Elles sont perçues comme injustes",
+      "Elles sont mal expliquées",
+      "Elles sont techniquement impossibles"
+     ],
+     "answer": 1,
+     "say": "Nombre de mesures environnementales échouent non pour des raisons techniques, mais parce qu'elles sont perçues comme injustes.",
+     "rate": 1.02,
+     "explain": "*Non pour des raisons techniques, mais parce qu'elles sont perçues comme injustes.*"
+    },
+    {
+     "level": "C2",
+     "weight": 6,
+     "q": "Que suggère le locuteur ?",
+     "options": [
+      "Il n'y a pas eu de revirement",
+      "Le changement de position est stratégique",
+      "Le calcul électoral a échoué",
+      "Le revirement est sincère"
+     ],
+     "answer": 1,
+     "say": "Tout porte à croire que ce revirement, présenté comme un choix de conviction, relève davantage du calcul électoral.",
+     "rate": 1.05,
+     "explain": "*Présenté comme un choix de conviction, relève davantage du calcul électoral* — a strategic move."
+    },
+    {
+     "level": "C2",
+     "weight": 6,
+     "q": "Quelle critique fait-on au documentaire ?",
+     "options": [
+      "Il explique trop et laisse peu de place au spectateur",
+      "Il est trop court",
+      "Il n'explique rien",
+      "Il est trop technique"
+     ],
+     "answer": 0,
+     "say": "À vouloir tout expliquer, le documentaire finit par priver le spectateur du plaisir de comprendre par lui-même.",
+     "rate": 1.05,
+     "explain": "*À vouloir tout expliquer… priver le spectateur du plaisir de comprendre par lui-même.*"
+    },
+    {
+     "level": "C2",
+     "weight": 6,
+     "q": "Qu'est-ce qui caractérise le rapport ?",
+     "options": [
+      "Il ménage les responsables",
+      "Il est confidentiel",
+      "Il est incomplet",
+      "Il critique tout le monde, y compris ses commanditaires"
+     ],
+     "answer": 3,
+     "say": "Le rapport, d'une rare franchise, n'épargne personne — pas même ceux qui l'ont commandé.",
+     "rate": 1.05,
+     "explain": "*N'épargne personne — pas même ceux qui l'ont commandé.*"
+    }
+   ]
+  },
+  {
+   "id": "ce",
+   "type": "mcq",
+   "title": "Compréhension écrite",
+   "minutes": 60,
+   "items": [
+    {
+     "level": "A1",
+     "weight": 1,
+     "q": "Quand l'épicerie est-elle ouverte ?",
+     "options": [
+      "Tous les jours",
+      "Le week-end seulement",
+      "Le soir seulement",
+      "Du lundi au vendredi"
+     ],
+     "answer": 0,
+     "context": "Épicerie ouverte 7 jours sur 7, de 8 h à 22 h.",
+     "explain": "*Ouverte 7 jours sur 7* = every day."
+    },
+    {
+     "level": "A1",
+     "weight": 1,
+     "q": "Qu'est-ce qui est interdit ?",
+     "options": [
+      "Fumer",
+      "Courir",
+      "Manger",
+      "Parler"
+     ],
+     "answer": 0,
+     "context": "Défense de fumer dans l'immeuble.",
+     "explain": "*Défense de fumer* = smoking is forbidden."
+    },
+    {
+     "level": "A1",
+     "weight": 1,
+     "q": "Où est Nadia ?",
+     "options": [
+      "À l'école",
+      "À la maison",
+      "À la montagne",
+      "À la plage"
+     ],
+     "answer": 3,
+     "context": "Coucou ! Je suis à la plage avec mes cousins. Il fait chaud. À bientôt ! Nadia",
+     "explain": "*Je suis à la plage avec mes cousins.*"
+    },
+    {
+     "level": "A1",
+     "weight": 1,
+     "q": "Que faut-il faire ?",
+     "options": [
+      "Prendre l'escalier",
+      "Appeler un technicien",
+      "Sortir de l'immeuble",
+      "Attendre l'ascenseur"
+     ],
+     "answer": 0,
+     "context": "Ascenseur en panne. Merci d'utiliser l'escalier.",
+     "explain": "*Ascenseur en panne. Merci d'utiliser l'escalier.*"
+    },
+    {
+     "level": "A2",
+     "weight": 2,
+     "q": "Que doit faire le client ?",
+     "options": [
+      "Payer au magasin",
+      "Renouveler son abonnement en ligne",
+      "Rien, c'est automatique",
+      "Changer d'opérateur"
+     ],
+     "answer": 1,
+     "context": "Cher client, votre abonnement internet expire le 30 avril. Pour le renouveler, rendez-vous sur votre espace client.",
+     "explain": "*Pour le renouveler, rendez-vous sur votre espace client* — online."
+    },
+    {
+     "level": "A2",
+     "weight": 2,
+     "q": "À qui s'adresse le stage ?",
+     "options": [
+      "Aux adolescents de 15 ans",
+      "Aux enfants de 8 à 12 ans",
+      "Aux adultes",
+      "Aux parents et enfants"
+     ],
+     "answer": 1,
+     "context": "Stage de cuisine pour enfants de 8 à 12 ans pendant les vacances d'été. Matériel fourni. Places limitées.",
+     "explain": "*Pour enfants de 8 à 12 ans.*"
+    },
+    {
+     "level": "A2",
+     "weight": 2,
+     "q": "Que demande le propriétaire ?",
+     "options": [
+      "De remettre de l'essence",
+      "De rendre la voiture vendredi",
+      "De laver la voiture",
+      "De payer la location"
+     ],
+     "answer": 0,
+     "context": "Je te prête ma voiture ce week-end, mais n'oublie pas de faire le plein avant de me la rendre. Merci !",
+     "explain": "*N'oublie pas de faire le plein* = fill up the tank."
+    },
+    {
+     "level": "A2",
+     "weight": 2,
+     "q": "Combien paie un adolescent de 16 ans ?",
+     "options": [
+      "20 $",
+      "Rien",
+      "18 $",
+      "10 $"
+     ],
+     "answer": 1,
+     "context": "Musée des beaux-arts : entrée gratuite pour les moins de 18 ans. Adultes : 20 $.",
+     "explain": "*Entrée gratuite pour les moins de 18 ans* — a 16-year-old pays nothing."
+    },
+    {
+     "level": "A2",
+     "weight": 2,
+     "q": "Qu'est-ce qui change ?",
+     "options": [
+      "Rien",
+      "L'heure",
+      "La salle",
+      "Le jour"
+     ],
+     "answer": 3,
+     "context": "La réunion est déplacée de mardi à mercredi, même heure, même salle.",
+     "explain": "*Déplacée de mardi à mercredi, même heure, même salle* — only the day."
+    },
+    {
+     "level": "A2",
+     "weight": 2,
+     "q": "Que propose la personne ?",
+     "options": [
+      "Des cours de dressage",
+      "Une récompense",
+      "Un emploi",
+      "Un chat à adopter"
+     ],
+     "answer": 1,
+     "context": "Perdu : chat gris, répond au nom de Minou. Récompense si retrouvé. Appelez le 418 555 0142.",
+     "explain": "*Récompense si retrouvé.*"
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Quel est le nouveau service ?",
+     "options": [
+      "Un clavardage en ligne",
+      "Un numéro gratuit",
+      "Être rappelé au lieu d'attendre",
+      "Un service ouvert la nuit"
+     ],
+     "answer": 2,
+     "context": "Afin de réduire l'attente au téléphone, notre service à la clientèle propose désormais un rappel automatique : laissez votre numéro et nous vous rappellerons.",
+     "explain": "*Laissez votre numéro et nous vous rappellerons* — a call-back instead of waiting."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Que doit faire le candidat ?",
+     "options": [
+      "Appeler le 12 mars",
+      "Envoyer son CV",
+      "Refuser l'entretien",
+      "Confirmer sa présence"
+     ],
+     "answer": 3,
+     "context": "Monsieur, nous avons le plaisir de vous informer que votre candidature a été retenue pour un entretien le 12 mars à 10 h. Merci de confirmer votre présence.",
+     "explain": "*Merci de confirmer votre présence.*"
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Que recommande indirectement l'étude ?",
+     "options": [
+      "Prendre une vraie pause loin du bureau",
+      "Travailler sans pause",
+      "Manger à son bureau",
+      "Rentrer plus tôt"
+     ],
+     "answer": 0,
+     "context": "Une étude montre que les employés qui prennent une vraie pause-déjeuner, loin de leur bureau, sont plus productifs l'après-midi.",
+     "explain": "Employees who take a real break *sont plus productifs* — the indirect advice is to take one."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Quel conseil est donné ?",
+     "options": [
+      "Envoyer une lettre officielle puis s'adresser au tribunal",
+      "Déménager tout de suite",
+      "Réparer soi-même",
+      "Arrêter de payer le loyer"
+     ],
+     "answer": 0,
+     "context": "Forum — « Mon propriétaire refuse de réparer le chauffage depuis trois semaines. Que puis-je faire ? » — « Envoie-lui une mise en demeure par écrit, puis contacte le tribunal du logement. »",
+     "explain": "*Envoie-lui une mise en demeure par écrit, puis contacte le tribunal du logement.*"
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Quand a lieu le marché ?",
+     "options": [
+      "Tous les jours",
+      "Le dimanche, toute l'année",
+      "Le samedi matin, de mai à octobre",
+      "Le samedi soir"
+     ],
+     "answer": 2,
+     "context": "Le marché fermier revient tous les samedis matin sur la place de l'église, de mai à octobre.",
+     "explain": "*Tous les samedis matin… de mai à octobre.*"
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Où faut-il rouler en trottinette ?",
+     "options": [
+      "Sur les pistes cyclables",
+      "Sur l'autoroute",
+      "Nulle part",
+      "Sur les trottoirs"
+     ],
+     "answer": 0,
+     "context": "Pour votre sécurité, les trottinettes électriques sont interdites sur les trottoirs. Utilisez les pistes cyclables.",
+     "explain": "*Interdites sur les trottoirs. Utilisez les pistes cyclables.*"
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Qu'apprend-on sur Marie ?",
+     "options": [
+      "Elle a surmonté son accident et aide les autres",
+      "Elle a arrêté le sport",
+      "Elle ne peut plus marcher",
+      "Elle est médecin"
+     ],
+     "answer": 0,
+     "context": "Après son accident, Marie a dû réapprendre à marcher. Aujourd'hui, elle court des marathons et aide d'autres patients.",
+     "explain": "She relearnt to walk, now *court des marathons et aide d'autres patients*."
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Pourquoi donner du sang pendant les vacances ?",
+     "options": [
+      "Il y a moins de malades",
+      "Les réserves sont plus faibles",
+      "C'est obligatoire",
+      "Les hôpitaux ferment"
+     ],
+     "answer": 1,
+     "context": "Les dons de sang sont particulièrement nécessaires pendant les vacances, période où les réserves baissent.",
+     "explain": "*Pendant les vacances, période où les réserves baissent.*"
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Qu'est-ce qui est payant ?",
+     "options": [
+      "L'inscription",
+      "L'attestation",
+      "Le cours",
+      "Le manuel"
+     ],
+     "answer": 1,
+     "context": "Le cours de français en ligne est gratuit, mais l'attestation de fin de cours coûte 40 $.",
+     "explain": "*Gratuit, mais l'attestation… coûte 40 $.*"
+    },
+    {
+     "level": "B1",
+     "weight": 3,
+     "q": "Pourquoi les bureaux sont-ils fermés ?",
+     "options": [
+      "Il y a des travaux",
+      "C'est une grève",
+      "C'est un jour férié",
+      "Le personnel est en formation"
+     ],
+     "answer": 2,
+     "context": "Nos bureaux seront fermés le lundi 1er juillet, jour de la fête du Canada. Réouverture le mardi.",
+     "explain": "*Jour de la fête du Canada* = a public holiday."
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Quelle question soulève l'auteur ?",
+     "options": [
+      "La qualité des téléphones",
+      "Le prix des applications",
+      "La protection des données de santé",
+      "L'efficacité du sport"
+     ],
+     "answer": 2,
+     "context": "S'il est vrai que les applications de santé encouragent l'activité physique, elles posent la question de la confidentialité des données médicales qu'elles collectent.",
+     "explain": "*Elles posent la question de la confidentialité des données médicales.*"
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Quelle réserve l'auteur formule-t-il ?",
+     "options": [
+      "Il n'y a pas de besoin réel",
+      "Les conditions sont déjà excellentes",
+      "Il faut interdire ces travailleurs",
+      "Cela ne doit pas remplacer l'amélioration des conditions de travail"
+     ],
+     "answer": 3,
+     "context": "Le recours croissant aux travailleurs étrangers temporaires répond à un besoin réel, mais il ne doit pas servir à éviter d'améliorer les conditions de travail.",
+     "explain": "*Répond à un besoin réel, mais… ne doit pas servir à éviter d'améliorer les conditions.*"
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Qu'est-ce qui surprend ?",
+     "options": [
+      "Les jeunes se soucient beaucoup de leur vie privée",
+      "Les jeunes ignorent la vie privée",
+      "Personne ne s'en soucie",
+      "Les aînés sont plus préoccupés"
+     ],
+     "answer": 0,
+     "context": "Contrairement à ce que l'on pourrait croire, les jeunes générations sont plus nombreuses que leurs aînées à se dire préoccupées par la protection de la vie privée.",
+     "explain": "*Contrairement à ce que l'on pourrait croire, les jeunes… plus préoccupés par la vie privée.*"
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Quel est l'effet du coût des médicaments ?",
+     "options": [
+      "Les patients consomment trop",
+      "Les pharmacies ferment",
+      "Certains patients suivent mal leur traitement",
+      "Les médecins prescrivent moins"
+     ],
+     "answer": 2,
+     "context": "Le coût des médicaments reste un frein important à l'observance des traitements, surtout chez les personnes sans assurance complémentaire.",
+     "explain": "*Un frein important à l'observance des traitements* = people don't take their treatment properly."
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Quels sont les bénéfices du projet ?",
+     "options": [
+      "Produire et créer du lien entre habitants",
+      "Attirer les touristes",
+      "Créer plus de places de parking",
+      "Gagner de l'argent"
+     ],
+     "answer": 0,
+     "context": "La municipalité a transformé un ancien parking en jardin communautaire, où les habitants cultivent légumes et fleurs et se rencontrent.",
+     "explain": "*Cultivent légumes et fleurs et se rencontrent* — growing food and meeting people."
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Quelle difficulté rencontrent-ils ?",
+     "options": [
+      "Obtenir un visa",
+      "Payer les frais",
+      "Comprendre les cours",
+      "Trouver un logement"
+     ],
+     "answer": 3,
+     "context": "Même si le nombre d'étudiants étrangers a augmenté, beaucoup peinent à trouver un logement, ce qui compromet parfois leurs études.",
+     "explain": "*Beaucoup peinent à trouver un logement.*"
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Que recommandent les experts ?",
+     "options": [
+      "Ne manger que du poisson",
+      "Manger plus de viande",
+      "Supprimer toute viande",
+      "Réduire la viande rouge sans forcément l'éliminer"
+     ],
+     "answer": 3,
+     "context": "Les experts recommandent de limiter la consommation de viande rouge, sans nécessairement la supprimer, pour des raisons à la fois sanitaires et environnementales.",
+     "explain": "*Limiter… sans nécessairement la supprimer.*"
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Qu'est-ce qui a changé dans l'entreprise ?",
+     "options": [
+      "Les entretiens ont disparu",
+      "Des échanges plus fréquents remplacent l'entretien annuel",
+      "Les employés sont évalués chaque jour par écrit",
+      "Les salaires ont augmenté"
+     ],
+     "answer": 1,
+     "context": "L'entreprise a remplacé les entretiens annuels par des échanges réguliers et informels, jugés plus utiles par les employés.",
+     "explain": "*Remplacé les entretiens annuels par des échanges réguliers et informels.*"
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Comment la pratique a-t-elle évolué ?",
+     "options": [
+      "Elle est réservée aux sportifs",
+      "Elle est interdite en ville",
+      "Elle attire maintenant tous les âges",
+      "Elle a disparu"
+     ],
+     "answer": 2,
+     "context": "La marche nordique, longtemps réservée aux personnes âgées, séduit désormais un public beaucoup plus large.",
+     "explain": "*Longtemps réservée aux personnes âgées, séduit désormais un public beaucoup plus large.*"
+    },
+    {
+     "level": "B2",
+     "weight": 4,
+     "q": "Que montrent les premiers résultats ?",
+     "options": [
+      "Plus de bien-être sans baisse notable du travail",
+      "Une forte baisse du travail",
+      "Une hausse du chômage",
+      "Aucun effet"
+     ],
+     "answer": 0,
+     "context": "Plusieurs pays expérimentent le revenu de base ; les résultats, encore partiels, montrent surtout une amélioration du bien-être plutôt qu'une baisse de l'activité.",
+     "explain": "*Une amélioration du bien-être plutôt qu'une baisse de l'activité.*"
+    },
+    {
+     "level": "C1",
+     "weight": 5,
+     "q": "Quelle évolution est décrite ?",
+     "options": [
+      "La crise a tout bloqué",
+      "Les consultations à distance ont été interdites",
+      "On est revenu aux anciennes pratiques",
+      "Des pratiques marginales sont devenues la norme"
+     ],
+     "answer": 3,
+     "context": "À la faveur de la crise, des pratiques jusque-là marginales — consultations à distance, ordonnances électroniques — se sont imposées, au point qu'on imagine mal un retour en arrière.",
+     "explain": "*Des pratiques jusque-là marginales… se sont imposées* — now the norm."
+    },
+    {
+     "level": "C1",
+     "weight": 5,
+     "q": "Que disent les études récentes ?",
+     "options": [
+      "Elles ne parlent pas d'emploi",
+      "Elles ne confirment pas l'effet négatif sur l'emploi",
+      "Elles confirment les pertes d'emplois",
+      "Elles recommandent de baisser le salaire minimum"
+     ],
+     "answer": 1,
+     "context": "L'argument selon lequel la hausse du salaire minimum détruirait des emplois n'a pas été confirmé par la plupart des études récentes.",
+     "explain": "*N'a pas été confirmé par la plupart des études récentes.*"
+    },
+    {
+     "level": "C1",
+     "weight": 5,
+     "q": "Quelle idée l'auteure défend-elle ?",
+     "options": [
+      "Il faut choisir entre les deux",
+      "La modernité détruit la tradition",
+      "Tradition et modernité ne s'opposent pas",
+      "La tradition est dépassée"
+     ],
+     "answer": 2,
+     "context": "L'auteure refuse l'opposition convenue entre tradition et modernité : selon elle, toute tradition vivante est une modernité qui a réussi.",
+     "explain": "*Toute tradition vivante est une modernité qui a réussi* — they are not opposed."
+    },
+    {
+     "level": "C1",
+     "weight": 5,
+     "q": "Selon l'auteur, où se trouve la solution ?",
+     "options": [
+      "Dans la technologie",
+      "Dans le changement de nos modes de vie",
+      "Dans l'économie",
+      "Dans les lois"
+     ],
+     "answer": 1,
+     "context": "Il serait illusoire d'attendre de la seule technologie qu'elle résolve un problème qui relève avant tout de nos modes de vie.",
+     "explain": "*Un problème qui relève avant tout de nos modes de vie.*"
+    },
+    {
+     "level": "C1",
+     "weight": 5,
+     "q": "Qu'est-ce qui frappe le plus l'auteur ?",
+     "options": [
+      "L'ampleur des inégalités",
+      "La transmission des inégalités entre générations",
+      "La longueur du rapport",
+      "La disparition des inégalités"
+     ],
+     "answer": 1,
+     "context": "Ce qui frappe, à la lecture du rapport, c'est moins l'ampleur des inégalités que leur persistance d'une génération à l'autre.",
+     "explain": "*Moins l'ampleur des inégalités que leur persistance d'une génération à l'autre.*"
+    },
+    {
+     "level": "C1",
+     "weight": 5,
+     "q": "Comment la décision est-elle accueillie ?",
+     "options": [
+      "Elle est annulée",
+      "Elle fait l'unanimité",
+      "Elle est ignorée",
+      "Elle divise les opinions"
+     ],
+     "answer": 3,
+     "context": "Le musée a choisi de rendre les objets à leur pays d'origine, une décision saluée par les uns comme un geste de justice, dénoncée par les autres comme un précédent dangereux.",
+     "explain": "*Saluée par les uns… dénoncée par les autres* — opinions are divided."
+    },
+    {
+     "level": "C2",
+     "weight": 6,
+     "q": "Que rappelle l'auteur ?",
+     "options": [
+      "Il faut toujours des preuves",
+      "Ne pas avoir de preuve ne prouve pas que quelque chose n'existe pas",
+      "Les preuves sont inutiles",
+      "L'absence est prouvée"
+     ],
+     "answer": 1,
+     "context": "On ne saurait trop insister sur ce point : l'absence de preuve n'est pas la preuve de l'absence.",
+     "explain": "*L'absence de preuve n'est pas la preuve de l'absence.*"
+    },
+    {
+     "level": "C2",
+     "weight": 6,
+     "q": "Comment caractériser le film ?",
+     "options": [
+      "Un documentaire neutre",
+      "Un éloge de la bourgeoisie",
+      "Une critique acerbe derrière une apparence légère",
+      "Une comédie sans message"
+     ],
+     "answer": 2,
+     "context": "Sous ses dehors de comédie légère, le film dresse un portrait au vitriol de la bourgeoisie de province.",
+     "explain": "*Sous ses dehors de comédie légère… un portrait au vitriol* — a biting critique."
+    },
+    {
+     "level": "C2",
+     "weight": 6,
+     "q": "Quel mérite reconnaît-on à la proposition ?",
+     "options": [
+      "Elle est réaliste",
+      "Elle met fin au débat",
+      "Elle est unanimement approuvée",
+      "Elle fait évoluer un débat bloqué"
+     ],
+     "answer": 3,
+     "context": "Qu'on la juge naïve ou visionnaire, sa proposition a au moins le mérite de déplacer les lignes d'un débat figé depuis des années.",
+     "explain": "*A au moins le mérite de déplacer les lignes d'un débat figé.*"
+    }
+   ]
+  },
+  {
+   "id": "ee",
+   "type": "writing",
+   "title": "Expression écrite",
+   "minutes": 60,
+   "tasks": [
+    {
+     "id": "EE1",
+     "title": "Tâche 1 — message informel",
+     "min": 60,
+     "max": 120,
+     "prompt": "Vous avez trouvé un nouveau travail. Écrivez un message à un(e) ami(e) pour lui annoncer la nouvelle, décrire votre poste et lui proposer de fêter ça ensemble."
+    },
+    {
+     "id": "EE2",
+     "title": "Tâche 2 — récit + opinion",
+     "min": 120,
+     "max": 150,
+     "prompt": "Pour le journal de votre quartier, racontez une démarche administrative difficile que vous avez vécue et donnez votre avis : les démarches devraient-elles toutes se faire en ligne ?"
+    },
+    {
+     "id": "EE3",
+     "title": "Tâche 3 — comparer deux documents",
+     "min": 120,
+     "max": 180,
+     "prompt": "Document 1 : « L'intelligence artificielle va libérer les médecins des tâches administratives et améliorer les diagnostics. » Document 2 : « Confier des décisions médicales à une machine est dangereux : la relation humaine et la responsabilité du médecin sont irremplaçables. » Présentez les deux points de vue, puis donnez votre opinion."
+    }
+   ]
+  },
+  {
+   "id": "eo",
+   "type": "speaking",
+   "title": "Expression orale",
+   "minutes": 12,
+   "tasks": [
+    {
+     "id": "EO1",
+     "title": "Tâche 1 — entretien dirigé",
+     "prep": 0,
+     "seconds": 120,
+     "prompt": "Présentez-vous. Pourquoi apprenez-vous le français ? Parlez de vos projets au Canada et de ce qui vous plaît dans votre métier."
+    },
+    {
+     "id": "EO2",
+     "title": "Tâche 2 — exercice en interaction",
+     "prep": 120,
+     "seconds": 210,
+     "prompt": "Document : « Agence Voyages Soleil — Circuit de 7 jours en Gaspésie, 1 290 $ tout compris. Départs chaque semaine en juillet et août. » Vous appelez l'agence. Posez 10 à 12 questions (ce qui est inclus, hébergement, repas, taille du groupe, annulation, réduction…)."
+    },
+    {
+     "id": "EO3",
+     "title": "Tâche 3 — expression d'un point de vue",
+     "prep": 0,
+     "seconds": 270,
+     "prompt": "« L'intelligence artificielle va remplacer les médecins. » Qu'en pensez-vous ? Défendez votre opinion."
+    }
+   ]
+  }
+ ]
+}

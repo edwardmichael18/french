@@ -1,0 +1,125 @@
+{
+ "id": "ee",
+ "title": "Writing",
+ "fr": "Expression écrite",
+ "icon": "✍️",
+ "summary": "Three tasks in 60 minutes, marked out of 20 by trained examiners. You need **10/20** for NCLC 7. It's the most template-friendly section: a fixed plan for each task, practised until it needs no thought, gets you most of the way.",
+ "facts": [
+  ["Duration", "60 minutes for all three tasks — you manage the time"],
+  ["Tâche 1", "**60–120 words** · a message: describe, tell or explain to a named reader (friend, neighbour, manager)"],
+  ["Tâche 2", "**120–150 words** · an article, blog post or letter: tell an experience and give your opinion"],
+  ["Tâche 3", "**120–180 words** · compare two short documents with opposite views (**40–60**), then argue your position (**80–120**)"],
+  ["Suggested split", "15 min · 20 min · 25 min"],
+  ["Scoring", "0–20, from task fulfilment, coherence, vocabulary and grammar"],
+  ["Your target", "**10/20** (NCLC 7 = 10–11) — aim for 12 in practice for margin"],
+  ["Re-marking", "Suspended from 1 Sep 2026 — a 9/20 stays a 9/20"]
+ ],
+ "format": [
+  {
+   "title": "What the examiners look for",
+   "body": "**Task fulfilment**: did you do *everything* the prompt asked, for the right reader, within the word range?\n**Coherence**: a clear plan, paragraphs, connectors used correctly.\n**Vocabulary**: precise words for the topic, nouns with the right gender, no English calques.\n**Grammar**: tenses (especially passé composé vs imparfait), agreements, pronouns, a few complex sentences.\nA simple, correct, complete text beats an ambitious one full of errors — but at 10+ you also need **some** complex structures (relative clauses, *si* clauses, a subjunctive after *il faut que*)."
+  },
+  {
+   "title": "Word counts are not optional",
+   "body": "**Below the minimum**, the task is judged incomplete and the score drops sharply. **Far above the maximum**, you waste time and add errors. Aim for the **middle** of each range: ~90 · ~135 · ~150.\nCount as you go: a line of handwriting is roughly 10–12 words. Practise here with the word counter so you learn what 120 words *looks* like."
+  },
+  {
+   "title": "Paper or keyboard?",
+   "body": "Depending on the centre, you may write by hand or type. **Check your convocation.** If you'll type, practise typing French accents now (é è à ç ê ô) — losing a minute per paragraph to accents adds up. If by hand, write legibly and leave space to correct."
+  }
+ ],
+ "lessons": [
+  {
+   "id": "format", "title": "The three tasks and how they're marked", "minutes": 8,
+   "steps": [
+    { "kind": "chunk", "title": "Three genres, three sizes", "body": "**T1 — message** (60–120): to one reader, practical, about you.\n**T2 — article/blog/letter** (120–150): a story from your life + your opinion, for readers.\n**T3 — compare + argue** (120–180): summarise two opposite documents (40–60 words) then give your argued view (80–120).\nEach one is graded on **task, coherence, vocabulary, grammar**." },
+    { "kind": "check", "q": "Tâche 3 asks for…", "options": ["A short summary of both documents, then your argued opinion", "Only your opinion", "A summary of the first document only"], "answer": 0, "explain": "Two parts: the two viewpoints (40–60 words, no opinion yet), then your position with arguments (80–120)." },
+    { "kind": "check", "q": "Your T2 piece is 98 words. What's the likely consequence?", "options": ["It's under the 120 minimum — the task is judged incomplete and the score drops", "No problem — shorter is better", "It gets a bonus for concision"], "answer": 0, "explain": "Below the minimum = task not fulfilled. Aim for ~135 words in T2." },
+    { "kind": "check", "q": "Which is the best time split for 60 minutes?", "options": ["≈ 15 · 20 · 25 minutes", "20 · 20 · 20 minutes", "10 · 10 · 40 minutes"], "answer": 0, "explain": "T3 is the longest and hardest to plan; T1 is short. Keep 3–4 minutes at the end of each to proofread." },
+    { "kind": "recap", "points": ["T1 60–120 · T2 120–150 · T3 120–180 (40–60 + 80–120).", "Graded on task, coherence, vocabulary, grammar.", "Below the minimum = big penalty. Aim for the middle of each range.", "Time: 15 / 20 / 25."] }
+   ]
+  },
+  {
+   "id": "register", "title": "Register: tu or vous, and the right openings", "minutes": 8,
+   "steps": [
+    { "kind": "chunk", "title": "Decide the reader before you write a word", "body": "**Friend / family** → *tu* · *Salut Marc ! / Coucou !* · *Bises / À bientôt / Je t'embrasse*\n**Neighbour, colleague you don't know well** → *vous* · *Bonjour Madame, / Chers voisins,* · *Bien cordialement*\n**Manager, company, administration** → *vous* · *Madame, Monsieur,* · *Cordialement* or *Je vous prie d'agréer mes salutations distinguées.*\n**Mixing tu and vous in one message is one of the costliest errors** — it breaks task fulfilment." },
+    { "kind": "check", "q": "You're writing to your building manager to report a leak. Which opening?", "options": ["Bonjour Madame, / Madame, Monsieur,", "Salut !", "Coucou Madame,"], "answer": 0, "explain": "A manager is a formal reader: *vous* and a formal greeting." },
+    { "kind": "check", "q": "Which closing matches a message to a close friend?", "options": ["Bises, / À bientôt !", "Je vous prie d'agréer mes salutations distinguées.", "Veuillez recevoir mes respects."], "answer": 0, "explain": "Formal closings in a friendly message sound strange and cost 'register' marks." },
+    { "kind": "check", "type": "gap", "q": "Formal: « ___ -vous me rappeler demain ? » (pouvoir, conditional — polite request)", "answer": ["Pourriez"], "explain": "*Pourriez-vous…* is the polite formula for requests to formal readers." },
+    { "kind": "recap", "points": ["Choose the reader → choose tu/vous → keep it **all the way**.", "Formal: *Madame, Monsieur,* … *Cordialement*.", "Friend: *Salut* … *Bises / À bientôt*.", "Polite requests: *Pourriez-vous… ? Je vous serais reconnaissant de…*"] }
+   ]
+  },
+  {
+   "id": "t1", "title": "Tâche 1: the five-part message", "minutes": 10,
+   "steps": [
+    { "kind": "chunk", "title": "One shape for every T1", "body": "1. **Greeting** (matches the reader)\n2. **Why you're writing** — *Je t'écris pour… / Je vous écris pour…*\n3. **Two or three details** — who, what, when, where\n4. **A request or question** — *Est-ce que tu pourrais… ? Pourriez-vous… ?*\n5. **Sign-off**\nThat's 60–120 words almost automatically. **Answer every part of the prompt**: if it says *describe, invite and give directions*, a missing *directions* is a missing third of the task." },
+    { "kind": "check", "q": "Prompt: *Écrivez à un ami pour lui décrire votre nouveau travail et lui proposer de déjeuner ensemble.* Which element is compulsory?", "options": ["Both a description of the job and a lunch invitation", "Only the description", "Only the invitation"], "answer": 0, "explain": "Count the verbs in the prompt: *décrire* + *proposer*. Each is a required part." },
+    { "kind": "check", "q": "Which sentence best states the purpose of a message cancelling a meeting?", "options": ["Je vous écris pour vous prévenir que je ne pourrai pas venir à la réunion de jeudi.", "Bonjour, ça va ?", "Jeudi, il y a une réunion."], "answer": 0, "explain": "Purpose sentence: *Je vous écris pour* + the action + the details (which meeting, when)." },
+    { "kind": "check", "type": "gap", "q": "« Je ___ (pouvoir, futur) pas venir demain. »", "answer": ["ne pourrai", "pourrai"], "explain": "*Je ne pourrai pas venir* — future of *pouvoir* is irregular: *pourr-*." },
+    { "kind": "recap", "points": ["Greeting → purpose → 2–3 details → request → sign-off.", "Count the verbs in the prompt: each is a required part.", "*Je t'écris / Je vous écris pour…* opens every T1."] }
+   ]
+  },
+  {
+   "id": "t2", "title": "Tâche 2: story + opinion (the PC/imparfait test)", "minutes": 12,
+   "steps": [
+    { "kind": "chunk", "title": "The shape", "body": "**Title** → **context** (when, where) → **what happened** → **your reaction** → **opinion + reason + example** → **conclusion / recommendation**.\nThe story is where tenses are judged: **imparfait** for the scene, background, feelings and habits (*il faisait beau, j'étais stressé*); **passé composé** for the events that move the story (*une voisine m'a présenté, nous avons dansé*)." },
+    { "kind": "check", "q": "*Quand je ___ (arriver), il ___ (pleuvoir).*", "options": ["suis arrivé · pleuvait", "arrivais · a plu", "suis arrivé · a plu"], "answer": 0, "explain": "Arriving = event (PC). The rain = background already in progress (imparfait).", "trap": "pcimp" },
+    { "kind": "check", "q": "*Pendant des années, je ___ (se coucher) tard.*", "options": ["me couchais", "me suis couché", "me coucherai"], "answer": 0, "explain": "A repeated habit in the past → imparfait.", "trap": "pcimp" },
+    { "kind": "chunk", "title": "Turning to opinion", "body": "Mark the turn clearly: *À mon avis, … / Selon moi, … / Je pense que…* + **one reason** (*parce que, car*) + **one example** (*Par exemple, …*). Then a closing line addressed to the readers: *Bref, je conseille à tous de… / N'hésitez pas à…*" },
+    { "kind": "check", "q": "Which sentence best starts the opinion part?", "options": ["À mon avis, ce type d'événement est essentiel dans les grandes villes, car beaucoup de gens vivent seuls.", "C'était super.", "Voilà mon histoire."], "answer": 0, "explain": "Opinion marker + a clear position + a reason, in one sentence." },
+    { "kind": "recap", "points": ["Title → context → events → reaction → opinion + reason + example → close.", "Imparfait = scene, feelings, habits · PC = events.", "Mark the opinion clearly: *À mon avis / Selon moi*."] }
+   ]
+  },
+  {
+   "id": "t3", "title": "Tâche 3: summarise without copying, then argue", "minutes": 14,
+   "steps": [
+    { "kind": "chunk", "title": "Part 1 (40–60 words): report, don't copy", "body": "Present **both** documents neutrally, **in your own words**. Useful reporting verbs: *Le premier document affirme / défend / présente… · Le second, en revanche, souligne / estime / met en garde contre…*\nCopying whole sentences from the documents is penalised. Change the structure: noun → verb, positive → negative, a synonym." },
+    { "kind": "check", "q": "Document: *« Le télétravail améliore la qualité de vie : moins de trajets. »* Best reformulation?", "options": ["Selon le premier document, travailler de chez soi permet de passer moins de temps dans les transports.", "Le premier document dit : « Le télétravail améliore la qualité de vie : moins de trajets. »", "Le télétravail, c'est bien."], "answer": 0, "explain": "Same idea, new words and structure, and it attributes the view (*Selon le premier document*)." },
+    { "kind": "chunk", "title": "Part 2 (80–120 words): take a side, then nuance", "body": "*Pour ma part, je pense que…* (clear position) → **argument 1 + example** → **argument 2** → **concession** (*Certes…, mais…*) → **conclusion** (*En somme, … / Ainsi, …*).\nA nuanced position is fine (*à condition que…*), but it must be **a position**. Sitting on the fence (*les deux ont raison*) with no conclusion scores low." },
+    { "kind": "check", "q": "Which is a real position?", "options": ["Pour ma part, je suis favorable au télétravail, à condition qu'il ne dépasse pas trois jours par semaine.", "Les deux documents ont des arguments intéressants.", "C'est une question difficile."], "answer": 0, "explain": "It takes a side and adds a condition. The others describe without deciding." },
+    { "kind": "check", "type": "gap", "q": "« Je suis favorable à cette mesure, à condition qu'elle ___ (être) bien expliquée. »", "answer": ["soit"], "explain": "*À condition que* + subjunctive: *qu'elle soit*." },
+    { "kind": "recap", "points": ["Part 1: both views, neutral, **own words**, 40–60 words.", "Part 2: position → 2 arguments + example → *Certes…, mais…* → conclusion.", "Nuance is good; no position is bad.", "Watch **both** word limits."] }
+   ]
+  },
+  {
+   "id": "connectors", "title": "Connectors by job", "minutes": 10,
+   "steps": [
+    { "kind": "chunk", "title": "Twelve that do most of the work", "body": "**Order:** d'abord · ensuite · enfin\n**Add:** de plus · en outre\n**Cause:** parce que · car · grâce à (+) · à cause de (–)\n**Consequence:** donc · c'est pourquoi · ainsi\n**Contrast:** mais · cependant · en revanche · pourtant\n**Concession:** certes… mais · bien que + subjonctif · même si + indicatif\n**Example:** par exemple · notamment\n**Conclude:** en somme · bref · pour conclure\nUse **different** ones: *mais, mais, mais* shows a narrow range." },
+    { "kind": "check", "q": "*Il a réussi ___ son travail régulier.* (positive cause)", "options": ["grâce à", "à cause de", "malgré"], "answer": 0, "explain": "*Grâce à* = thanks to (positive). *À cause de* is for negative causes." },
+    { "kind": "check", "q": "*___ il pleuve, nous sortirons.*", "options": ["Bien qu'", "Même s'", "Parce qu'"], "answer": 0, "explain": "*Bien que* + subjunctive (*pleuve*). *Même s'il pleut* would need the indicative." },
+    { "kind": "check", "q": "Which connector introduces an opposite idea?", "options": ["en revanche", "de plus", "ainsi"], "answer": 0, "explain": "*En revanche* = on the other hand. *De plus* adds; *ainsi* concludes." },
+    { "kind": "recap", "points": ["Vary connectors — range is graded.", "*grâce à* (+) vs *à cause de* (–).", "*bien que* + subjunctive · *même si* + indicative.", "*en revanche / cependant / pourtant* for contrast."] }
+   ]
+  },
+  {
+   "id": "proofread", "title": "The last 3 minutes: proofread for points", "minutes": 8,
+   "steps": [
+    { "kind": "chunk", "title": "A 7-point check", "body": "Keep 3 minutes per task to check, in this order:\n1. **Every part** of the prompt answered?\n2. **Word count** inside the range?\n3. **tu/vous** consistent?\n4. **Gender** of every noun + adjective agreement\n5. **PC vs imparfait** and **être** verbs (*je suis allé(e)*)\n6. **depuis + present** · *si* + present/imparfait (never conditional after *si*)\n7. **Accents** on the common words: *à, où, déjà, très, été, après*." },
+    { "kind": "check", "q": "Spot the error: *Si j'aurais le temps, je viendrais.*", "options": ["Si j'avais le temps", "je viendrai", "There's no error"], "answer": 0, "explain": "Never conditional after *si*: *Si j'avais… je viendrais*.", "trap": "si" },
+    { "kind": "check", "q": "Spot the error: *J'habite à Lagos depuis cinq ans et j'ai travaillé ici depuis deux ans.*", "options": ["je travaille ici depuis deux ans", "j'habitais", "There's no error"], "answer": 0, "explain": "*Depuis* + an ongoing situation = present tense.", "trap": "depuis" },
+    { "kind": "check", "q": "Spot the error: *Ma famille et moi, nous avons allés au marché.*", "options": ["nous sommes allés", "nous avons allé", "There's no error"], "answer": 0, "explain": "*Aller* takes *être* in the passé composé.", "trap": "avoiretre" },
+    { "kind": "recap", "points": ["Proofread 3 minutes per task — it's the cheapest score in the exam.", "Check: parts · words · tu/vous · gender · PC/imp · depuis & si · accents.", "Log every error you find in your **error log**."] }
+   ]
+  }
+ ],
+ "mistakes": [
+  { "title": "Missing part of the prompt", "why": "The prompt asks to describe AND invite; you only describe. Task fulfilment drops a band.", "fix": "Underline every verb in the prompt and tick each one off your plan." },
+  { "title": "Below the minimum word count", "why": "An incomplete task can't score well however good the French.", "fix": "Aim for the middle: ~90 / ~135 / ~150. Practise with the counter until you know the length by sight." },
+  { "title": "Mixing tu and vous", "why": "Register is part of task fulfilment.", "fix": "Decide the reader first; check tu/vous in the final proofread." },
+  { "title": "Tense errors in the story (T2)", "why": "PC vs imparfait is graded hardest in T2.", "fix": "Imparfait = scene/feelings/habits; PC = events. Drill the PC/imparfait trap.", "trap": "pcimp" },
+  { "title": "Copying the documents in T3", "why": "Copied sentences show no language of your own — and may not be counted.", "fix": "Reformulate: new structure, synonyms, reporting verbs (*affirme, souligne, estime*)." },
+  { "title": "No clear position in T3", "why": "*Les deux ont raison* without a conclusion reads as avoiding the task.", "fix": "*Pour ma part, je pense que…* in the first line of part 2 — nuance after." },
+  { "title": "Conditional after si", "why": "*Si j'aurais* is a very visible error at B1–B2.", "fix": "*Si* + present → future; *si* + imparfait → conditional.", "trap": "si" },
+  { "title": "English calques and faux amis", "why": "*actuellement* ≠ actually, *éventuellement* ≠ eventually, *assister* ≠ assist.", "fix": "Drill the faux-amis trap; keep a personal list in your error log.", "trap": "fauxamis" }
+ ],
+ "checklist": [
+  "Read the prompt twice; **underline every verb** — each is a required part.",
+  "Decide the **reader** → tu or vous → greeting and sign-off.",
+  "Write the plan in 1 minute (the template for that task).",
+  "Watch the clock: T1 ≈ 15 min, T2 ≈ 20, T3 ≈ 25.",
+  "Aim for the middle of each word range.",
+  "Keep 3 minutes per task to proofread: parts · words · tu/vous · gender · tenses · si/depuis · accents."
+ ],
+ "resources": ["reussir", "lepointdufle", "kwiziq", "italki", "fei", "manuel"],
+ "videos": ["i69IzXQ9de8"]
+}

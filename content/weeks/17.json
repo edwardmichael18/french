@@ -1,0 +1,42 @@
+{
+  "w": 17,
+  "title": "The error log · GATE 4",
+  "level": "B2",
+  "gate": 4,
+  "objective": "No new grammar except a short lower-B2 layer. Sort the error log by frequency, drill the top ten. Gate 4 — the last calm decision point.",
+  "tasks": [
+    "Error log: sort by frequency, take the top ten, build a drill for each",
+    "Timed mock (Mock B) — Gate 4",
+    "Gate 4 wellbeing check"
+  ],
+  "resources": ["fei", "didier"],
+  "steps": [
+    { "kind": "chunk", "title": "The highest-return week — if the log exists",
+      "body": "Open your **Error log**, sort by frequency, take the **top ten**. For each: write the rule in five words and five fresh sentences using it correctly. Say them aloud." },
+    { "kind": "produce", "mode": "write", "title": "Drill your #1 error",
+      "task": "Copy your most frequent error from the log. Write the rule, then five new correct sentences that use it.",
+      "prompt": "Mon erreur la plus fréquente : … Règle : … Cinq phrases :", "min": 30, "max": 150, "noFeedback": false },
+    { "kind": "chunk", "title": "The lower-B2 layer — and no further",
+      "body": "**Conditionnel passé**: *j'**aurais dû** · il **aurait fallu** · on **aurait pu***\n**si + plus-que-parfait** (one or two patterns): *Si j'**avais su**, je **serais venu**.*\n**Mise en relief**: *Ce qui me frappe, c'est … · C'est … qui …*\n**Concession**: *même si* (+ indicative) · *bien que* (+ subjunctive)\n**Hedging**: *Il me semble que … · Dans une certaine mesure … · Cela dépend de …*" },
+    { "kind": "drill", "title": "Lower-B2", "items": [
+      { "type": "mcq", "q": "Si j'avais su, je ___ plus tôt.", "options": ["serais venu", "suis venu", "viendrais"], "answer": 0, "trap": "si" },
+      { "type": "mcq", "q": "Il ___ prévenir le patient. (should have)", "options": ["aurait fallu", "faudrait"], "answer": 0 },
+      { "type": "mcq", "q": "Même si c'___ difficile, je continue.", "options": ["est", "soit"], "answer": 0, "explain": "*même si* + indicative (unlike *bien que*)." },
+      { "type": "mcq", "q": "Most B2-sounding opinion:", "options": ["Il me semble que, dans une certaine mesure, le télétravail isole.", "Le télétravail est mauvais.", "Le télétravail isole toujours tout le monde."], "answer": 0 }
+    ] },
+    { "kind": "chunk", "title": "Hedging scores. Absolutes don't.",
+      "body": "A nuanced position reads as **B2**; a flat one reads as **B1** however correct the grammar." },
+    { "kind": "chunk", "title": "Gate 4 · the last calm decision point",
+      "body": "Pass: **CO ≥ 458, CE ≥ 453** on a **timed** mock · EE tâche 2 at **10/20** · EO tâche 3 **sustained**.\n**One ability short: continue. Two or more: defer to April.**\n⚠️ Re-marking of speaking/writing is suspended for sessions from 1 Sep 2026 — there is no appeal behind this rule." },
+    { "kind": "recap", "points": [
+      "Top-ten errors → rule + five sentences each",
+      "Conditionnel passé · si + PQP · mise en relief · concession · hedging",
+      "Gate 4: CO 458 / CE 453 timed, EE T2 10/20, EO T3 sustained"
+    ] },
+    { "kind": "spiral", "title": "Everything", "items": [
+      { "type": "mcq", "q": "Je vis au Nigeria ___ ma naissance.", "options": ["depuis", "pendant", "pour"], "answer": 0, "trap": "depuis" },
+      { "type": "mcq", "q": "Tu sais ___ nager ?", "options": ["—", "à", "de"], "answer": 0, "explain": "*savoir* + bare infinitive.", "trap": "savoir" },
+      { "type": "mcq", "q": "J'ai décidé ___ partir.", "options": ["de", "à", "—"], "answer": 0, "trap": "preposition" }
+    ] }
+  ]
+}
